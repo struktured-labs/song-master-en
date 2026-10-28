@@ -24,6 +24,14 @@ def tagbytes(t):
         b = bytes([0xFD, int(m.group(1), 16)])
         return b + (bytes([int(m.group(2), 16)]) if m.group(2) else b'')
     return bytes([0xFD, RTAG[t]])
+TERMW = {}  # display width of list words (script/en/lists.json)
+def _termw():
+    import json, os
+    f = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../script/en/lists.json')
+    if not os.path.exists(f): return
+    for code, name in (('FD0E', 'places'), ('FD0F', 'terms'), ('FD10', 'items'), ('FD11', 'magic'), ('FD12', 'monsters')):
+        for i, e in enumerate(json.load(open(f)).get(name, [])): TERMW['%s:%02X' % (code, i + 1)] = len(e)
+_termw()
 def wrap(s, width=WIDTH):
     """re-flow text between [n] tags: words never split; continuation lines indented by one space."""
     out = []; col = 0
@@ -32,11 +40,12 @@ def wrap(s, width=WIDTH):
         if tk[0] == 'ch': return 1
         if tk[1].startswith('name'): return NAMEW
         if tk[1] == 'tab': return 5
+        if tk[1][:5] in ('FD0E:', 'FD0F:', 'FD10:', 'FD11:', 'FD12:'): return TERMW.get(tk[1], 8)
         return 0
     # group into words
     words = []; cur = []
     for tk in toks:
-        if tk == ('ch', ' ') or (tk[0] == 'tag' and tk[1] in ('n', 'wait', 'LINE', 'END', 'FD31')):
+        if tk == ('ch', ' ') or (tk[0] == 'tag' and tk[1] in ('n', '0C', 'wait', 'LINE', 'END', 'FD31')):
             if cur: words.append(('w', cur)); cur = []
             words.append(('sep', tk))
         else: cur.append(tk)
@@ -48,7 +57,7 @@ def wrap(s, width=WIDTH):
                 pending_space = col > 0
                 continue
             res.append(x)
-            if x[1] == 'n': col = 0
+            if x[1] in ('n', '0C'): col = 0
             pending_space = False
             continue
         w = sum(width_of(t) for t in x)

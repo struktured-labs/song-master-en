@@ -35,7 +35,7 @@ So you returned safely.~
 >07e5149dcc
 [n]"Well, did you learn
  anything?~[0C] ^0 explained everything
- that had happened.~[0C]%Robinton:"Lord [c1]Usar[c0][FD0F:3D]~
+ that had happened.~[0C]%Robinton:"Lord [c1]Uther[c0][FD0F:3D]~
 %Fern:"I see[FD0F:3D]~
 %Robinton:"Just when things were
  getting started, again[FD0F:3D]~

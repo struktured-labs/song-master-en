@@ -12,3 +12,9 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 - Term-list fragments (FD0F:28 ありがとう, 29 わたしは, 3D ・・・ etc.) are inlined as English where possible. The b00 list will be translated separately.
 - b05 40cde41361: the hero's surname フェルム is rendered "Ferm" (tentative).
 - b05 3899c61324: the ranks are Bard < Singer < Song Master.
+
+## Word lists (FD0E-FD12)
+- Dialogue codes FD0E places / FD0F terms / FD10 items / FD11 magic / FD12 monsters now read from English tables in ROM bank $3C (asm `lh_*`, built from `script/en/lists.json`; lists not yet translated fall back to the JP bytes). The JP lists at $7E:D000 are untouched (other code may use them; the RAM after them is in use, so they can't grow).
+- Encoder: `[0C]` (new window page) resets the wrap column; list codes count as their English length.
+- Visual check: `tools/test/preview.sh UID out.png` puts any string into the first classroom line and makes a contact sheet. Viewed: 07e5149dcc (b09 Robinton/Ferion scene) - wraps cleanly, list dots render as "...".
+- Doubtful: 3446a4b544 (Devi choice menu, keeps "-・" prefix); 44396273ce replaced FD0F:2A with plain text; Fern/Exelion/Amsia romanizations tentative.

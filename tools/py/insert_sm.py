@@ -36,6 +36,8 @@ for f in sorted(glob.glob(ROOT + '/script/en/t_*.txt')):
             h=l[1:].split(); cur=h[0] if h else None; nw=('!' in h) or ('nowrap' in f); body=[]
         elif l.strip() or body: body.append(l.rstrip())
     while 0: pass
+if os.environ.get('SM_PREVIEW'):  # test only: show another string in the first classroom line
+    EN['e58f49c110']=dict(EN[os.environ['SM_PREVIEW']])
 def lo(bank, a): return (bank & 0x7F) * 0x8000 + (a & 0x7FFF)
 # --- strings: banks $20-$2F; pointer table $20:8000 (3 bytes * 0x800)
 ids = {}; sdata = []
@@ -45,6 +47,7 @@ def sid(uid):
     return ids[uid]
 bank, addr = 0x20, 0x8000 + 0x800 * 3
 def block0(d):
+    global BLOCK0_RAW; BLOCK0_RAW = bytes(d)
     """rebuild the word lists in place; each list must fit its original byte budget (offsets are hard-coded)."""
     f = ROOT + '/script/en/b00_lists.json'
     if not os.path.exists(f): return bytes(d)
@@ -87,7 +90,7 @@ bank, addr, idx = 0x30, 0x8000 + 0x100, 0
 for i, b in enumerate(newblocks):
     blob = bytes([(len(b) - 1) & 0xFF, (len(b) - 1) >> 8]) + b
     if addr + len(blob) > 0x10000: bank += 1; addr = 0x8000 + 0x100; idx = 0
-    assert bank < 0x3F
+    assert bank < 0x3C  # $3C lists, $3E names, $3F code
     rom[lo(bank, addr):lo(bank, addr)+len(blob)] = blob
     t = lo(bank, 0x8000) + 2 * idx; rom[t:t+2] = bytes([addr & 0xFF, addr >> 8])
     rom[0x6C59 + 2*i] = idx; rom[0x6C5A + 2*i] = bank
@@ -109,5 +112,24 @@ f = ROOT + '/script/en/names.json'
 if os.path.exists(f):
     nb = b''.join(encode(x, False) + b'\xff' for x in json.load(open(f)))
     rom[0x1F0000:0x1F0000+len(nb)] = nb
+# --- dialogue word lists -> bank $3C (asm lh_* hooks). English from script/en/lists.json, else raw JP entries.
+LE = json.load(open(ROOT + '/script/en/lists.json'))
+b0 = load(0)[0] if False else None
+jl = json.load(open(ROOT + '/script/jp/b00_lists.json'))
+B0RAW = BLOCK0_RAW
+tab = bytearray(0xA00); dat = bytearray(); base = 0x8A00
+for k, name in enumerate(['places', 'terms', 'items', 'magic', 'monsters']):
+    J = [x for x in jl if x['list'] == name][0]
+    a = int(J['offset'], 16); raw = bytes(B0RAW[a:a+J['budget']]).split(b'\xff')
+    n = len(J['entries']) - 1
+    en = LE.get(name, [])
+    assert not en or len(en) == n, (name, len(en), n)
+    for i in range(n):
+        e = encode(en[i], False) if en else raw[i]
+        assert len(e) < 0x30, (name, i)
+        p = base + len(dat); tab[k*0x200 + i*2: k*0x200 + i*2 + 2] = bytes([p & 255, p >> 8])
+        dat += e + b'\xff'
+assert base + len(dat) <= 0x10000
+rom[0x1E0000:0x1E0000 + 0xA00] = tab; rom[0x1E0A00:0x1E0A00 + len(dat)] = dat
 open(sys.argv[2], 'wb').write(rom)
 print('strings %(strings)d translated %(en)d' % stats, 'unique ids', len(ids), 'str bank end %02X:%04X' % (bank, addr), 'over', stats['blocks_over'])

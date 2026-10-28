@@ -16,3 +16,26 @@
 | ユリアン | Yurian | what Ahharu calls the hero |
 | ソングマスター | Song Master | |
 | リザレクション | Resurrection | spell |
+| name8 | Ferion | Yury's master (name from ROM name table) |
+| フェルン | Fern | elder of Acron (tentative) |
+| ウーサー | Uther | (terms 02) Arthurian naming in this game |
+| アルビオン | Albion | |
+| コルマン王 | King Colman | Tiris Noah king |
+| ジョン王 | King John | of Barnicia |
+| サイベル女王 | Queen Cybele | |
+| リンベルト王 | King Rimbelt | Northumbria |
+| マクファーソン | McPherson | |
+| なぞの騎士 | Mystery Knight | |
+| エクセリオン | Exelion | ancient people tied to Yury's pendant (tentative) |
+| トマス / デヴィ | Thomas / Devi | Tiris Noah side quest |
+| アムシア | Amsia | wind blessing; also アムシアのごふ |
+| アクローン | Acron | country; capital エルース・ノア Elles Noah |
+| アルスター | Alster | port |
+| ファローン | Farlon | |
+| ノーザンブリア | Northumbria | |
+| クロワドール | Croixdor | enemy nation |
+| バーニシア / クーレア / リムリック | Barnicia / Kulea / Limerick | |
+| グロアスティル山 | Mt. Gloastill | Ice Dragon |
+| ティルナノーグ | Tir na Nog | elf land |
+| (all 70 places, 67 terms) | see script/en/lists.json | dialogue word lists, read from ROM $3C |
+| name3 | Eiria | Elf queen (from ROM name table) |

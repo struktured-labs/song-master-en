@@ -76,3 +76,85 @@ fdhook:
 ; default party names read from $3E:8000 (English, longer than the JP table at $00:BC5F)
 org $00BC14
   LDA $3E8000,x
+
+; ---- dialogue word lists (FD0E..FD12) read from English tables in ROM $3C instead of the JP lists at $7E:D000
+; tables: $3C:8000 + id*$200 = 2-byte pointers (1-based index), strings FF-terminated in bank $3C.
+!LBUF = $97C0       ; DB=$7E here
+!LY = $97F4
+!LT = $97F6
+org $02B088         ; places (A = index)
+  JSL lh_places
+  JSR $B0F5
+  BRA $02B09A
+org $02B093         ; terms
+  JSL lh_terms
+  JSR $B0F5
+  JSL lh_rest       ; $02B09A
+  RTS
+org $02B0B2         ; items
+  JSL lh_items
+  JSR $B0F5
+  JSL lh_rest
+  RTS
+org $02B0D1         ; magic
+  JSL lh_magic
+  JSR $B0F5
+  JSL lh_rest
+  RTS
+org $02B0E8         ; monsters
+  JSL lh_mons
+  JSR $B0F5
+  JSL lh_rest
+  RTS
+
+org $3F8200
+lh_places:
+  LDX #$0000
+  BRA lh_common
+lh_terms:
+  LDX #$0200
+  BRA lh_read
+lh_items:
+  LDX #$0400
+  BRA lh_read
+lh_magic:
+  LDX #$0600
+  BRA lh_read
+lh_mons:
+  LDX #$0800
+lh_read:
+  LDA $0000,y
+  INY
+lh_common:
+  STY !LY
+  REP #$20
+  AND #$00FF
+  BEQ .none
+  DEC A
+  ASL A
+  STA !LT
+  TXA
+  CLC
+  ADC !LT
+  TAX
+  LDA $3C8000,x
+  TAX
+  SEP #$20
+  LDY #$0000
+.cp:
+  LDA $3C0000,x
+  STA !LBUF,y
+  INX
+  INY
+  CMP #$FF
+  BNE .cp
+  LDY #!LBUF
+  LDA #$01
+  RTL
+.none:
+  SEP #$20
+  LDA #$00
+  RTL
+lh_rest:
+  LDY !LY
+  RTL
