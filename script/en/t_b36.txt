@@ -16,7 +16,7 @@
 "Sorry to keep you! Here you
  are!!~
 >75efe961db
-[0C]"[FD0F:28] very much.
+[0C]"Thank you very much.
 >e2de82839c
 "This is the
  [c2][[FD10:8E]][c0] office.~
@@ -111,7 +111,7 @@ Ahead lies the castle of
  [c1][FD0F:0B][c0]! No suspicious
  persons shall pass!!
 >6fc0ad9d57
-~[0C]%{1}:"[FD0F:29] ^1.~
+~[0C]%{1}:"I am ^1.~
 "I have come to request an
  audience with
  [c1][FD0F:0B][c0].~[0C]%Guard:"You are the [c1]fairy
@@ -155,7 +155,7 @@ Please! Go on through!!
 >cae7770e94
 "[c2][FD0E:20][c0] is split into
  east and west by the
- river, [FD0F:39]~
+ river, you know.~
 "It's big, so try not to get
  lost.
 >b8869294c9
@@ -217,7 +217,7 @@ Huff! Huff! Huff! But it's
  if we learn anything, so
  please drop by again.
 >49d61d91c3
-%{1}:"^0! In fact, [FD0F:29]
+%{1}:"^0! In fact, I'm
  acquainted with
  [c1][FD0F:0B][c0], and as you
  heard, the [c1][FD0F:05][c0]
@@ -280,7 +280,7 @@ Huff! Huff! Huff! But it's
 >4b4db1e1ec
 "Odd room, isn't it?~
 "It's built just like the
- inside of a ship, [FD0F:39]
+ inside of a ship, you know.
 >71404f8f3a
 "This is the sailors'
  lodging.
@@ -308,7 +308,7 @@ Huff! Huff! Huff! But it's
  [c2][FD0F:01][c0].~
 "[c2][FD0E:3A][c0], where
  [c2][FD0E:2E][c0] is, lies far
- north in the sea, [FD0F:39]
+ north in the sea, you know.
 >6890f9750c
 Take good care of it!!
 >a40a9c3968
@@ -453,6 +453,6 @@ Who'd have thought
  all about you.~
 "Not here. Could you come to
  the [c2][FD0F:25][c0]?
-~"[FD0F:29] heading there
+~"I'm heading there
  ahead of you. See you
  there.

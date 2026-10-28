@@ -22,7 +22,7 @@
 "You're
 >37941e16b5
 ...?~
-%Remi:"[FD0F:29] [c1]Remi[c0]. On my way
+%Remi:"I'm [c1]Remi[c0]. On my way
  home to [c2][FD0E:03][c0],
 >32a7f186f2
 "Th-they got me...~
@@ -113,13 +113,13 @@ The [FD0F:2B] was attacked by
  sleep with magic. ^0!
  I'll get you out now.
 >03550e9fae
-%{0}:"^7! [FD0F:28]!![n]
+%{0}:"^7! Thank you!![n]
 >93df472771
  Come on! You too, [c1]Remi[c0],
  hurry outside!!~
 [n]
 >61a4c851b4
-%Remi:"[FD0F:28]!~
+%Remi:"Thank you!~
 %{7}:"
 >497aa5ab53
 ...Who's this?~

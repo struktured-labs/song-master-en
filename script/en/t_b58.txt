@@ -25,7 +25,7 @@
  time! Let us begin the
  [c2]Rite of Departure[c0]!!
  I shall go with you!!~
-%{1}:"[c1]^3[c0], [FD0F:29] intend
+%{1}:"[c1]^3[c0], I intend
  to undergo rebirth once
  more.~
 >3f5c35073d
@@ -56,15 +56,15 @@
  fails, the soul is trapped
  in a void of darkness,
  wandering forever.~[0C]%{0}:"No[FD0F:3D]~
-"[c1]^1[c0]! [FD0F:2A] taking
+"[c1]^1[c0]! How can you take
  such a risk[FD0F:3D]~
 %{1}:"It's all right.
- [FD0F:29] will come back!!~
+ I will come back!!~
 "No! I must come back!!~
 %{8}:"But is that not far too
  reckless?~
 >767edf8df0
-[0C]%{3}:"My king! [FD0F:29] am
+[0C]%{3}:"My king! I am
  afraid of losing
  you[FD0F:3D]~
 %{1}:"I feel none of this is
@@ -73,7 +73,7 @@
  return to this world!!~[0C]%{3}:"I understand, my king!!~
 "Let us begin the
  [c2]Rite of Rebirth[c0].~
-%{1}:"[FD0F:28],
+%{1}:"Thank you,
  [c1]^3[c0]!!~
 "Don't worry about me.~
 "In my place, go with
@@ -90,7 +90,7 @@
 [n]%{3}:"The rebirth has begun.~
 "It will take some time
  before it is complete.~
-"Until then, [FD0F:29] will
+"Until then, I will
  serve in the king's
  place.~
 "Come! Let us go!!~[0C]%{7}:"Right! Back to
@@ -195,7 +195,7 @@
 "Hyoooooooh!!
 >4a2ffb7f9b
 %{6}:"Lord [c1][FD0F:02][c0]!!~[0C][c1][FD0F:02][c0][n]"...Ah, [c1]^6[c0][FD0F:3D]~[0C]%{6}:"Hold on!!~
-[c1][FD0F:02][c0][n]"...[FD0F:29] cannot be
+[c1][FD0F:02][c0][n]"...I cannot be
  saved now[FD0F:3D]~
 "...[c1]^0[c0]... any...
  clues...?~
@@ -266,7 +266,7 @@
  [c1]Excelion[c0] holds many
  mysteries.
 >62edc061c1
-"[FD0F:29] research the
+"I research the
  events of about the last
  100 years.
 >e72da8f3bc
@@ -276,7 +276,7 @@
 "The [c2]temple[c0] here in
  [c2][FD0E:2E][c0] honors
  [c1]Fariga[c0], god who guards
- the sea[FD0F:39]
+ the sea.
 >6fefe659f4
 "They say [c2][FD0E:2E][c0] is
  protected by a barrier.

@@ -25,7 +25,7 @@ Seems not all humans are
 We can go no further. We're
  counting on you.
 >d8df283645
-[FD0F:28]! You saved us!!
+Thank you! You saved us!!
 >ef6c5fa055
 [c1][FD0F:0A][c0][n]"This is [c2][FD0E:37][c0]! The
  town ruled by the great
@@ -128,4 +128,4 @@ What is it? Is the [c1]prince[c0]
 >3ee442bf2b
 I pray you make it through
  safely.~[0C]%Prince:"[FD0F:43]Everyone,
- [FD0F:28]!!
+ Thank you!!

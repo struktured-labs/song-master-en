@@ -295,7 +295,7 @@
 "The [c2]Orb[c0] was stolen,
  but thanks to you we caught
  the [c1][FD0F:14]s[c0] in one
- sweep. My thanks.~[0C]%{0}:"[FD0F:28].~
+ sweep. My thanks.~[0C]%{0}:"Thank you.~
 "We'd like to hurry back to
  [c2][FD0E:20][c0] and report
  what happened.~[0C][c1]King [FD0F:03][c0][n]"Now that we know of a

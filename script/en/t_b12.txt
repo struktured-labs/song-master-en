@@ -20,7 +20,7 @@
 >736b78319e
 "This is the post for the
  [c1][FD0F:0A][c0] hunting party.~
-"[FD0F:29] the captain, [c1]Hans[c0].
+"I'm the captain, [c1]Hans[c0].
 >41cded83ad
 ~[0C]"I see, understood! You're
  ready for this, I trust?~[0C]"Then take this money and
@@ -73,7 +73,7 @@ Then go talk to the hunting
 You've done so much for us,
  my daughter included.
  Let me thank you!
- [FD0F:28]!!
+ Thank you!!
 >70b4fe2ed9
 "We must act as quickly as
  we can[FD0F:3D]
@@ -105,7 +105,7 @@ You've done so much for us,
 %Remi:"....All right.~
 "Then take this with you!!~
 >da97dff44e
-[0C]%{7}:"[FD0F:28]![n]
+[0C]%{7}:"Thank you![n]
 >18ddaba2e4
  Come on! Let's go!!
 >b4ef6eb673
@@ -134,4 +134,4 @@ My childhood friend [c1]Remi[c0]
  [c1][FD0F:0A]s[c0][FD0F:3D]
 >0a77b11a89
 I hear you saved [c1]Remi[c0]!
- [FD0F:28]!!
+ Thank you!!

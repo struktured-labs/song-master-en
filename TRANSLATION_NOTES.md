@@ -42,3 +42,13 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 - [FD12:3A] "Lamia" (monster list) is also the name of the panther-shifter woman (lycanthrope). Sam = King Eric of Farlon undercover; Eleus = "Baron Goza", his uncle.
 - b44 informant menu aa86a72fc4 translated with prefix [x4D][x4F][x4C].
 - Viewed: cfa90e6a19 (b36), 8768f51943 (b44) - clean wrapping.
+
+## FD0F dictionary fragments (fixed e.g. in b58 review)
+FD0F:28/29/2A/39 are JP compression fragments ("thank you", "I am", "you are", "you see."), NOT names.
+Earlier blocks used them as pronoun placeholders, producing "I am cannot", "I am intend" etc.
+All uses replaced with plain English across t_b*.txt (verified visually on Uther's death scene).
+Avoid FD0F:28-2A, 39-43 in English; write the text out.
+
+## b58-b65 notes
+Re-read against the dump. The "ancient Marsha Empire" (こだい[FD0E:42]てい国) is literal per the game, kept.
+Fern (フェルン) is tentative. Uther (FD0F:02) is high priest of Elles Noah's temple of Fariga.

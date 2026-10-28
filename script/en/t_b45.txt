@@ -180,7 +180,7 @@
 "And on the right, the
  younger, [c1][FD0F:24][c0],
  [c2]captain of the royal
- guard[c0].~[0C]%{1}:"[FD0F:29] [c1]^1[c0], king of
+ guard[c0].~[0C]%{1}:"I am [c1]^1[c0], king of
  the elves.~
 "And this is the
  [FD0F:27] [c1]^0[c0], and
@@ -325,7 +325,7 @@
  daughters!!~
 "[c1]^4[c0], do as you
  wish.~
-%{4}:"Father! [FD0F:28]!!~
+%{4}:"Father! Thank you!!~
 >6ff01ce4b2
 [n]"Everyone! Nice to have
  you!!

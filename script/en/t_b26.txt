@@ -13,7 +13,7 @@
 "None may pass without
  business here!!
 >1fc62e82f0
-"[FD0F:29] on patrol in the
+"I'm on patrol in the
  town.
 >3337de8a1e
 "They say lots of people
@@ -41,7 +41,7 @@ Youth
 [c1]Eddie[c0][n]
 >1174e47088
 "We've been expecting you,
- ^0! [FD0F:29] [c1]Eddie[c0],
+ ^0! I'm [c1]Eddie[c0],
  in charge here.~
 "Straight to business: about
  ^8, as [c1][FD0F:1C][c0]

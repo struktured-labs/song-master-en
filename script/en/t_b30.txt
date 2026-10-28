@@ -63,7 +63,7 @@ Aww! I got caught[FD0F:3D]~
 "So it's you[FD0F:3D]~
 "...The village burned
  because of me[FD0F:3D]~
-"Because of me[FD0F:3C]~[0C]%{0}:"[FD0F:2A] ^8,
+"Because of me[FD0F:3C]~[0C]%{0}:"You're ^8,
  aren't you[FD0F:3D]~[0C]"...No point hiding it
  now[FD0F:3D] Yes, I am ^8.~[0C]%{0}:"Please tell us what
  happened.~[0C]%{8}:"After you came to me, I
@@ -132,7 +132,7 @@ Aww! I got caught[FD0F:3D]~
  [c2][FD0E:45][c0].~[0C]%{8}:"....Very well. If this
  old man's strength can be
  of use[FD0F:3C]~
-%{0}:"[FD0F:28]!~
+%{0}:"Thank you!~
 "Also, I'm still green as
  a [FD0F:27].~
 "If you're willing, please
@@ -142,7 +142,7 @@ Aww! I got caught[FD0F:3D]~
  Can you keep up?~
 %{0}:"Yes!!~[0C]%{8}:"Very well! I shall teach
  you all I know!!~
-%{0}:"[FD0F:28], Master!!~
+%{0}:"Thank you, Master!!~
 >cf7ab767c5
 [n]%{4}:"That's wonderful, ^0!!~
 "Now! Let's go back to

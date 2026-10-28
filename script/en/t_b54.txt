@@ -83,7 +83,7 @@ We were tricked by
 "Look into the
  [c1]Excelion[c0] and you
  should learn something!!~
-%{0}:"[FD0F:28],
+%{0}:"Thank you,
  [c1][FD0F:23][c0]!!~[0C]"Also, the reason we came
  here: we are hurrying to
  [c2][FD0E:29][c0]!!~
@@ -299,7 +299,7 @@ Oh, it's you! Go on down
  right, and you'll reach the
  room where the [c2]Orb[c0]
  rests!!~
-"[FD0F:29] will lead everyone
+"I will lead everyone
  back to the castle with
  [c1]Libra[c0]!!~
 "I'm counting on you!!

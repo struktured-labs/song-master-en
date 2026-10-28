@@ -26,7 +26,7 @@
  [c2][[FD10:94]][c0].~[0C]%{7}:"I see[FD0F:3D] Then who!?
  Who did this!?~
 %{1}:"In any case, go back to
- town. [FD0F:29] going to
+ town. I'm going to
  seal this cave first.
 >28c57e9c0e
 ~[0C]"Oh? You seem quite weak.

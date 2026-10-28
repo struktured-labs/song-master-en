@@ -13,7 +13,7 @@ In return for not attacking
  young girl as a
  sacrifice[FD0F:3D]
 >2fe31cf303
-[FD0F:28]! Thanks to you, the
+Thank you! Thanks to you, the
  village is saved!!
 >d34539bb1e
 For [c2][FD0E:25][c0], go out
@@ -23,7 +23,7 @@ For [c2][FD0E:25][c0], go out
 Go south for
  [c2][FD0E:03][c0].
 >f5c92d9b36
-%Laura:"[FD0F:28]! I'll never
+%Laura:"Thank you! I'll never
  forget your kindness!!
 >3f42c0fdf9
 "This is [c2][FD0E:22][c0]! A
@@ -58,11 +58,11 @@ You'll save my
  daughter[FD0F:3F]~
 "
 >df88f450d8
-[FD0F:28]! [c2][FD0E:24][c0] is
+Thank you! [c2][FD0E:24][c0] is
  in the northern
  mountains!!
 >6d1a270779
-[FD0F:28]!! I don't know how
+Thank you!! I don't know how
  to thank you[FD0F:3D]~
 "Please take this as
  thanks!!~
@@ -119,7 +119,7 @@ The girl from the house to
 [x8D][x8E]Can't ignore this!
  No time for that!
 >504a0bdad4
-[0C]"Mister! [FD0F:28]!!~
+[0C]"Mister! Thank you!!~
 "
 >8945251751
 [0C]"Meanie!!
@@ -128,7 +128,7 @@ Talk to the man in the
  house to the south!!
 >dffe3f2b91
 You saved her!
- [FD0F:28]!!
+ Thank you!!
 >ea60729d6f
 Stupid [c1][FD12:5C][c0]!
  Someday I'll beat it!!
@@ -222,7 +222,7 @@ That [c1][FD0F:19][c0]! What an
  outrageous thing he did!!
 >e9d7eb0d64
 I collect
- [c2][xA4]Charms[xA5][c0][FD0F:39]~
+ [c2][xA4]Charms[xA5][c0], you know.~
 "Got any [c2][xA4]Charms[xA5][c0]?~
 >bee9fc04ef
 [0C]"Amazing!! Trade me those 4

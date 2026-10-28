@@ -100,7 +100,7 @@ What? You want to talk to a
 >d389ccdd3e
 By [c1]King [FD0F:03][c0]'s order,
  we've stepped up security
- in town, [FD0F:39]~
+ in town, you know.~
 "Thanks to that, the cells
  are never empty.
 >409e7b5110
@@ -167,7 +167,7 @@ Seems the [c1][FD0F:09][c0] got
  money[FD0F:3D]
 >387043749c
 [0C] ^0 donated 100
- [FD0F:08]!!~[0C]"[FD0F:28] very much.~
+ [FD0F:08]!!~[0C]"Thank you very much.~
 "Your goal will surely be
  achieved.
 >b311ec3f3f

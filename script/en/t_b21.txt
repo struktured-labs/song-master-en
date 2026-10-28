@@ -72,7 +72,7 @@ m[FD0F:41]
  safely. As promised, we
  shall make peace with the
  humans.~
-%{1}:"[FD0F:28], [c1][FD0F:06][c0].
+%{1}:"Thank you, [c1][FD0F:06][c0].
  But the [c2]Orb[c0] was taken
  away[FD0F:3D]~
 [c1][FD0F:06][c0][n]"Losing the [c2]Orb[c0] granted
@@ -130,7 +130,7 @@ m[FD0F:41]
 [c1][FD0F:06][c0][n]"Mm! I wish you a safe
  journey. Farewell!!
 >960518d501
-[0C]%Remi:"Everyone, [FD0F:28] so
+[0C]%Remi:"Everyone, Thank you so
  much.~
 "I think the village will be
  back to normal now. If you

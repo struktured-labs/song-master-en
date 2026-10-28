@@ -98,7 +98,7 @@ All is well!!
 >e5d56b7aec
 In this cell is a rare beast
  called a [c1]black
- panther[c0], [FD0F:39]~
+ panther[c0], you know.~
 "It's not tame yet, so it's
  dangerous!!
 >f53985bbb7
@@ -132,7 +132,7 @@ The castle's security was
  supposed to be
  perfect[FD0F:3C]
 >a02442ef8b
-[FD0F:28].
+Thank you.
 >c48bb40a94
 The [c1]guard captain[c0] thinks
  the [FD0F:18] is hiding
@@ -198,7 +198,7 @@ Oh! Everyone!! Sorry to have
  a thing of guests[FD0F:3D]~
 %{4}:"[c1]Father[c0]! Why not let
  them help!!~
-"[FD0F:29] sense some
+"I sense some
  mysterious power in these
  people.~[0C][c1][FD0F:0B][c0][n]"Hmm. If ^4 says
  so[FD0F:3D]~

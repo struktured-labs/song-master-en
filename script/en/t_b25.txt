@@ -4,7 +4,7 @@
 If you're done, don't come
  back!!
 >878eb79cec
-"[FD0F:29] not the [c1][FD0F:09][c0]!!~
+"I'm not the [c1][FD0F:09][c0]!!~
 "The [c1][FD0F:09][c0] was in
  with the [c1][FD0F:14]s[c0]!!
 >ba785c12e2
@@ -188,7 +188,7 @@ Welcome!!
  throne.~
 "[c1]King [FD0F:03][c0] adores ^2,
  and rules well despite his
- youth, [FD0F:39]
+ youth, you know.
 >e01fa3ae6c
 Lately [c1]King [FD0F:03][c0]'s
  crackdown is tough, so
