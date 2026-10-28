@@ -61,7 +61,7 @@ All is well!!
 "We had it examined: it's
  the crest of the [c2]Thieves'
  Guild[c0], rooted in
- [c2][FD0E:11][c0].~[0C]%{0}:"The [c2][FD0F:14] Guild[c0]!?~
+ [c2][FD0E:11][c0].~[0C]%{0}:"The [c2]Thieves' Guild[c0]!?~
 [c1][FD0F:0B][c0][n]"You know something, Sir
  ^0!!~[0C]%{0}:"Yes! In fact, we meant to
  go to [c2][FD0E:3F][c0], the

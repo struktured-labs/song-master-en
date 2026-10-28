@@ -6,7 +6,7 @@
  [c1][FD0F:0B][c0].
 >4ec4d3b820
 "At last we've wiped out the
- [c2][FD0F:14] Guild[c0].
+ [c2]Thieves' Guild[c0].
 >822db91828
 %Gatekeeper:"Halt! This is the castle
  of [c2][FD0E:15][c0]!!~

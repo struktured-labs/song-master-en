@@ -27,7 +27,7 @@
  outside.
 >45eadb151d
 %{7}:"Now! Start talking!!~[0C]%{5}:"[c1][FD0F:04][c0] runs the
- [c2][FD0F:14] Guild[c0].~
+ [c2]Thieves' Guild[c0].~
 "I took a job from him.~
 "To nab the [c2]Orb[c0] of
  the [c1][FD0F:0A]s[c0]!!~
@@ -110,7 +110,7 @@
  the home of the [c2]Thieves'
  Guild[c0].~
 "And the head of the
- [c2][FD0F:14] Guild[c0] is
+ [c2]Thieves' Guild[c0] is
  Lord [c1][FD0F:04][c0]!!
 >352c36b011
 [c1][FD12:3A][c0][n]"I botched killing the

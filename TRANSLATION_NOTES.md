@@ -224,3 +224,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## Chunk 12 (b28 70 – b2a 05), viewed
 - Log lines 533–592 viewed (sheets c1200–c1207). Stagecoach 500G prompt + Lancafarn/Alster map boxes, tavern, Alster castle guards, black panther cell, King Colman/Orb, kitchen all render cleanly.
 - Fix: "[FD0F:14] Guild" (thief term + Guild) broke the line early like the old-man term ("thief / Guild" on its own lines). Replaced with literal "Thieves' Guild" in b36/b41/b44. b28 e2 queued in recheck.
+
+## Chunk 13 (b2b 01 – b2f 8a), viewed
+- Log lines 593–662 viewed (sheets c1300–c1309). Dorfas thieves' town, shops, informant, Lamia/Sam/King Eric, Marsha knights, Alster/Triangle/Lesa map boxes, Lismore Troll arc, "Got 5000G!", "Object Clear x1 obtained!" all render cleanly.
+- Consistency: the rest of the "[FD0F:14] Guild" uses (b26/b41/b44) now read "Thieves' Guild", replacing "thief Guild" (seen at b2c 73).
+- Informant choice popup "d" (b2c 4b): the same forced-label artifact class as before.
