@@ -2,7 +2,11 @@
 
 Goal: a complete English translation patch for **Song Master** (ソングマスター, Yanoman, 1992, Super Famicom).
 
-**Status: research.** Script format, dialogue compression and font are being reverse-engineered. No playable patch yet.
+**Status: playable draft.** 1738 of 2156 script strings are translated (about 81%); the rest are data junk, quote-only ops or untranslated ids (see TRANSLATION_NOTES.md). Menus (main, Items, Magic, Equip, Status, Save, name entry) have been checked in an emulator. Battle windows and shops have not been checked on screen yet.
+
+### Planned features (not in the patch yet)
+- **Rumble**: controller rumble on hits, spells/songs and boss moments, using the trinea rumble protocol (as in the RCR rumble work).
+- **struktured labs logo splash** at boot.
 
 ## Required ROM
 No-Intro `Song Master (Japan).sfc`, headerless, LoROM, 1 MiB (8 Mbit)
@@ -15,7 +19,7 @@ This repository contains **no ROM data**. Supply your own legally obtained dump.
 ```
 tools/build.sh "/path/to/Song Master (Japan).sfc"
 ```
-Verifies the ROM hash, fetches/builds asar and Flips (tools/get_tools.sh), applies `asm/main.asm`, writes `build/songmaster_en.ips`.
+Verifies the ROM hash, fetches/builds asar and Flips (tools/get_tools.sh), applies `asm/main.asm`, writes `build/songmaster_en.ips` and `build/songmaster_en.bps`.
 
 ## Layout
 - `tools/build.sh`, `tools/get_tools.sh` — build pipeline (from Trinea DX)
