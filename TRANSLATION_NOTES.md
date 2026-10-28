@@ -195,3 +195,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Shops/inn/clinic/temple/broker/stagecoach screens read cleanly; stagecoach map opened with "Meritus" box.
 - Fixed: "donated 100 / G!!" split -> "donated / 100G!!"; b19 7a "butit" (two concatenated messages) -> line break.
 - Forced-label artifacts (empty "Where to?" choice, half-drawn popups) are not bugs.
+
+## Chunk 7 (b19 7d – b1d 0a), viewed
+- Tavern, Nimens story, Meritus gate, Eddie/Ferion briefing, Singer Guild all read cleanly; no fixes needed.
+- Map boxes seen: Meritus, Vilne Pass, Lancafarn (all <=10, fit).
+- Speaker-only boxes (Soldier/Man/Youth) are forced-label artifacts (tag label without its body).
