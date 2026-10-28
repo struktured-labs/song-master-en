@@ -1,0 +1,200 @@
+# b26-b29: Meritus, Singer Guild branch (Eddie), war news. Skipped data: 90165ef8f2 314961bfe8 de3ad4c6ab
+# Note: [FD0F:1F] (fairy, ようせい) reused in JP as a pun for 要請 "request" - written as plain text.
+# Meat line used [FD12:C8][FD12:16]ム = "200 gram" via list strings; written plain.
+>8db5269368
+[c1]King [FD0F:03][c0][n]"Please give my regards to
+ [c1][FD0F:0B][c0].
+>4ec4d3b820
+"At last we've wiped out the
+ [c2][FD0F:14] Guild[c0].
+>822db91828
+%Gatekeeper:"Halt! This is the castle
+ of [c2][FD0E:15][c0]!!~
+"None may pass without
+ business here!!
+>1fc62e82f0
+"[FD0F:29] on patrol in the
+ town.
+>3337de8a1e
+"They say lots of people
+ went to [c2][FD0E:45][c0] and
+ never came back.
+>23c94cd042
+"The only ones a match for
+ our [c2]Knights[c0] are the
+ [c2]Holy Knights[c0] of
+ [c2][FD0E:42][c0]!!
+>70bb8b4d94
+"The king of this country
+ is [c1][FD0F:10][c0].
+>e7d86951aa
+"This is [c2][FD0E:15][c0]! The
+ biggest town in
+ [c2][FD0E:43][c0]!!
+>8420ca1d23
+Soldier
+>7b7197fe9e
+Man
+>e2912c45aa
+Youth
+>a60184517c
+[c1]Eddie[c0][n]
+>1174e47088
+"We've been expecting you,
+ ^0! [FD0F:29] [c1]Eddie[c0],
+ in charge here.~
+"Straight to business: about
+ ^8, as [c1][FD0F:1C][c0]
+ asked[FD0F:3D]~
+"It seems an [FD0F:20] who
+ may be him is in a village
+ called [c2][FD0E:16][c0].~
+"I haven't confirmed it
+ myself, but why not go and
+ see?~[0C]
+>ec4c472130
+"[c2][FD0E:16][c0] is a little
+ way south of here,
+ [c2][FD0E:15][c0].
+>a6cc6f8b7a
+"Well? Did you find ^8?~
+"I see, you didn't find
+ him[FD0F:3D]~[0C]"Then, from what I heard
+ from a [FD0F:2B] just back
+ from [c2][FD0E:46][c0], they
+ took an [FD0F:20] who may be
+ ^8 to [c2][FD0E:46][c0].~
+[n]
+>71beec0e7f
+"If you go, be very careful.~
+"It seems [c1][FD12:EB][c0], king
+ of [c2][FD0E:45][c0], is about to
+ start a war with
+ [c2][FD0E:46][c0].~
+"[c2][FD0E:46][c0] lies far north
+ of here, beyond the
+ [c2]Central Plains[c0].~
+"Ask again if anything comes
+ up. I'll tell you as soon as
+ I learn anything.
+>15600545ad
+"We use our songs to help
+ people in trouble.
+>cf19799c4b
+"Hello, this is the
+ [c2][FD0F:25][c0].
+>e38ffcce3f
+"A [FD0F:27]'s songs seem to
+ bring back something dear
+ that we grown-ups have
+ forgotten.
+>c39196311e
+"^8 is back in
+ [c2][FD0E:16][c0]! No mistake
+ this time!!
+>90a909543c
+"Terrible news!! [c2][FD0E:45][c0]
+ has finally invaded the
+ [c2]Kingdom of [FD0E:46][c0]!!~
+>6309683778
+[n]"According to word from
+ [c1][FD0F:1C][c0], their aim is
+ reviving [c1][FD12:EC][c0] and
+ ruling [c2][FD0F:01][c0].~
+"[c1][FD0F:1C][c0] is now asking
+ every [c1][FD0F:27][c0] and
+ [c1]Bard[c0] to gather news
+ and contact each king,~
+ urging them to join forces.~
+"So he asks you to find ^8
+ as soon as possible and
+ join the fight against
+ [c2][FD0E:45][c0].~
+"To think [c2][FD0E:45][c0], meant
+ to keep [c1][FD12:EC][c0] sealed,
+ would try to revive
+ [c1][FD12:EC][c0][FD0F:3D]~
+"[c1][FD0F:10][c0] of
+ [c2][FD0E:43][c0] has already
+ begun preparing to send
+ aid to [c2][FD0E:46][c0].~
+[n]
+>23b803e652
+"Please! Find ^8 as fast as
+ you can!!
+>36f50b7379
+%{4}:"Ah[FD0F:3E]~
+%{0}:"What is it, ^4?~[0C]%{4}:"...I see it! Red flames,
+ and black shadows[FD0F:3D]~
+"Oh no! Something will
+ happen to the village, to
+ [c2][FD0E:16][c0]!!~
+"^0! Let's hurry back to
+ [c2][FD0E:16][c0]!!
+>fb57bc5163
+"You're ^8!!~
+"^0! I'm so glad for you!!~
+"[c1][FD0F:1C][c0] has decided
+ to gather the leaders of
+ every nation in
+ [c2][FD0E:01][c0] for a council
+ on [c2][FD0E:45][c0].~
+[n]
+>69a3ac46b3
+"We'll keep gathering
+ information too.
+>dba3221193
+"[c2][FD0F:01][c0] has four great
+ nations.~
+"[c2][FD0E:40][c0], [c2][FD0E:42][c0],
+ [c2][FD0E:41][c0], and this one,
+ [c2][FD0E:43][c0].
+>39b6069395
+"My little sister lives up
+ north in [c2][FD0E:1A][c0],
+ yes indeed.
+>d79fe8c3ad
+They say there'll be war up
+ north! How awful[FD0F:3D]
+>0f297c86ac
+They say war's finally
+ broken out.~
+"What'll we do[FD0F:3D]
+>23223d7ed2
+"Word is [c1][FD0F:10][c0] is
+ getting ready to send aid
+ to [c2][FD0E:46][c0].
+>6ac0cb7ab7
+*2 carrots
+*3 onions
+*3 potatoes
+*200 grams of meat
+>91d94dfaa1
+"What is it? I'm just
+ cooking here!!
+>0aa12327df
+"Since about last year,
+ [FD0F:1E]s have been on the
+ rise around here too.
+>216c26048e
+"The wasteland spreading
+ north is called the
+ [c2]Central Plains[c0].~
+"Long ago, the gods and
+ [c1][FD12:EC][c0] fought their
+ final battle there.~
+"Since then it's been a
+ barren land where no one
+ lives.
+>7f0993ccae
+"Next to [c2][FD0E:20][c0] in
+ [c2][FD0E:42][c0], [c2][FD0E:15][c0]'s
+ still the sticks[FD0F:3D]
+>517146138c
+[0C]"That will be 700 [FD0F:08].
+ All right?~
+>0c88778623
+%Priest:"This is the [c2]temple[c0] of
+ [c1]Arim[c0], god of order.
+ Traveler, what is your
+ need?~

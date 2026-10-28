@@ -1,0 +1,222 @@
+# b25: Lancafarn underworld: broker, password, tavern "Griffon's Tears", Sam. Skipped data: f16e299f4f 717256c43e 2f0bee410f 1ce2770dfe 7b5f49c792
+# Password must match the b24 menu option "Want to find work?".
+>6d5d4cbb14
+If you're done, don't come
+ back!!
+>878eb79cec
+"[FD0F:29] not the [c1][FD0F:09][c0]!!~
+"The [c1][FD0F:09][c0] was in
+ with the [c1][FD0F:14]s[c0]!!
+>ba785c12e2
+Forgot already?~
+>7524a9f0ac
+"Looks like you ain't spies
+ for the [c1]king[c0][FD0F:3D]~
+"All right! Pay me
+ [FD12:C8]0 [FD0F:08] and I'll
+ put you in touch with the
+ [c1][FD0F:14]s[c0]. Well?~
+>f3e3f4f549
+[0C]"Then go to the town
+ cells. Tell the password to
+ an [FD0F:0D] named
+ [c1][FD0F:1A][c0], and he'll
+ take you to [c2][FD0E:3F][c0].~
+"The password is
+ "Want to find work?"
+ Got it?
+>0efdd11412
+[0C]"You ain't got the money!!~
+>a7708892ad
+[0C]"If you can't pay, forget
+ it.
+>c348d5a2be
+"You're persistent! Keep it
+ up and[FD0F:3D]~[0C]%{7}:"That's my line!! We know
+ you're dealing with the
+ [c1][FD0F:14]s[c0]!!~[0C][c1][FD0F:09][c0][n]"....So you knew.~
+[n]
+>6d1754919e
+"What I don't know, I don't
+ know.
+>fc1eaa69e9
+"Don't know... Haven't the
+ faintest idea what you
+ mean.
+>4740da77a1
+[c1][FD0F:09][c0][n]"
+>6d3c800a17
+Welcome! What can I do for
+ ya?~
+>427f801029 !
+[x4D][x4C]Ask for info
+ Never mind
+>1870990490
+[0C]"Well, lately [c1]King
+ [FD0F:03][c0] has started
+ hunting down [c1][FD0F:14]s[c0].
+>0d7c397eb9 !
+[x4D][x4F][x4C]Ask for info
+ Ask about Dorfas
+ Never mind
+>f7abdd81e0
+"What's that...? Don't know
+ a thing about it.
+>e7ee7fc959
+%Inn:[FD0F:37]
+>6308726fe6
+[0C]"Where to?~
+>bdd3e38266 !
+[x71][x6F]Tiris Noah
+ Never mind
+>795e8c2bfc
+[0C]"We're terribly sorry, but
+ the coach to [c2][FD0E:01][c0] is
+ not running at present.
+>5274c86f7a
+"Lately, around [c2][FD0E:45][c0],
+ a faction worshipping the
+ god [c1][FD12:EC][c0] seems to
+ be growing.
+>c2e285c75c
+"My husband went to
+ [c2][FD0E:45][c0] and never
+ came back[FD0F:3D]~
+"I'm worried something
+ happened to him[FD0F:3D]
+>1d006df585
+"I was going to go to
+ [c2][FD0E:01][c0], but
+>064d2e5f31
+it seems you can't get
+ through anymore[FD0F:3D]
+>84c4e4c161
+I've forgotten why I was
+ going[FD0F:3D]
+>b86ae870b4
+%{0}:"Just a calendar.
+>12d8e1b24e
+The old [c1]bartender[c0] was in
+ with the [c1][FD0F:14]s[c0], so he
+ got arrested!!
+>ab5a5b4ce9
+[0C]"Looks like you're
+ "guests"[FD0F:3D]~
+"Someone'll come for you in
+ a bit. Wait till then.
+>3b7531f6c0
+%{7}:"So we're finally
+ sneaking into
+ [c2][FD0E:3F][c0]!!~
+%{0}:"Me, I have to get the
+ [c2][[FD10:92]][c0] back from
+ ^5 no matter what!!~[0C]%{1}:"Indeed. We must recover
+ the [c2]Orb[c0] too, and
+ [c2][FD0E:3F][c0] is a town of
+ [c1][FD0F:14]s[c0]. Let's be
+ very careful.
+>95dd4f97fb
+%Sam:"I'm [c1]Sam[c0]! You the ones
+ who want to go to
+ [c2][FD0E:3F][c0]?~
+"All right! Follow me!!
+>eb203d8226
+"Hey! [c1]Sam[c0]!! "Guests"?~
+"OK! Wait a sec!!
+>3a8ee898c0
+%Sam:"Come on! This way!!
+>fb2f42dd7c
+%Sam:"This is [c2][FD0E:3F][c0]!!~
+"I got business, so you're
+ on your own from here!
+ See ya!!
+>19f1010317
+%Bartender:"
+>0657391b71
+Welcome!!
+>da20f9772d
+~
+"Any drink, 500 [FD0F:08] a
+ glass!!~
+>93ce7e6235 !
+[x9E][x9F][x9E][x9D]Salty Dog
+ Griffon's Tears
+ Grasshopper
+ Nothing
+>8e67ca45e8
+[0C]"No window-shopping!!
+>c110b4c129
+[0C]"Huh? We don't have
+ anything like that.
+>0396789a4f
+[0C]%{0}:"[FD0F:3E] I'm getting
+ sleepy[FD0F:3D]
+>cfab7459a6
+[0C]%{1}:"What an unusual
+ taste[FD0F:3D]
+>c9c2d33576
+[0C]%{7}:"Mmm! Booze is the best!!
+>ff57cefc83
+[0C]"Who's drinking?~
+>cdbe482bb6
+[c1][FD0F:1D][c0][n]"Hey, hey! You can't just
+ walk in here!!
+>0155cd1627
+[0C]"You're short on money,
+ friend!!
+>22227f59b1
+"Hey! Kid!! Know the story of
+ the hero ^2?~
+>9f705352cf
+[0C]"^2 is our country's
+ pride!!
+>74892dd59f
+[0C]"^2 defeated [c1]Donon[c0] and
+ saved the country, but the
+ [c1]king[c0] died in that war.~
+"The [c1]king[c0] had no
+ children, so everyone
+ wanted ^2 to be king.~
+"But ^2 felt he wasn't cut
+ out for ruling. He made his
+ younger brother [c1]Ranzel[c0]
+ king and left without
+ telling anyone.~
+"Now [c1]King Ranzel[c0] has died
+ of illness too, and his son
+ [c1][FD0F:03][c0] sits on the
+ throne.~
+"[c1]King [FD0F:03][c0] adores ^2,
+ and rules well despite his
+ youth, [FD0F:39]
+>e01fa3ae6c
+Lately [c1]King [FD0F:03][c0]'s
+ crackdown is tough, so
+ there are fewer [c1][FD0F:14]s[c0].
+>3cbed68a6a
+They say a [c1][FD0F:14][c0] black
+ market is held somewhere.
+>02e04e73a3
+"I want to drink alone!
+ Don't talk to me!!
+>23cfea8aca
+"Rumor has it there's a
+ town of [c1][FD0F:14]s[c0] in this
+ country.~[0C]%{7}:"A town of [c1][FD0F:14]s[c0]!?~[0C]"Yeah, called
+ [c2][FD0E:3F][c0] or
+ something[FD0F:3D]~
+"Whoops! Anything more's
+ dangerous talk, so I'll
+ stop.
+>955076c637
+Better not go around asking
+ about [c2][FD0E:3F][c0].
+>6cd3d0d50e
+Lately this town's gotten
+ hard to live in for
+ riffraff like us.
+>9417dc5e18
+They say [c1]King [FD0F:03][c0]
+ wiped out [c2][FD0E:3F][c0]!!~
+"All the [c1][FD0F:14]s[c0] got
+ caught too, they say.
