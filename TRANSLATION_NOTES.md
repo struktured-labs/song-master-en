@@ -205,3 +205,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Selena vision, Ferion news, Meritus/Lancafarn shops, stagecoach (Lancafarn map box), Alesia: clean.
 - b1f 0a / b1f 19: lines using the "old man" term ([FD0F:0D]) broke a line early and lost the indent.
   The cause in the engine isn't pinned down, so those 4 lines now spell out "old man" as plain text (in the recheck list).
+
+## Chunk 9 (b1f 1f – b24 cd), viewed
+- Farion (ファリオン, b20 64) is a different man from Ferion, as in the JP. Christ = クリスト.
+- Map box showed the shortened name "Barahat" (was "Barahat Pass") in full (b22 06/09), plus Farhan, Watts Pass, Christ.
+- Travel Pass office, Farhan shops, and the old-man line all read correctly. No fixes.
