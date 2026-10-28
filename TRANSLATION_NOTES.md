@@ -86,7 +86,8 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - FIXED: the red garbage strip on the status/equip screens was OUR bug, not an emulator artifact. The untouched JP ROM (same inputs from boot, /workspace/jp_status.png) shows no strip and prints the equipped item name there. Cause: the menu-side list lookups $02:B0A0/B0BF/B0DE JSR into the middle of the script-side routines our lh_* hooks overwrite. Now redirected (asm lhm_*) to 8-cell short names in bank $3D (script/en/lists_short.json); dialogue keeps the full names.
 - Item/magic short names are abbreviated to the 8-cell JP limit (e.g. LthArmor); review wording later.
 - Config screen verified (Text Speed Slow/Fast, Sound Stereo/Mono).
-- Not yet verified on screen: battle windows, save/load labels, MP Cost, ailment names.
+- Viewed on screen (field.mss harness, 2026-10-27): main menu, Magic (Spirit/Healing/Summon, MP Cost, Fireball), Equip (Atk/Def/Spd/Rhy, Weapon/Shield/Armor/Helm, LthArmor, Equip/Remove), Save (EMPTY slots, Yes/No), name-entry Latin page row 9 + End.
+- Not yet verified on screen: battle windows, shop, ailment names.
 
 ## Untranslated-id audit (172 ids flagged by a dump-vs-translation diff)
 - b01 ids 1-18: staff credits, already uppercase ASCII in the ROM, render natively; no translation needed.
