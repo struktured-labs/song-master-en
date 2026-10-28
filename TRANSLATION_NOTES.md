@@ -83,6 +83,7 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - Status ailments (02:B512): KO/Poison/Conf/Cryst/Sleep/Bind/Fear. DOUBTFUL: すいしょう rendered "Cryst" (crystal?), unverified in play.
 - Status screen: Atk Pwr/Def Pwr/Speed/Rhythm/Weapon/Shield/Armor/Helm; equip screen uses Atk/Def/Spd/Rhy (4-cell limit before the number).
 - Gold window: お金 label is drawn by code (02:8E50 area / shop) as two tiles; blanked, amount keeps its "G".
-- Known: red OBJ garbage strip appears at the bottom of the status/equip screen in the headless savestate test; it is identical in a build without UI changes (not caused by the patch, origin unverified).
+- FIXED: the red garbage strip on the status/equip screens was OUR bug, not an emulator artifact. The untouched JP ROM (same inputs from boot, /workspace/jp_status.png) shows no strip and prints the equipped item name there. Cause: the menu-side list lookups $02:B0A0/B0BF/B0DE JSR into the middle of the script-side routines our lh_* hooks overwrite. Now redirected (asm lhm_*) to 8-cell short names in bank $3D (script/en/lists_short.json); dialogue keeps the full names.
+- Item/magic short names are abbreviated to the 8-cell JP limit (e.g. LthArmor); review wording later.
 - Config screen verified (Text Speed Slow/Fast, Sound Stereo/Mono).
 - Not yet verified on screen: battle windows, save/load labels, MP Cost, ailment names.

@@ -158,3 +158,91 @@ lh_common:
 lh_rest:
   LDY !LY
   RTL
+
+; ---- menu-side list lookups (A = index, not from the script): $02:B0A0 items, $02:B0BF magic, $02:B0DE monsters.
+; The originals JSR into the middle of the script-side routines patched above, so they must be redirected too.
+org $02B0A0
+  PHP
+  JSL lhm_items
+  PLP
+  RTS
+org $02B0BF
+  PHP
+  JSL lhm_magic
+  PLP
+  RTS
+org $02B0DE
+  PHP
+  JSL lhm_mons
+  PLP
+  RTS
+org $02C969         ; spare bytes at the tail of the bank $02 menu pool (ui_inplace.json stops at 0x14969)
+  JSR $B0F5         ; render the FF-terminated string at Y (A = 1: no entries skipped)
+  RTL
+org $3F8300
+lhm_items:
+  SEP #$20
+  PHB
+  PHY
+  PHX
+  LDX #$0400
+  BRA lhm
+lhm_magic:
+  SEP #$20
+  PHB
+  PHY
+  PHX
+  LDX #$0600
+  BRA lhm
+lhm_mons:
+  SEP #$20
+  PHB
+  PHY
+  PHX
+  LDX #$0800
+lhm:
+  PHA
+  LDA #$7E
+  PHA
+  PLB
+  PLA
+  JSL lhs_common
+  BEQ +
+  JSL $02C969
++:
+  PLX
+  PLY
+  PLB
+  RTL
+
+; same as lh_common but reads the short-name tables in bank $3D
+lhs_common:
+  STY !LY
+  REP #$20
+  AND #$00FF
+  BEQ .none
+  DEC A
+  ASL A
+  STA !LT
+  TXA
+  CLC
+  ADC !LT
+  TAX
+  LDA $3D8000,x
+  TAX
+  SEP #$20
+  LDY #$0000
+.cp:
+  LDA $3D0000,x
+  STA !LBUF,y
+  INX
+  INY
+  CMP #$FF
+  BNE .cp
+  LDY #!LBUF
+  LDA #$01
+  RTL
+.none:
+  SEP #$20
+  LDA #$00
+  RTL

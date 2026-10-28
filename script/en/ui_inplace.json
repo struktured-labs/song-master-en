@@ -345,7 +345,7 @@
   {
    "note": "bank 02 menu-pool tail (menus.json pool ends at 0x1493E)",
    "start": "0x1493E",
-   "end": "0x1496D",
+   "end": "0x14969",
    "strings": [
     {
      "jp": "よろい/かぶと",
