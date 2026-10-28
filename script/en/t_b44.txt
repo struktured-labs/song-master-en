@@ -317,3 +317,7 @@
  [c2][FD0E:20][c0]!!
 >2ae6e276a1
 %{0}:"Looks like it's locked.
+>aa86a72fc4 !
+[x4D][x4F][x4C]Ask for info
+ About Sam
+ Never mind

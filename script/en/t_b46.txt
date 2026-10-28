@@ -1,0 +1,251 @@
+# b46-b53: Lismore, the Troll, Laura; Northumbria/Durham (dwarves). Skipped data strings.
+>9fe449511a
+%{5}:"Hey! Hey! Weren't we going
+ to beat the [c1][FD12:5C][c0]?
+>0e99b306bf
+%{8}:"[c1]^0[c0]! First let us ask
+ the way to
+ [c2][FD0E:25][c0]!!
+>772a82621a
+In return for not attacking
+ the village, the
+ [c1][FD12:5C][c0] demands a
+ young girl as a
+ sacrifice[FD0F:3D]
+>2fe31cf303
+[FD0F:28]! Thanks to you, the
+ village is saved!!
+>d34539bb1e
+For [c2][FD0E:25][c0], go out
+ the south exit and head
+ north from here.
+>a049d59866
+Go south for
+ [c2][FD0E:03][c0].
+>f5c92d9b36
+%Laura:"[FD0F:28]! I'll never
+ forget your kindness!!
+>3f42c0fdf9
+"This is [c2][FD0E:22][c0]! A
+ border village between
+ [c2][FD0E:40][c0] and the
+ [c2][FD0E:42] Kingdom[c0].
+>a16d187cea
+A [c1][FD12:5C][c0] has made
+ its home in the northern
+ mountains.
+>01ae854b07
+No need to fear the
+ [c1][FD12:5C][c0] anymore[FD0F:3D]
+>3ea07735d4
+No one who went to slay the
+ [c1][FD12:5C][c0] has ever
+ come back[FD0F:3D]
+>848c206274
+You made it back
+ safe[FD0F:3D]~
+"You are a true hero!!
+>beea47c4be
+%Louis:"
+>c99041a963
+My daughter, a sacrifice to
+ the [c1][FD12:5C][c0][FD0F:3D]~
+"Is there no one who will
+ defeat the [c1][FD12:5C][c0]
+ and save my daughter...?
+>8304e204ac
+You'll save my
+ daughter[FD0F:3F]~
+"
+>df88f450d8
+[FD0F:28]! [c2][FD0E:24][c0] is
+ in the northern
+ mountains!!
+>6d1a270779
+[FD0F:28]!! I don't know how
+ to thank you[FD0F:3D]~
+"Please take this as
+ thanks!!~
+>d7d6714eca
+[0C]"Come to think of it, you
+ are going to
+ [c2][FD0E:25][c0][FD0F:3D]~
+"There's a [c1][FD0F:15][c0]
+ passage there!!~
+"Through it, you'll soon
+ reach [c2][FD0E:44][c0].~
+"
+>0359e752aa
+They say once in the cave,
+ turn left at the first
+ fork, then go down at the
+ end to find the passage.
+>054d0b5185
+My daughter has gone to
+ heaven[FD0F:3D]
+>4fa7b771f0
+Thank you for the other
+ day.
+>447270f166
+*How to Build Bombs
+ Properly!!
+>7ed9492bad
+After all that work making
+ it[FD0F:3D]
+>0f02cbdfe2
+%Jacob:"
+>27d89aefd7
+Just you wait! You
+ [c1][FD12:5C][c0]s!! I'll
+ show you!!
+>1d33a93fb3
+Are you headed to
+ [c2][FD0E:24][c0]?~
+"Then take this with
+ you!!~
+>7372437d1f
+Go with care!!
+>ea88c3fb63
+Well! Was it useful?
+>b4c262b0cc
+[0C]"What, you already have
+ more than enough[FD0F:3D]
+>fec6cb7139
+The girl from the house to
+ the south was taken by the
+ [c1][FD12:5C][c0]! Hey!
+ Mister! Save her!!~
+>8c4fbc018f !
+[x8D][x8E]Can't ignore this!
+ No time for that!
+>504a0bdad4
+[0C]"Mister! [FD0F:28]!!~
+"
+>8945251751
+[0C]"Meanie!!
+>6ce14d8e4a
+Talk to the man in the
+ house to the south!!
+>dffe3f2b91
+You saved her!
+ [FD0F:28]!!
+>ea60729d6f
+Stupid [c1][FD12:5C][c0]!
+ Someday I'll beat it!!
+>7c06c3aa79
+%Arms and Armor:"Welcome!!
+>550e9e6109
+%{0}:"Nothing more to do
+ here!!
+>43eaa09085
+[c1][FD12:5C] Lord[c0][n]"Brorororo! [FD0F:17]s!
+ Come to take back the
+ girl?~
+"I need that girl's living
+ liver to become immortal!!
+ I won't let you
+ interfere!!
+>4c8e11851f
+[c1][FD12:5C][c0][n]"[FD0F:17]S! YOU NOT PASS
+ HERE!!
+>5e5c6db2af
+[c1][FD12:5C][c0][n]"[FD0F:17]S! [FD0F:17]S
+ HERE!!
+>08ce5719ee
+[c1][FD12:5C][c0][n]"KILL [FD0F:17]S!!
+>4abf8c0a3a
+%Laura:"Who are you...?~
+%{0}:"We've come to save you!!
+ Quick, let's go back to
+ town!!
+>1d81aade4a
+%{8}:"[c1]^0[c0]! What are you
+ doing!!~
+"We must head for
+ [c2][FD0E:29][c0] with all
+ haste!!
+>3b017107ea
+%{0}:"Found it! This is the
+ passage!!
+>894f3393c6
+%{0}:"So this is what
+ [c1][FD0F:23][c0] meant!!
+>215b35555e
+ [c1]^0[c0] used the
+ [c2][xA4]Bronze Ring[xA5][c0]!!
+>30d7076d4a
+[c1][FD0F:15][c0][n]"Lots of [c2][FD0E:3C][c0]s
+ around here!!
+>9b0f0ebb49
+[c1][FD0F:15][c0][n]"Oho! A human, that's
+ rare!!
+>e49863c24c
+[c1][FD0F:15][c0][n]"Seems there's some
+ trouble up on the
+ surface!!~
+"Well! Nothing to do with
+ us!!
+>c8d42f9629
+[c1][FD0F:15][c0][n]"This is [c2][FD0E:38][c0]!
+ Town of us
+ [c1][FD0F:15]s[c0]!!
+>c605d39db7
+[c1][FD0F:15] Guard[c0][n]"
+>fa7e3aed4f
+Wander around too freely and
+ we'll send you to
+ [c2][FD0E:3C][c0]!!
+>6dd1c674bc
+We were tricked by
+ [c1][FD0F:19][c0]!!
+>08936fe1d4
+[c1][FD0F:15] Guard[c0][n]"This is [c1][FD0F:23][c0]'s
+ castle!!
+>5ec3c8a28a
+[c1][FD0F:15][c0][n]"Why are there only men
+ here?~
+"Well, [c2][FD0E:38][c0] is the
+ town of those who work at
+ the [c2]castle[c0]!!~
+"Only men work at the
+ [c2]castle[c0].
+>262b919277
+[c1][FD0F:15][c0][n]"
+>106624d591
+It's been a while since
+ [c1][FD0F:23][c0] was last
+ seen.~
+"I wonder what's
+ happened[FD0F:3D]
+>469f900e16
+That [c1][FD0F:19][c0]! What an
+ outrageous thing he did!!
+>e9d7eb0d64
+I collect
+ [c2][xA4]Charms[xA5][c0][FD0F:39]~
+"Got any [c2][xA4]Charms[xA5][c0]?~
+>bee9fc04ef
+[0C]"Amazing!! Trade me those 4
+ [c2][xA4]Charms[xA5][c0] for my
+ [c2][[FD10:0F]][c0]!!~
+>36d6b72cae
+[0C]"Yahoo! Really!! Then it's
+ a trade!!~
+>447e542b3e
+[0C]"Tch! Too bad[FD0F:3D]
+>76f4a9a06c
+Thanks! Thank you!!
+>c7ef770092
+[0C]"Too bad. If only you had
+ the whole set[FD0F:3D]
+>6e5aa2e370
+%Inn:"Welcome! Staying the
+ night?
+>d1741242bb
+"How are things on the
+ surface?~
+"I'd like to go up there
+ too.
+>12aa70072f
+%Arms Dealer:"Got fine weapons
+ here!!

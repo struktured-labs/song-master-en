@@ -173,7 +173,7 @@ Oh! Everyone!! Sorry to have
  but the [c2]Orb[c0] seems to
  have been stolen!!~
 %{1}:"The [c2]Orb[c0]...?~[0C][c1][FD0F:0B][c0][n]"Do you know of it? The
- [c2][Blue Orb][c0][FD0F:3D]~
+ [c2][xA4]Blue Orb[xA5][c0][FD0F:3D]~
 %{1}:"The legendary [c2]Orb[c0]
  the gods once used to seal
  [c1][FD12:EC][c0].~

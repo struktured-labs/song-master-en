@@ -1,0 +1,406 @@
+# b54-b57: Durham castle, Haydle's plot, the mine, King Rimbelt, Orb lost, Nordleborl Forest, Great Wall.
+>436561af21
+[c1][FD0F:23][c0] has fallen
+ ill!!
+>6b19f32927
+[c1][FD0F:15] Guard[c0][n]"These are the guards'
+ quarters!!
+>1824b20ee0
+[c1][FD0F:15] Guard[c0][n]"Argh! Too noisy to
+ sleep!!
+>c980d7c903
+Mess up and you get sent to
+ [c2][FD0E:3C][c0]!!~
+"Can't let your guard
+ down!!
+>06a12fc0b7
+To think [c1][FD0F:19][c0] was
+ trying to take over the
+ country[FD0F:3D]
+>88fb649c38
+Lord [c1][FD0F:19][c0] sends
+ every criminal to
+ [c2][FD0E:3C][c0][FD0F:3D]~
+"I hope [c1][FD0F:23][c0]
+ recovers soon[FD0F:3D]
+>c939125fda
+Lord [c1][FD0F:19][c0]'s ways
+ are a bit too harsh[FD0F:3D]
+>7ee58de464
+With [c1][FD0F:23][c0] sick in
+ bed, Minister
+ [c1][FD0F:19][c0] is acting in
+ his place.
+>4161533093
+%{1}:"[c1]^0[c0]! Hurry to
+ [c1][FD0F:23][c0]!!
+>59a5af5b5f
+[c1][FD0F:23][c0] is ill!!~
+"So! He sees no one!!
+>ec461159f3
+We were tricked by
+ [c1][FD0F:19][c0]!!
+>c0a4d564bc
+[c1][FD0F:23][c0][n]"Oh! You all seem safe!!~[0C]"I see, so the [c2]Orb[c0]
+ could not be
+ protected[FD0F:3D]~
+%{1}:"We are very sorry[FD0F:3D]~[0C][c1][FD0F:23][c0][n]"No! You did well!! I am
+ grateful!!~
+"[c1][FD0F:19][c0]'s gang are
+ all caught. No more
+ worries.~
+%{1}:"[c1][FD0F:19][c0] was
+ possessed by a
+ [c1]demon[c0][FD0F:3D]~
+"All of it is
+ [c1][FD12:EC][c0]'s doing! If
+ its power is freed, the
+ world will be
+ destroyed[FD0F:3D]~[0C][c1][FD0F:23][c0][n]"Mmm[FD0F:42] So that is what
+ has been happening on the
+ surface[FD0F:3D]~
+"We too must find a way to
+ stand against
+ [c1][FD12:EC][c0]!!~[0C]%{1}:"Also, there is something
+ we would have the king see.
+ [c1]^0[c0]! Your
+ [c2][[FD10:92]][c0]!!~
+>ff3ff62cfd
+[0C][c1][FD0F:23][c0][n]"Mmm[FD0F:42] This looks like
+ the work of the
+ [c1]Excelion[c0][FD0F:3D]~
+%{0}:"The [c1]Excelion[c0]...?~[0C]%{1}:"The [c1]Excelion[c0] were a
+ people said to have fought
+ beside the gods when the
+ gods fought
+ [c1][FD12:EC][c0].~
+"But it is said they later
+ perished through their own
+ mistakes.~[0C][c1][FD0F:23][c0][n]"Just so! By now, few
+ things left by the
+ [c1]Excelion[c0] should
+ remain!~
+"Look into the
+ [c1]Excelion[c0] and you
+ should learn something!!~
+%{0}:"[FD0F:28],
+ [c1][FD0F:23][c0]!!~[0C]"Also, the reason we came
+ here: we are hurrying to
+ [c2][FD0E:29][c0]!!~
+"We heard there is a road
+ here that leads there.~
+"Please allow us to pass!!~
+[c1][FD0F:23][c0][n]"There is indeed such a
+ road, but no one sets foot
+ there now[FD0F:3D]~
+"And rumor says a crawling
+ monster lives there.~
+"It is most dangerous. Are
+ you sure?~[0C]%{0}:"We must go, no matter
+ what!!~[0C][c1][FD0F:23][c0][n]"Very well! I understand.
+ Take this with you!!~
+>d6a329460c
+[0C]"The entrance is behind the
+ town [c1]arms dealer[c0]. Go
+ with care!!
+>5c3869a7cb
+[c1][FD0F:23][c0][n]"Give my regards to
+ [c1][FD0F:0B][c0]!!
+>0188e49c72
+[c1][FD0F:19][c0][n]"Welcome! I am
+ [c1][FD0F:19][c0]! Minister of
+ this land!!~
+"[c1][FD0F:23][c0] lies sick in
+ bed, so I serve in his
+ place.~[0C]"I see! [c1][FD0F:0B][c0]'s
+ [c2][[FD10:8A]][c0]. Received,
+ indeed.~[0C]%{1}:"How is
+ [c1][FD0F:23][c0] faring?~
+[c1][FD0F:19][c0][n]"No need to worry.~[0C]%{8}:"Forgive the haste, but we
+ would ask your help.~
+[c1][FD0F:19][c0][n]"With an introduction from
+ [c1][FD0F:0B][c0], I could
+ hardly refuse[FD0F:3D]~
+>f77ad4117d
+[n]"That is, if this
+ [c2][[FD10:8A]][c0] is
+ genuine!!~
+%{7}:"What!?~[0C][c1][FD0F:19][c0][n]"Did you think I couldn't
+ spot a fake? Fools!!~
+"[c1]Guards[c0]! Seize them!!
+>24b5286716
+%{8}:"What nonsense! That is
+ without doubt
+ [c1][FD0F:0B][c0]'s
+ [c2][[FD10:8A]][c0]!!~[0C][c1][FD0F:19][c0][n]"Bah! Silence!! Old fool!!~
+"Send them to
+ [c2][FD0E:3C][c0]!!
+>f7998c1685
+%{7}:"Want a fight!!~
+>fd45b8ff7b
+[n]%{0}:"[c1]^7[c0]! The odds are
+ too bad!!~
+%{7}:"Tch[FD0F:42]~[0C][c1][FD0F:15] Guard[c0][n]"Now! Move it!!
+>d9c7bcc30b
+[c1][FD0F:15] Guard[c0][n]"Sir [c1]Gimsy[c0]! I've
+ brought the prisoners!!~
+%Gimsy:"Good! Well done!! You may
+ go!!
+>94dc1866b2
+%Gimsy:"My name is
+ [c1]Gimsy[c0].~
+%{7}:"What are you gonna do
+ with us!!~
+%Gimsy:"Shh! Quiet!!~
+"I know you were seized
+ unjustly.~
+"In truth, [c1][FD0F:19][c0],
+ egged on by someone, means
+ to do away with
+ [c1][FD0F:23][c0] and seize
+ this land!!~
+"So I have a favor to
+ ask!!~
+"Rescue [c1][FD0F:23][c0], who
+ is held somewhere in
+ here!!~[0C]%{0}:"So that's how it
+ was[FD0F:3D]~
+"All right! We'll try!!~
+%{5}:"Heh! We'd have to do that
+ anyway to get out of
+ here!!~[0C]%Gimsy:"Thank you! Then find a man
+ named [c1]Libra[c0]! He
+ should help you.~
+"I'm counting on you.
+>4ea805972c
+%{5}:"Looks like we can go
+ deeper from here!!
+>b88e93a19d
+[c1][FD0F:15] Guard[c0][n]"You'll work here till you
+ die!!
+>fb1a0b5696
+[c1][FD0F:15][c0][n]"I did nothing, but they
+ dragged me here!!~
+"I bet most folks got
+ brought here for reasons
+ like that!!
+>9525aaca57
+What!? [c1]Libra[c0]..?~
+"Now that you mention it, he
+ was wandering around
+ here[FD0F:3D]
+>bf5f2c9f9a
+[c1][FD0F:15] Guard[c0][n]"What are you loitering
+ for!!~
+"Get to work!!
+>2ec34b07e8
+[c1][FD0F:15][c0][n]"Escaping from here? No
+ way!!
+>5f99238004
+Where's [c1]Libra[c0]!?~
+"
+>18857f2933
+Hmm, no idea.
+>38bfb0e524
+Oh! Speak of the devil!!
+>ac199715a5
+%Libra:"You lot? The ones looking
+ for me!!~
+"What! [c1]Gimsy[c0] sent
+ you!?~[0C]"I see! You want to save
+ [c1][FD0F:23][c0]!!~
+"Hmm! So that's it!! The one
+ they brought to the very
+ bottom level lately was
+ [c1][FD0F:23][c0]!!~
+"Right! Got it!!~
+"I stand out, so I can't go
+ with you, but I'll help
+ all I can!!~
+"First, there's a guard on
+ the way down. Hand him
+ this and he'll let you
+ by!!~
+>5198658d6a
+[0C]"Good luck! See you!!
+>eebeea5d4c
+So [c1][FD0F:23][c0] was the
+ prisoner[FD0F:3D]
+>f624f1862a
+[c1][FD0F:15][c0][n]"Word is some bigwig is
+ locked up somewhere in
+ [c2][FD0E:3C][c0].
+>43c7fe141e
+[c1][FD0F:15][c0][n]"Work fast, or they'll make
+ you suffer!!
+>f60c70cfa0
+[c1]Libra[c0]'s on the upper
+ level!!
+>5b12542012
+Hey! Where d'you think
+ you're going!?~
+"You can't go any lower
+ than this!!
+>4e3f1db207
+[0C]%{5}:"Heh heh[FD0F:42] Boss! How
+ about you look the other
+ way for this?~[0C][c1][FD0F:15] Guard[c0][n]"Oh, fine! I didn't see
+ anything, so go, quick!!
+>0d6c4d3f22
+Oh, it's you! Go on down
+ already.
+>e405883aa8
+[c1][FD0F:15] Guard[c0][n]"What d'you want!?~
+"This is no place for
+ you!!~[0C]%{5}:"Heh heh[FD0F:42] Come on,
+ boss, please?~[0C][c1][FD0F:15] Guard[c0][n]"Wise guy! I was bored
+ anyway!! I'll beat you to
+ death!!
+>f61806ff02
+[c1][FD0F:23][c0][n]"Who goes there!?~
+%{0}:"You are
+ [c1][FD0F:23][c0], yes?~
+[c1][FD0F:23][c0][n]"Indeed I am[FD0F:3D]~
+%{0}:"We mean you no harm!!~[0C] [c1]^0[c0] told
+ [c1][FD0F:23][c0] all that
+ had happened.~[0C][c1][FD0F:23][c0][n]"I see[FD0F:3D]~
+"That [c1][FD0F:19][c0]! He
+ joined a shady knight and
+ plotted to do away with
+ me!!~
+"That knight seems to be
+ after the [c2]Orb[c0].~
+"Luckily they haven't found
+ where it's hidden, but they
+ will in time.~
+%{7}:"The [c2]Orb[c0]!!~
+%{0}:"[c1][FD0F:22][c0]... It has
+ to be him!!
+>7ff511e8e2
+%Libra:"[c1][FD0F:23][c0]! Thank
+ goodness you're safe!!~
+[c1][FD0F:23][c0][n]"Oh! [c1]Libra[c0]!!~
+>2ddbf8a32e
+[0C]%{0}:"[c1][FD0F:23][c0]! That knight
+ must be [c1][FD0F:22][c0], who
+ plots to revive
+ [c1][FD12:EC][c0]!!~
+"[c1][FD0F:22][c0] must not get
+ the [c2]Orb[c0].~
+[c1][FD0F:23][c0][n]"Very well! Understood!!~
+"Then I entrust the
+ [c2]Orb[c0] to you.~
+"With this, you can remove
+ the barrier around the
+ [c2]Orb[c0]. Take it!!~
+>c12fbc101b
+[0C]"Just left of here is a
+ passage! Go through and
+ right, and you'll reach the
+ room where the [c2]Orb[c0]
+ rests!!~
+"[FD0F:29] will lead everyone
+ back to the castle with
+ [c1]Libra[c0]!!~
+"I'm counting on you!!
+>d0db50336b
+%{7}:"[c1]^0[c0]! Wasn't the
+ [c2]Orb[c0] to the right, not
+ this way?
+>1301a5960d
+%{0}:"There! This is it!!~
+%{1}:"Now, [c1]^0[c0]! Remove the
+ barrier with the
+ [c2][[FD10:87]][c0]!!~[0C]%{0}:"Right!!~
+>39fd34aa29
+[0C]"Good! That should do it!!
+>3cff1417cc
+%{0}:"So this is the
+ [c2]Orb[c0][FD0F:3F]~
+>2973d6fc27
+[0C]"[FD0F:41] What!!
+>198d3c050d
+[c1][FD0F:19][c0][n]"Thanks for the hard work!
+ The [c2]Orb[c0] is mine!!~
+>af296b1331
+[0C]%{7}:"You! [c1][FD0F:19][c0]!!~
+%{5}:"You creep! Swiping it,
+ how dirty!!~[0C][c1][FD0F:19][c0][n]"Hmph! Say what you like!!
+>1d1c0d45a5
+[n] Lord [c1][FD0F:22][c0]! I've
+ got the [c2]Orb[c0]!!~
+>e57235fb64
+[n][c1][FD0F:22][c0][n]"Heh! You lot again!!~
+"So bent on getting in my
+ way!!~
+"A good chance!!
+ [c1][FD0F:19][c0]! Test the
+ power you were given!!~[0C][c1][FD0F:19][c0][n]"Yes! At once!!~
+[c1][FD0F:22][c0][n]"[c1][FD0F:19][c0]! I leave it
+ to you!!~
+>5fa67a3e18
+[0C]%{0}:"Wait! Give back the
+ [c2]Orb[c0]!!~
+>22522b47fb
+[0C][c1][FD0F:19][c0][n]"Not likely! Your opponent
+ is me!!~
+>d6bab53433
+[n]"Uwoooooh! Behold my
+ power!!
+>09d9fe29ce
+%{0}:"Blast! The [c2]Orb[c0] is in
+ [c1][FD0F:22][c0]'s
+ hands[FD0F:3D]~
+>0db358b8ac
+[n]%{1}:"It can't be helped... We
+ must report to
+ [c1][FD0F:23][c0][FD0F:3D]~
+"Let's hurry to the
+ castle!!
+>78b26a894f
+%{7}:"[c1]^0[c0]! Let's hurry
+ on!!
+>037726b069
+%{1}:"Let's go to
+ [c1][FD0F:23][c0], quickly!!
+>9efe7731ad
+%{5}:"Phew!! Finally out on the
+ surface!!~[0C]%{1}:"Don't relax yet!!~
+"This is
+ [c2][FD0E:26][c0], the
+ forest of no return.~
+"Wander carelessly and
+ you'll never get out.~
+"But past here,
+ [c2][FD0E:29][c0] is right
+ under our noses!!~
+"Come! Let's go!!
+>2cadeeeed0
+%{5}:"What!? What's that!!~
+%{5}:"The monster
+ [c1][FD0F:23][c0] talked
+ about?~
+%{1}:"Everyone, careful! It's
+ coming!!
+>584e42c80f
+%{5}:"That was close!!~
+%{1}:"To think such a thing
+ exists[FD0F:3D]~
+"Perhaps
+ [c1][FD12:EC][c0]'s power is
+ growing stronger[FD0F:3D]~
+"In any case, we must
+ hurry.
+>e23ec49d61
+%{1}:"We're safe now that we've
+ come this far!!~[0C]%{5}:"All right! Almost there!
+ Let's do this!!
+>88e3619a43
+%{1}:"Now we need only cross
+ this [c2][FD0E:27][c0] to
+ reach [c2][FD0E:29][c0]....~[0C]%{0}:"[FD0F:41] [c1]^1[c0]! Are you
+ all right!?~
+%{1}:"...I'm all right.~
+"Having come this far, I
+ cannot die now!!~[0C]%{7}:"No time to waste! Let's
+ go!!

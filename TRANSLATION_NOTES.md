@@ -40,5 +40,5 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 ## b41-b45 notes
 - King Colman ([FD0F:0B]) is king of Marsha and father of Selena (elder, royal priestess) and Leticia (younger, captain of the royal guard). Late queen: Rianna.
 - [FD12:3A] "Lamia" (monster list) is also the name of the panther-shifter woman (lycanthrope). Sam = King Eric of Farlon undercover; Eleus = "Baron Goza", his uncle.
-- b44 informant menu aa86a72fc4 still JP (needs rawpre). 
+- b44 informant menu aa86a72fc4 translated with prefix [x4D][x4F][x4C].
 - Viewed: cfa90e6a19 (b36), 8768f51943 (b44) - clean wrapping.
