@@ -178,3 +178,5 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - pass3 labels 71–78 viewed (coach not running, caravan/Remi/Gordon): OK.
 - pass3 labels 79–c6 viewed (tavern job, drinks, Sion/Yury, caravan): no overflows. Currency evidence: the game's own popup reads "Got 100G!" (b0a lbl 9d), which supports rendering FD0F:08 as "G".
 - b0a lbl ac "They say Croixdor is attacking..." has no opening quote; JP b10_106 also has none in its own segment (the quote is a separate branch segment). Left as is.
+- b0a c7–e3 viewed. Inn cost box showed "100G×1人" (JP person counter). Blanked the 人 tile (02:8DBF lda #$24C8 -> #$2400, asm/main.asm); viewed after the fix: "500G / 100G×1 / Cost 100G", Stay/Leave. b0a sweep complete.
+- Sweeps now run from a pre-roll state (smmenu/pre.mss, frame 2390 of the mk.py route) via /workspace/sweep4.sh: ~8 s per label instead of ~17 s.

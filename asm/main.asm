@@ -388,6 +388,8 @@ org $3A8000
 
 ; ---- Shop quantity box: "合計" (total) -> "Cost", drop the "コ"/個 counter after the quantity ----
 org $02BBA4 : db $00             ; lda #$243E (counter glyph after quantity, sta $481A) -> blank tile
+; Inn cost box: "100G x1人" -> drop the 人 (person) counter glyph (lda #$24C8 / sta $47DA at 02:8DBF)
+org $028DC0 : db $00
 org $028DC5
   JSL shop_total : NOP #8
 org $02BB72
