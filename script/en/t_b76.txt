@@ -1,0 +1,209 @@
+# b76-77: Meritus (Singer Guild, McPherson's mansion), Ferion's death, voyage to Elles Noah with Selena, sea monster.
+>05d3f97844
+"[FD0F:29] a [FD0F:27] who
+ specializes in healing.~
+[n]"Would you like your
+ body restored?~
+>10e2b9715d
+[0C]"Very well!!
+>5ac55e2dff
+"There! You'll be fine now.~
+[n]"If you get hurt, come
+ see me again.
+>10dd170017
+[0C]"Come again!
+>4151d875db
+So you are [c1]^0[c0].~
+[n]"I've heard about you from
+ [c1][FD0F:1C][c0].~[0C]"
+>0ef7c92c79
+First, go to the [c2][FD0F:25][c0]
+ in [c2][FD0E:15][c0] and ask
+ about [c1]^8[c0].
+>91f89e3aa8
+We've been waiting for you,
+ [c1]^0[c0]!!~
+[n]"Go to the [c2]Assembly Hall[c0]
+ at once!! [c1][FD0F:1C][c0]
+ is waiting for you!!
+>80d966daef
+I'm praying for your safe
+ journey.
+>a481d8600b
+"This is the [c2][FD0F:25][c0]!!
+>928616fda6
+I'm praying for your safe
+ journey!!
+>8aee12b9bd
+Welcome back!!
+>f5ce69c883
+[c1][FD0F:1B][c0][n]"
+>7ddfc23408
+I am [c1][FD0F:1B][c0], the rich
+ man!!
+>4a12070906
+[c1]^8[c0]'s illness is beyond
+ any cure now[FD0F:3D]
+>2524c59090
+[c1]^8[c0] was a true
+ [FD0F:12][FD0F:3D]
+>5b15a31a63
+With rooms this big,
+ cleaning is no easy job.
+>68c6cd1c12
+There's a sick man here,
+ so please keep quiet.
+>0fe095a542
+"The master is the richest
+ man in town!!
+>54cb72a1a6
+"They say the master was
+ once a [FD0F:0F].
+>f34beaaee2
+[c1]^8[c0] is in the room
+ on the right.
+>718031ac59
+The master is in the room
+ at the back, but...
+>356cace1ca
+[c1]^8[c0][n]"
+>5fe79c96d2
+Oh, [c1]^0[c0]!
+ You've come back[FD0F:3D]~
+[n]%{0}:"Master! What's wrong?~[0C]%{8}:"Oh, it's nothing much.
+ No need to worry!!~
+[n]"More importantly, go and
+ see [c1][FD0F:21][c0] quickly.~
+[n]"
+>5731f99861
+He can't stop worrying
+ about you, after all[FD0F:3D]
+>8519988b89
+%{0}:"Master[FD0F:3D]~
+[n]%{8}:"...So you've heard.
+ [c1][FD0F:21][c0], that blabber[FD0F:3D]~
+[n]"[c1]^0[c0], as you know,
+ I haven't long left.~
+[n]%{0}:"That's not true!
+ Not you, Master[FD0F:3D]~[0C]%{8}:"Don't cry[FD0F:3D]~
+[n]"Everyone dies someday[FD0F:3D]~
+[n]"My death, too, is fate[FD0F:3D]~
+[n]"My only regret is that
+ I'll be of no use in the
+ battle to come,~
+[n] and that I won't see you
+ become a [FD0F:12][FD0F:3D]~[0C]"[c1]^0[c0][FD0F:3D]
+ You hold a wonderful
+ talent[FD0F:3D]~
+[n]"You will surely become a
+ fine [FD0F:12].~[0C]"One last request.~
+[n]"Will you sing me to a
+ peaceful sleep[FD0F:3D]~[0C]%{0}:"[FD0F:3C]~
+[n]"I understand[FD0F:3D]
+>605d7aa1ab
+%{0}:"...?
+ Master[FD0F:3C]~
+>629ac609e6
+[n]%{2}:"[FD0F:3C]
+ He was a great man[FD0F:3D]~
+>5ce8264c6b
+[n]"[c1]^0[c0]! Now is not
+ the time to give in
+ to grief!!~
+>a045f5ce0f
+[n]"We must get to [c2]Diara[c0]
+ as fast as we can. Or
+ [c1]^8[c0] can't rest in peace.~
+[n]%{0}:"I understand[FD0F:3D]~
+[n]"Let's go to [c2]Diara[c0]!~
+>85f0c2fa88
+[n]"Master! Watch over me!!
+ I swear I'll crush the
+ ambitions of [c1][FD12:EB][c0]!!
+>2888f11b7e
+%{7}:"Before that, let's
+ talk to everyone!!
+>63753a80a2
+"Nothing suspicious in
+ sight!!
+>60ada55449
+"Sailing really is a man's
+ job!!
+>38c1708499
+[c1]Captain[c0][n]"Looks like the voyage
+ will end without a hitch.
+>07d2ab3f5b
+%{6}:"How about it! How's
+ the sea voyage?~
+[n]"We'll soon enter the
+ waters of [c2][FD0E:3A][c0].~
+[n]"You should rest inside!!
+>91e1eb1462
+"Don't fall overboard!!
+>38bbdd1640
+%{0}:"[FD0F:41] [c1]^4[c0]!!
+ Why are you here??~
+>2b53d4eccd
+[n]%{4}:"[FD0F:3C]~[0C]%{0}:"[c1]^4[c0]! I can't
+ understand if you don't
+ say anything[FD0F:3D]~
+>c9174b169e
+[n]%{2}:"[c1]^0[c0]! If you grill
+ her that one-sidedly,
+ she can't say a thing!!~
+[n]%{0}:"But[FD0F:3F]~[0C]%{2}:"Try putting yourself
+ in her shoes a little!!~
+[n]"[c1]^7[c0]! Let's go!!
+>13d186396a
+%{4}:"...I'm sorry.~
+[n]"I just had to come
+ with you[FD0F:3D]~
+[n]"I don't really know why
+ myself[FD0F:3D]~
+[n]"I only knew that if I
+ didn't go with you, I'd
+ regret it forever[FD0F:3D]~[0C]%{0}:"...[c1]^4[c0], I'm the
+ one who should apologize.
+ I'm sorry[FD0F:3D]~
+[n]"I didn't know you felt
+ so strongly[FD0F:3D]~
+[n]"I won't say any more!
+ Let's go together!!~
+>d306af248e
+[0C]%{4}:"[c1]^0[c0][FD0F:42]
+ [FD0F:28]!!
+>d2be17c231
+%{4}:"Eeeek!!~
+>94d6a4c411
+[n]%{0}:"What[FD0F:41] [c1]^4[c0]!
+ Let's go outside!!
+>12296b8bb8
+%{7}:"[c1]^0[c0]! Something's
+ attacking from the sea!!
+ Quick, outside!!
+>677320dfa2
+%{6}:"Everyone! A monster
+ suddenly attacked!!~
+>2acb5ba91d
+[n]"Be careful! Here it
+ comes!!
+>84c5631acf
+%{6}:"It seems [c2][FD0E:45][c0] knows
+ all about our movements.~
+[n]"In that case, let's head
+ for [c2][FD0E:2E][c0] at once!!
+>e60481ecda
+%{6}:"This is [c2][FD0E:2E][c0].~
+[n]"I'll go ahead to the
+ [c2]Temple[c0] to report to
+ [c1][FD0F:02][c0].~
+[n]"Take a look around town
+ before you come!
+ See you later!!
+>9e745e8e3f
+"I think I'm seasick[FD0F:3D]~
+[n]"Urp[FD0F:3F]
+>2e2e45ce7c
+"The room furthest right
+ is the [c1]Captain[c0]'s.~
+[n]"The rest are cabins.
