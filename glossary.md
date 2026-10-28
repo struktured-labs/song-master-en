@@ -13,7 +13,7 @@
 | ロビントン | Robinton | |
 | マーシア | Marsha | |
 | フォーン | Fone | Ahharu's fortress heart (tentative) |
-| ユリアン | Yurian | what Ahharu calls the hero |
+| ユリアン | Julian | = Emperor Julian Siegfried (b69); Ahharu's "Matrices of Julian" (b75). Older note said 'Yurian/hero' - superseded |
 | ソングマスター | Song Master | |
 | リザレクション | Resurrection | spell |
 | name8 | Ferion | Yury's master (name from ROM name table) |
@@ -57,3 +57,24 @@
 | 聖騎士団 | Holy Knights | of Marsha |
 | バーテン | Bartender | drinks: Salty Dog, Griffon's Tears, Grasshopper |
 | name4 | Selena | seer; foresees Alesia attack |
+
+| name2 | Nimens | Yury's comrade (ROM name table; dies in b74) |
+| FD12:3A | Lamia | sacrifices herself in b74 |
+| FD12:EB | Xenon | king of Croixdor; turned by Ragnas in b75 |
+| FD12:EC | Ahharu | |
+| FD0E:3B ティアマット | Tiamat | |
+| シリウス | Sirius | Tiamat (b69) |
+| デネブ | Deneb | b69 |
+| アルデバラン | Aldebaran | b69 |
+| ヴァ-ジル | Virgil | prince of Kulea |
+| ユリアン・ジ-クフリ-ド | Julian Siegfried | 1138th Galactic Emperor |
+| アラン・ジ-クフリ-ド | Alan Siegfried | |
+| アヴァロン | Avalon | |
+| マトリックス | Matrix / Matrices | |
+| きおくのかいろう | Corridor of Memory | |
+| ファ-スト・ジハ-ド | First Jihad | |
+| 詩聖か | Holy Songs | doubtful reading |
+| ディアラ | Diara | |
+| ぎじどう | Assembly Hall | |
+| 神でん | Temple | |
+| せんちょう | Captain | ship's captain (b77) |

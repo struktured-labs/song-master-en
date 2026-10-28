@@ -12,7 +12,7 @@
 >c138972351
 @{0}:"No! {9}, the barrier!!
 >9271fb9d3a
-@Ahharu:"Too late!! Yurian, DIE!!
+@Ahharu:"Too late!! Julian, DIE!!
 >8c137210b8
 @{4}:"{0}! Look out!!!
 >12745f72bc
