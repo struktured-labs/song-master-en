@@ -107,3 +107,11 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - All 63 translated message ids in b75-b77 previewed headless (13 + 30 + 20), sheets in /workspace/pv. Untranslated ids there are data junk or lone 「 opening quotes (render as '"'), not text.
 - Preview sheets keep only stable frames, so some mid-scroll pages are not captured; the text source was cross-checked for those.
 - Doubtful: b75 68868c41fc "The one who rules you is... m... e..." (JP stutters わ・・たし・・だ, "it's... m... e"); kept.
+
+## Short-name polish (2026-10-28)
+PrgBlade->PurgeBld, ChsBlade->ChaosBld, TrrBlade->TerrorBl, CrssHelm->CrossHlm, FrcHelm->ForceHlm, SylphRb->SylphRob, MdsShld->MedusaSh, MirrImg->MirrorIm. SylphRob viewed on the Equip screen (test-only WRAM poke of 7E:0A1D). Kept: SclArmor, ChnMail, ThdArmor (consistent with LthArmor etc.).
+
+## Battle / shop access (not yet verified)
+- Tiris Noah: leaving town is gated ("You can't leave town without Permission." viewed), so no random encounters from the post-intro save state.
+- Field actor table: 12-byte records from 7E:0D88 (player x = 0D88, 16-bit pixel; followers at 0D94, 0DA0, 0DAC). The y offset is not confirmed yet.
+- Shop counter in Tiris Noah not reached by blind scripted walking; needs y-coordinate or a later save state.
