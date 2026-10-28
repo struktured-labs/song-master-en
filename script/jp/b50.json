@@ -1,0 +1,73 @@
+{
+ "info": {
+  "block": 50,
+  "src": "bank 05 idx 13",
+  "size": 231,
+  "strings": 9
+ },
+ "messages": [
+  {
+   "id": "b50_000",
+   "off": "0x0009",
+   "op": "2A",
+   "uid": "85e53271e1",
+   "text": "[END]"
+  },
+  {
+   "id": "b50_001",
+   "off": "0x000D",
+   "op": "01",
+   "uid": "1d81aade4a",
+   "text": "[c1][name8][c0][n]「[c1][name0][c0]!　なにを　しておる!![wait][n]「いっこくもはやく[n]　[c2][FD0E:29][c0]に　むかうのじゃ!![LINE]"
+  },
+  {
+   "id": "b50_002",
+   "off": "0x0056",
+   "op": "01",
+   "uid": "3b017107ea",
+   "text": "[c1][name0][c0][n]「あった!　ここが　ぬけみちだ!![LINE]"
+  },
+  {
+   "id": "b50_003",
+   "off": "0x008D",
+   "op": "01",
+   "uid": "9db3cc6bc4",
+   "text": "[c1][name0][c0][n]「なんだ　からっぽだ。[wait][END]"
+  },
+  {
+   "id": "b50_004",
+   "off": "0x00A9",
+   "op": "01",
+   "uid": "aec2f4f283",
+   "text": "[pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b50_005",
+   "off": "0x00B5",
+   "op": "01",
+   "uid": "aec2f4f283",
+   "text": "[pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b50_006",
+   "off": "0x00C1",
+   "op": "01",
+   "uid": "aec2f4f283",
+   "text": "[pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b50_007",
+   "off": "0x00CD",
+   "op": "01",
+   "uid": "f4b562a95c",
+   "text": "[n]「しまった!　トラップだっ!![LINE]"
+  },
+  {
+   "id": "b50_008",
+   "off": "0x00E2",
+   "op": "26",
+   "uid": "7d4aed0818",
+   "text": "い[END]"
+  }
+ ]
+}

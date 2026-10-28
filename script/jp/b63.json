@@ -1,0 +1,24 @@
+{
+ "info": {
+  "block": 63,
+  "src": "bank 06 idx 4",
+  "size": 17,
+  "strings": 2
+ },
+ "messages": [
+  {
+   "id": "b63_000",
+   "off": "0x0006",
+   "op": "1E",
+   "uid": "85e53271e1",
+   "text": "[END]"
+  },
+  {
+   "id": "b63_001",
+   "off": "0x000D",
+   "op": "53",
+   "uid": "85e53271e1",
+   "text": "[END]"
+  }
+ ]
+}

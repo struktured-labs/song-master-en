@@ -1,0 +1,318 @@
+{
+ "info": {
+  "block": 1,
+  "src": "bank 03 idx 1",
+  "size": 3945,
+  "strings": 44
+ },
+ "messages": [
+  {
+   "id": "b01_000",
+   "off": "0x0003",
+   "op": "01",
+   "uid": "db70364501",
+   "text": "[wait][name7][tab][n]「やったぞ!![n][wait][name0][tab][n]「じょうかしろアッハル![n][wait]アッハル[tab][n]「ぬ[pause]う[pause]お[pause]あ[pause]あ[pause]あ[pause]・[pause]・[pause]・[pause]・[pause]お[pause]・[pause]・[pause]おのれえぇぇ・・・[n]　ユ[pause]・リ[pause]・ア[pause]・ン[pause]!!!・[pause]・[pause][pause]!?[n]　ふははははは!!　は-っはっはっはっ[n][wait][name7][tab][n]「くるったか、[pause]アッハル![END]"
+  },
+  {
+   "id": "b01_001",
+   "off": "0x00B7",
+   "op": "01",
+   "uid": "84b5b2b5c3",
+   "text": "[wait][name6][tab][n]「アッハルが[FD10:1F]ラグナスのからだの中に[pause]![pause]?[pause][pause][END]"
+  },
+  {
+   "id": "b01_002",
+   "off": "0x00E4",
+   "op": "01",
+   "uid": "c138972351",
+   "text": "[wait][name0][tab][n]「しまったあ!　[name9]、けっかいをっ!![pause][pause][END]"
+  },
+  {
+   "id": "b01_003",
+   "off": "0x0107",
+   "op": "01",
+   "uid": "9271fb9d3a",
+   "text": "[wait]アッハル[tab][n]「おそいわっっ!!　ユリアンッ　死ねえぇ-っ!![END]"
+  },
+  {
+   "id": "b01_004",
+   "off": "0x012D",
+   "op": "01",
+   "uid": "8c137210b8",
+   "text": "[wait][name4][tab][n]「[name0]-っ!　あぶな-いっ!!![END]"
+  },
+  {
+   "id": "b01_005",
+   "off": "0x014A",
+   "op": "01",
+   "uid": "12745f72bc",
+   "text": "[wait]アッハル[tab][n]「ぬうっ!?[pause][pause][n][wait][name0][tab][n]「あ[pause]・[pause]あ[pause]・[pause]・[pause]・[pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_006",
+   "off": "0x0185",
+   "op": "01",
+   "uid": "d493b66389",
+   "text": "[wait][name0][tab][n]「[FD0E:00]ッ、[name4]・・・[n]　ど、どうしてこんな・・・[n][wait][name4][tab][n]「[0C]、[name0]・[pause]・[pause]・[pause]ごほっ!![n][wait][name0][tab][n]「しゃべっちゃだめだっ![n][wait][name4][tab][n]「ま[pause]、[pause]ま[pause]け[pause]ちゃ[pause]・[pause]・[pause]ダ[pause]メ[pause]・[pause]・[pause][pause]よ[pause]・[pause]・[pause]・[pause][n][wait][name0][tab][n]「[name4]?・・・[name4][wait]ーー[tab]ッッ!![END]"
+  },
+  {
+   "id": "b01_007",
+   "off": "0x023E",
+   "op": "01",
+   "uid": "8b187275b9",
+   "text": "[wait]アッハル[tab][n]「ちっ、しそんじたわ!　[pause]こむすめが・・・[n]　[pause]死にいそぎおって。[n]「フッ、まあいい、[pause]どのみちきさまらは、[n]　ここでころされるのだ・・・[n]　このわたしによって、[n]　いや[pause]・[pause]・[pause]・[pause]ラグナスによって、[n]　といったほうがいいかな・・・。[n]「はあ-っはっはっはっはっはっ[END]"
+  },
+  {
+   "id": "b01_008",
+   "off": "0x02E8",
+   "op": "01",
+   "uid": "c5f79f5691",
+   "text": "[wait][name0][tab][n]「・[pause]・[pause]・[pause]る[pause]さ[pause]な[pause]い[pause]・[pause]・[pause]・[pause][n]「ゆるさない・・・きさまだけは、ぜったいに!!![pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_009",
+   "off": "0x0337",
+   "op": "01",
+   "uid": "2cb1eed706",
+   "text": "[wait]「うおおおおおおおおお-っ!!!![tab][pause][pause][pause][pause][pause][pause][pause][pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_010",
+   "off": "0x0366",
+   "op": "01",
+   "uid": "6138b5bfd9",
+   "text": "[wait]アッハル[tab][n]「ふんっ　そんな剣が・・・![n][END]"
+  },
+  {
+   "id": "b01_011",
+   "off": "0x0385",
+   "op": "01",
+   "uid": "2c6e431ce7",
+   "text": "　か、[pause]からだが!?[END]"
+  },
+  {
+   "id": "b01_012",
+   "off": "0x0396",
+   "op": "01",
+   "uid": "0f997d988b",
+   "text": "[FD10:21][n][wait]ラグナス[tab][n]「アッハル![n]　きさまは、オレがじごくへつれていく!![END]"
+  },
+  {
+   "id": "b01_013",
+   "off": "0x03C9",
+   "op": "01",
+   "uid": "f939879d6c",
+   "text": "[n][wait]アッハル[tab][n]「ぬおおおお-っ!!　やっ、やめろおお-!!![END]"
+  },
+  {
+   "id": "b01_014",
+   "off": "0x03F0",
+   "op": "01",
+   "uid": "d195c8264b",
+   "text": "[wait]アッハル[tab][n]「ぐおわああああ-っ!!!![END]"
+  },
+  {
+   "id": "b01_015",
+   "off": "0x040D",
+   "op": "01",
+   "uid": "98c8700cc5",
+   "text": "[wait][name7][tab][n]「やったのかっ![n][wait][name9][tab][n]「[name6]、いまのうちにリザレクションをっ![n][wait][name6][tab][n]「リザレクションッ![FD10:29][pause][pause][pause][pause][pause][n]「だめだッ、[pause][pause][pause]どうして!![pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_016",
+   "off": "0x0481",
+   "op": "01",
+   "uid": "1f7c7f9aeb",
+   "text": "[wait]アッハル[tab][n]「ぐあははは　なおらんよ[pause]・[pause]・[pause]・[n]　このおれの邪悪なパワ-を、[n]　すべて[pause]そそぎこんでやったのだからなあ[pause]・[pause]・[pause]・[pause][pause][n]　ぐ[pause]ふ[pause]っ[pause]・[pause]・[pause]・[n]「おのれ[pause]・[pause]・[pause]・[pause]きさまらごときゴミムシどもに、[n]　この[pause]わたしが[pause]・[pause]・[pause]・[pause]しかし、このままでは死なん![n]　みちづれだ[FD10:24]!　[pause][pause]きさ[FD10:1E]まらもなあ!![pause][pause][FD10:1E][pause][pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_017",
+   "off": "0x056B",
+   "op": "01",
+   "uid": "ab565f48b9",
+   "text": "[wait][name6][tab][n]「[FD10:1E]とっ、とびらが!![n][FD10:1E][wait][name7][tab][n]「まほうで、こわ[FD10:1E]せないのか?[n][wait][name9][tab][n][FD10:1E]「むりです!　ここは[FD10:1E]アッハルのぶんしんと[FD10:1E]もいえる[n]　フォ-[FD10:1E]ンのしんぞうぶ![n][FD10:1E]　まほう防ぎょはかん[FD10:1E]ぜんです。[n]「わた[FD10:1E]したちのちからでは、[FD10:1E][n]　とてもけっかい[FD10:1E]をやぶることはできま[FD10:1E]せん!![n][wait]アッハル[tab][n]「そ[FD10:1E]のとおりだ[pause]・[pause]・[pause][FD10:1E]はっ・[pause]はっ・[pause]・[pause][FD10:1E]は・[pause]・[pause]・[pause][n]　[FD10:1E]がはっ[pause]・[pause]・[pause]・[pause][FD10:1E]・[pause]・[n][wait][name0][tab][n]「・[pause][FD10:1E][FD11:3B]・[pause]・[pause]・[pause]・[pause]・[pause]!?[END]"
+  },
+  {
+   "id": "b01_018",
+   "off": "0x06B2",
+   "op": "01",
+   "uid": "ad8a6b3cb7",
+   "text": "[n][wait][name7][tab][n]「どうした、[name0]![n][wait][name0][tab][pause][pause][pause][n]「よんでいるんだ[pause]・[pause]・[pause]・[n][wait][name6][tab][n]「あれは![n][wait]みんな[tab][n]「[name1]!![END]"
+  },
+  {
+   "id": "b01_019",
+   "off": "0x070C",
+   "op": "01",
+   "uid": "88a3d9819b",
+   "text": "[wait][name1][tab][n]「はなしは、あとです![n]「わたしに、ついてきてください![n]　あなたたちをまっている、[n]　仲間のことをおもいうかべるのです!![n]「さあ!　いきますよ!![END]"
+  },
+  {
+   "id": "b01_020",
+   "off": "0x076B",
+   "op": "01",
+   "uid": "f263a4f5cb",
+   "text": "[wait][name7][tab][n]「おわった・[pause][pause]か・[pause]・[pause]・[pause]。[n][wait][name1][tab][n]「[pause]ええ・[pause]・[pause]・[pause]。[n][wait][name6][tab][n]「おししょうさま、かたきはうちました[pause]・[pause]・[pause]・[pause]・[pause]。[n][wait][name0][tab][n]「・[pause]・[pause]・[pause]・[pause]・[pause]・[pause]。[END]"
+  },
+  {
+   "id": "b01_021",
+   "off": "0x07EE",
+   "op": "01",
+   "uid": "f9e5b4b220",
+   "text": "[wait][name0][tab][n]「う、[pause]うう[pause]・[pause]・[pause]・[pause]う[pause]・[pause]・[pause]・[pause]・[pause]・[pause]。[n][wait][name7][tab][n]「おまえはよくやったさ、[pause][name0][pause]・[pause]・[pause]・[pause]。[n][wait][name0][tab][n]「ぼくは、[pause]なにもやっちゃいないさ[pause]・[pause]・[pause]・[pause]。[n]「アッハルは、[name4]のおかげでたおせたんだ[n]「そして、[pause]ぼくが[pause][name4]を[pause]・[pause]・[pause]・[pause][n]　死なせてしまった[pause]・[pause]・[pause]・[pause]。[n][wait][name7][tab][n]「[pause]・[pause]・[pause]・[pause]・[pause]・[pause]・[pause]。[END]"
+  },
+  {
+   "id": "b01_022",
+   "off": "0x08DC",
+   "op": "01",
+   "uid": "5318befaf3",
+   "text": "[wait][name1][tab][n]「[name0]・・・[pause]じぶんをせめても、[n]　なにもえられませんよ![n]「なにもせずにこうかいするのは、[n]　おろかもののすることです。[n]「まだ、おそくはありません。さあ、[name0]![n]　いまこそあなたのソングマスタ-としての、[n]　しんかがとわれるときです。[n]「きせきを!![n][wait][name0][tab][n]「・[pause]・[pause]・[pause]おこしてみせる[pause]![pause]![n]「きせきを[pause]![pause]![pause]![END]"
+  },
+  {
+   "id": "b01_023",
+   "off": "0x09A8",
+   "op": "01",
+   "uid": "ebe5e7ab9b",
+   "text": "「・[pause]・[pause]・[pause]うたがきこえる[pause]・[pause]・[pause]・[n]　[pause][pause][pause]あたたかい、[pause]やさしいうたごえだわ[pause]・[pause]・[pause]・[pause]。[n]「・[pause]・[pause]・[pause][FD0F:00]![n]「・・・[name4]!![n]「[name0]!![END]"
+  },
+  {
+   "id": "b01_024",
+   "off": "0x0A11",
+   "op": "01",
+   "uid": "5e9db9ac3d",
+   "text": "[n][wait][name4][tab][n]「・[pause]・[pause]・[pause]わ、[pause]わたし[pause]・[pause]・[pause]・[pause]どうして[pause]・[pause]・[pause]・[pause]?[END]"
+  },
+  {
+   "id": "b01_025",
+   "off": "0x0A4C",
+   "op": "01",
+   "uid": "fd6245c354",
+   "text": "[wait][name5][tab][n]「ケッ、みてらんね-ぜ![n][wait]ロビントン[tab][n]「はっはっはっはっ[n][wait][name9][tab][pause][pause][pause][pause][n]「よがあけるわ。[pause][pause][pause][pause][pause][pause][pause][pause][pause][pause][pause][END]"
+  },
+  {
+   "id": "b01_026",
+   "off": "0x0AAD",
+   "op": "01",
+   "uid": "4dae0a2fcf",
+   "text": "　　　EXECUTIVE　PRODUCER[n][n][n]　SEIICHI　YANO　　<YANOMAN>[END]"
+  },
+  {
+   "id": "b01_027",
+   "off": "0x0AE4",
+   "op": "01",
+   "uid": "08bfa70435",
+   "text": "　　　　　　　MANAGEMENT[n][n][n]　RYOSUKE　ASOH　　<YANOMAN>[n][n]　TAKEHISA　ABE　　<YANOMAN>[END]"
+  },
+  {
+   "id": "b01_028",
+   "off": "0x0B33",
+   "op": "01",
+   "uid": "b5473a5ca3",
+   "text": "　　　　　　　　PRODUCER[n][n][n]　　AKIHIRO　HINO　　　　　<JAM>[n][n]KAZUTOYO　ISHII　<YANOMAN>[END]"
+  },
+  {
+   "id": "b01_029",
+   "off": "0x0B81",
+   "op": "01",
+   "uid": "47903784b2",
+   "text": "　　　　　ORIGINAL　STORY[n][n][n]KAZUTOYO　ISHII　<YANOMAN>[END]"
+  },
+  {
+   "id": "b01_030",
+   "off": "0x0BB6",
+   "op": "01",
+   "uid": "afb9411295",
+   "text": "　　　　SCENARIO　WRITER[n][n][n]　　　　　S　A　Y　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_031",
+   "off": "0x0BE5",
+   "op": "01",
+   "uid": "c2c4cb556e",
+   "text": "　　　　　　GAME　DESIGN[n][n][n]　　　　　A　K　I　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_032",
+   "off": "0x0C12",
+   "op": "01",
+   "uid": "38c0f80afb",
+   "text": "　　　　　FIELD　PROGRAM[n][n][n]　　　SHOGO　OHKUBO　　<JAM>[END]"
+  },
+  {
+   "id": "b01_033",
+   "off": "0x0C44",
+   "op": "01",
+   "uid": "ee174dd5d7",
+   "text": "　　　　　BATTLE　PROGRAM[n][n][n]　　　ROWDY　HERDY　　　<JAM>[n][n]　　　　　A　K　I　2　　　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_034",
+   "off": "0x0C91",
+   "op": "01",
+   "uid": "5e5208ed44",
+   "text": "　　　　　MUSIC　PROGRAM[n][n][n]　TSUYOSHI　TANAKA　　<JAM>[END]"
+  },
+  {
+   "id": "b01_035",
+   "off": "0x0CC4",
+   "op": "01",
+   "uid": "3491f0e48f",
+   "text": "　　　　FIELD　MAP　DESIGN[n][n][n]　　STUDIO　MANBOW　　<JAM>[END]"
+  },
+  {
+   "id": "b01_036",
+   "off": "0x0CF8",
+   "op": "01",
+   "uid": "70b4da739a",
+   "text": "　　　　CHARACTER　DESIGN[n][n][n]　　　TOSHIHIRO　NUKIYAMA[END]"
+  },
+  {
+   "id": "b01_037",
+   "off": "0x0D2B",
+   "op": "01",
+   "uid": "c660f00816",
+   "text": "　　　　　GRAPHIC　DESIGN[n][n][n]　M　TAKAHASHI　MK-2　　<JAM>[n][n]　　　ERASER　IKEDA　　　　<JAM>[n][n]　　　MITSURU　OHWA　　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_038",
+   "off": "0x0D98",
+   "op": "01",
+   "uid": "e11cc41120",
+   "text": "[n]SUMIKAZU　KAMISHIRO　<JAM>[n][n]　　NAOKO　SAKURADA　　　<JAM>[n][n]　ATSUSHI　KAMIZAWA　　<JAM>[n][n]　　KAZUHIKO　ANDOH　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_039",
+   "off": "0x0E0A",
+   "op": "01",
+   "uid": "7841b5d0ff",
+   "text": "[n][n]　TETSUYA　TANIYAMA　　<JAM>[n][n]　MITSURU　TAKAHASHI　<JAM>[n][n]　　HIDEHIRO　SATOH　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_040",
+   "off": "0x0E62",
+   "op": "01",
+   "uid": "a824f3bb74",
+   "text": "　　　　　MUSIC　COMPOSER[n][n][n]　TSUYOSHI　TANAKA　　　<JAM>[n][n]　　　　　　　COZY　　　　　　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_041",
+   "off": "0x0EB3",
+   "op": "01",
+   "uid": "ef2ed4a8f4",
+   "text": "　　　　　SPECIAL　THANKS[n][n][n]　　　TETUYA　MANAKA　<JAM>[n][n]　　　　　M　KAXIMA　　　　<JAM>[END]"
+  },
+  {
+   "id": "b01_042",
+   "off": "0x0F00",
+   "op": "01",
+   "uid": "d876bb6409",
+   "text": "[n][n]　　　　<PIEROT　PROJECT>[n][n]　　　SAWADA　　/　YOSHIOKA[END]"
+  },
+  {
+   "id": "b01_043",
+   "off": "0x0F35",
+   "op": "01",
+   "uid": "2ce5d00963",
+   "text": "[n][n]　　　　　©1992　YANOMAN[n][n]　©1992　JAPAN　ART　MEDIA[END]"
+  }
+ ]
+}
