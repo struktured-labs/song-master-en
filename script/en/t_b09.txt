@@ -228,9 +228,9 @@ They say [c1]goblins[c0] appear near
 A war like none before is
  about to begin[FD0F:3D]
 >2a8f5b4dd8
-My husband seems to have
- something on his mind
- lately[FD0F:3D]
+Lately my husband seems
+ to have something on his
+ mind[FD0F:3D]
 >1482fd6a3c
 Thank you for helping my
  husband.~

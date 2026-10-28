@@ -160,3 +160,9 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Real label ids per block come from tools/py/sm_script.py parse(load(b)) (b07 town NPCs are c8..e1, not 02..22). mk.py can force a label in ANY block (054A=block), e.g. b24 lbl f7.
 - System popups (b02) are 16 columns wide. In t_*.txt an indented continuation line is a SOFT join (space); start the next line without a leading space to force a hard [n]. Rewrote: Not enough money / Can't carry more\n[item] / Can't sell\n[item]! / Can't use\n[item]! / Nothing's wrong. / Can't use magic! / Not enough MP! / Can't use here! / [item]\nx[n] obtained!. Items longer than 16 chars (e.g. Provisional Permit) will still wrap in these popups.
 - Item-count spacing: the count/× drawing code (01:B93D.., 02:B740.., 02:8DB3..) is byte-identical to the JP ROM and positions are fixed offsets (+9 tiles) from the item slot; short names are <=8 chars, so spacing matches JP by construction.
+
+## Pass: b09 on-screen sweep (Oct 28)
+- Some NPC lines get a JP 「 glyph (tile 0x70) from the script, outside the string. That glyph is now drawn as `"` (font/lower8.txt), so these lines show a normal opening quote.
+- Because that external quote also takes a column, the wrapper doesn't count it. b09 2a8f5b4dd8 overflowed ("hav e"). It's reworded so the first line is ≤23 characters. Other entries that start with an external 「 and have a 24-character first line could have the same problem. None seen so far.
+- In b09 lbl 82, "accept it.Priest" comes from forcing the label: the text falls through into the next label. It isn't a real game bug.
+- The "Elixir x2 obtained!" popup has been checked on screen.
