@@ -1,0 +1,181 @@
+# b70-b73: Tiamat crew (Deneb, Aldebaran), Tiamat vs Fone, Kulea resistance, Prince Virgil.
+>18d83936cf
+[c1]Deneb[c0][n]"[FD0F:1D]! Would you like
+ medicine?
+>fffd02eb47
+[0C]"[FD0F:1D]! Take care!!
+>04d526efc7
+[c1]Sirius[c0][n]"[FD0F:1D]! Beginning
+ recovery!!~
+>9f89f8f79d
+[c1]Aldebaran[c0][n]"[FD0F:1D]! Would you like
+ items?
+>4e6b219060
+%{0}:"So this is where I was
+ born[FD0F:3D]
+>8564abfd8f
+%{7}:"These ruins are just like
+ the [c2]Melrose[c0] ones.
+>fae64a98a5
+%{0}:"[c2][FD0E:3B][c0]! Answer my
+ call!!
+>412d42f07c
+%{0}:"[c1]^9[c0]! What do I do!!~
+%{9}:"[c1][FD0E:3B][c0] is now
+ under your control.~
+"Now! Your orders!!~[0C]%{0}:"Got it!!~
+>338b3d7bd8
+[n]"[c1][FD0E:3B][c0], enter
+ battle mode!!~
+"Target: [c2]Fortress
+ [FD0E:3E][c0]! Launch!!
+>02c57e925e
+%{6}:"Found it! There!!~
+>ce43fb3951
+[n]%{7}:"Uh-oh! Our side is
+ under attack!!~[0C]%{9}:"We are almost in range.
+>5e044bdb3a
+%{9}:"[c2]Fortress [FD0E:3E][c0] is
+ in range.~
+%{0}:"All right!
+ [c2][FD0E:3B][c0]! Open fire!!
+>045e12c89c
+%{7}:"No good! We're getting
+ nowhere!!~
+>33cc26de63
+[n]"Can't we do something?~
+%{9}:"[c1][FD0E:3B][c0] was never
+ built for combat.~
+%{4}:"At this rate the damage
+ will only spread!
+ [c1]^0[c0][FD0F:3F]~
+%{0}:"...No choice.~[0C]"We ram [c1][FD0E:3B][c0] into
+ [c2][FD0E:3E][c0]!!~
+%{7}:"What!?~
+%{0}:"Then [c2][FD0E:3E][c0]
+ shouldn't be able to
+ attack anymore.~
+%{6}:"I see! We board
+ [c2][FD0E:3E][c0] and wreck it
+ from inside!!~
+%{0}:"Right! But if it goes
+ wrong, [c1][FD0E:3B][c0] might
+ break apart.~
+"I'll do the rest with
+ [c1]^9[c0]. So I want all
+ of you to escape!!~[0C]%{7}:"What are you saying!
+ I'm sticking with you to
+ the end!!~
+>2cac9e6a17
+[n]%{4}:"Me too! [c1]^0[c0]!!~
+>acb2aa0fad
+[n]%{6}:"That's right!
+ [c1]^0[c0]!!~
+>302166ddf5
+[n]"No hogging the glory
+ for yourself!!~[0C]%{9}:"...Let us try it!
+ [c1]^0[c0]!!~[0C]%{0}:"...All right!
+>f11b4dfee0
+ Send [c1][FD0E:3B][c0] charging
+ at the enemy!!~
+"Launch!!
+>39a1736e79
+%{9}:"It seems we've stopped
+ [c2][FD0E:3E][c0]!!~
+%{0}:"Everyone! This is the
+ final battle! Let's go!!
+>8619bc13ce
+[c1][FD0E:45] Soldier[c0][n]"Suspicious lot!
+ Prepare yourselves!!
+>fca0075814
+[c1][FD0E:45] Soldier[c0][n]"Enemies! Get 'em!!
+>9a329b4a33
+%{7}:"What! More enemies!?~
+%{0}:"[c1]^7[c0]! I don't think
+ so!!~[0C]"We're the [c2][FD0E:46][c0]
+ resistance! Who are you
+ people? You don't seem to
+ be from [c1][FD0E:45][c0].~[0C]%{0}:"We're on our way to
+ [c2][FD0E:45][c0] to crush
+ [c1][FD12:EB][c0]'s ambitions.~[0C]"With just this many...?~
+"To reach [c2][FD0E:45][c0] you
+ must cross
+ [c2][FD0E:36][c0].~
+"But they've made it a
+ fortress! There's no way
+ you'll get through!!~[0C]%{0}:"Even so, we must go.~[0C]"All right! If you're
+ fighting [c2][FD0E:45][c0] too,
+ follow me!!
+>5cbb11c3c0
+[c1]Virgil[c0][n]"I am [c1]Virgil[c0], prince
+ of [c2][FD0E:46][c0]!!~
+"[FD0F:41] Are you not
+ Sir [c1]^2[c0]!!~[0C]"[c1]^2[c0]!? The [c1]^2[c0]
+ sung of as the hero of
+ [c2][FD0E:41][c0]?~[0C]%{2}:"Indeed I am!
+ Prince [c1]Virgil[c0]!!~
+"But why are you in a place
+ like this?~[0C][c1]Virgil[c0][n]"We stayed here in secret
+ to resist
+ [c2][FD0E:45][c0]!!~
+"They never imagined we'd
+ be hiding beneath the
+ town.~
+"What brings you to
+ [c2][FD0E:35][c0]?~[0C]%{2}:"We mean to storm
+ [c2][FD0E:45][c0], to defeat
+ [c1][FD12:EB][c0] and stop
+ [c1][FD12:EC][c0]'s revival
+ at any cost.~[0C][c1]Virgil[c0][n]"But crossing
+ [c2][FD0E:36][c0] will be
+ no easy feat!!~[0C]%{0}:"Isn't there some way[FD0F:3D]~
+"If [c1][FD12:EC][c0] revives,
+ something terrible will
+ happen.~[0C][c1]Virgil[c0][n]"...Very well. We will be
+ the decoy.~
+"While we draw the enemy
+ off, cross
+ [c2][FD0E:36][c0]!!~
+"Now, take this with you!!~
+>c073ada52c
+[0C]"We pray for your
+ success!!
+>1055c6d92b
+"This is the only place
+ left unburned by the war.
+>a0428ea449
+"Go up from here and you'll
+ get outside.~
+"[FD0F:2C]
+>5b156df05a
+"I'll restore your
+ strength!!~
+>c3fb25841f
+[0C]"There, you'll be fine!!
+>901fd5e20a
+"Need any medicine?
+>bfb3c6f5ed
+"If it comes to this, I'll
+ go out with a bang!!
+>5722143c8f
+[c1]Virgil[c0][n]"We pray for your good
+ fortune!!
+>77b21f72ba
+"Please take what's in the
+ treasure chests here.
+>9acdaaa4cb
+"I can let you have some
+ items, if you like.
+>31c2f7d602
+"I hear [c2][FD0E:36][c0] has
+ become a maze.~
+"Take care.
+>2093cac24f
+"They don't want to occupy
+ anything! They only want
+ to destroy!!
+>920f77dc75
+"We won't let them run
+ wild any longer!!~
+"We'll fight for the pride
+ of [c2][FD0E:46][c0]!!
