@@ -83,3 +83,5 @@
 | 聖戦 | Holy War | prologue |
 - かりにんていしょ (item 145): **Temp. Permit**. It was "Provisional Permit", shortened so it fits the 16-column popups.
 | ギョ-ム (FD0F:08) | G | currency unit, matches menus |
+
+| Item names in the icon popup | max 12 chars | longer names wrap and only the tail shows; shortened 18 items (see notes) |
