@@ -385,3 +385,17 @@ org $3A8000
   dw $8002
   dw 9216-1                    ; bit15=0: raw copy, size-1
   incbin "prologue.bin"
+
+; ---- Shop quantity box: "合計" (total) -> "Cost", drop the "コ"/個 counter after the quantity ----
+org $02BBA4 : db $00             ; lda #$243E (counter glyph after quantity, sta $481A) -> blank tile
+org $028DC5
+  JSL shop_total : NOP #8
+org $02BB72
+  JSL shop_total : NOP #8
+org $3FD000
+shop_total:                       ; A16, DB=$7E (as at the call sites)
+  LDA #$2482 : STA $4844          ; C
+  LDA #$240F : STA $4846          ; o
+  LDA #$2413 : STA $4848          ; s
+  LDA #$2414 : STA $484A          ; t
+  RTL

@@ -146,3 +146,12 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Script interpreter: op dispatch 02:8074 jmp ($8077,x). Story flags: base 7E:0C14, MSB-first bits (flag n = byte n/8, mask $80>>(n&7)); test at 00:BEF2. Op 0B n = set flag?, 0D n L = goto L if flag n clear.
 - Gate: b05 label $32 "You can't leave town without permission" (label $33 shows it). Flag 6 (7E:0C14 mask $02) is set only in b07 when the player is handed a pass to show the sailors, so the way out is the harbor. Not yet reached: scripted walking found the east bridge guard (different line: "Sir! You can't just walk in here"), not the harbor.
 - Remaining 418 untranslated string uses (172 ids) all classified in docs/untranslated_ids.md: credits 18, name-entry 4, control-only 158 uses, term-list refs 37 uses (English via lists.json), data junk 136 ids / 201 uses. No real dialogue left untranslated.
+
+## Session: harbor / shop / clinic pass
+- Flags are 1-based (00:BEF2 does `dec a`), base 7E:0C14; flag n = byte (n-1)/8, mask $80>>((n-1)&7). Flag 6 = 0C14 mask $04. Script op `0d f L` = goto L if flag f SET.
+- Dock guard (b05 lbl 29/2a) verified on screen; with flag 6 + [Boarding Pass] the ship sails to the world map.
+- Test harness: smmenu/mk.py forces any block/label (poke 054A=block, 0C91=FF, set A at 02:8050). Labels in b07 other than 01/0a mostly fall through to the pass-holder branch, so coverage from forcing is limited.
+- Clinic (b07 lbl 01, op 21) verified: Treat/Medicine/Leave and KO/Poison/Conf ailment lines with prices.
+- Shop quantity box: JP 合計 (02:8DC5, 02:BB72) replaced by "Cost" via JSL to $3FD000; the counter glyph コ (lda #$243E / sta $481A at 02:BBA3) blanked. Verified on screen.
+- Terms shortened to fit 24 cols: 0x2D, 0x2E, 0x30, 0x36. 0x2E/0x30 verified on screen; 0x2D/0x36 not yet seen.
+- Forcing b07 label 04 shows garbage "b%dd2cbP a0": likely a non-text label hit by forcing (unverified vs JP; the JP ROM crashes with this harness walk).
