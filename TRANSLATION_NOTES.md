@@ -130,4 +130,4 @@ target window "Man-Eater H·P 240", Magic submenu "Spirit/Heal/Summon".
 Known: a single varying glyph (ュ/リ/る) appears after the spell name in the cast message;
 it also appears in the untouched JP ROM, changes frame-to-frame, likely an animated tile
 sharing VRAM with the text window. Not a text issue.
-Known: lowercase "p" glyph reads like a capital P in the font.
+Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-like shape); verified in battle "Spirit".
