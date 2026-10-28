@@ -1,0 +1,78 @@
+# b75: Croixdor inner keep. Ragnas betrays King Xenon, absorbs Ahharu's power, Ahharu takes him over and returns.
+>003131f2b4
+[c1][FD0E:45] Soldier[c0][n]"Long live His Majesty
+ [c1][FD12:EB][c0]!!
+>2907c2b152
+[c1][FD0E:45] Knight[c0][n]"You'll go no further!!~
+[n]"Feel the might of our
+ power!!
+>9f7acdfa3b
+%{0}:"I sense it[FD0F:42]
+ [c1][FD0F:22][c0] is ahead!!
+ Let's go, everyone!!
+>dc1eb5e526
+[c1][FD0F:22][c0][n]"So you've finally come
+ this far, [c1]^0[c0]!!~[0C]%{0}:"[c1][FD0F:22][c0]! I won't let
+ you have your way!!~
+>1a7ed8e598
+[n][c1]King [FD12:EB][c0][n]"[c1][FD0F:22][c0]! What is this
+ blunder!!~
+[n]"Hurry and dispose of
+ these people!!~[0C][c1][FD0F:22][c0][n]"Your rashness in setting
+ [c2][FD0E:3E][c0] in motion seems
+ to have backfired[FD0F:3D]~
+>c4a186a226
+[n]"I shall inherit the power
+ of [c1][FD12:EC][c0] myself!!
+ I have no more use for you!!~
+>43b7ece6c9
+[0C][c1]King [FD12:EB][c0][n]"What! [c1][FD0F:22][c0]!!
+ What is the meaning of this!?~
+[n][c1][FD0F:22][c0][n]"Heh heh heh[FD0F:42] In short,
+ you aren't up to the job!!~
+[n]"Make yourself useful and
+ hold them off a while!!~
+>f5721787d7
+[n][c1]King [FD12:EB][c0][n]"What! You wretch!!
+ You were deceiving me!?~
+[n]"Wh-what! My body!!
+ Uwoooooh!!
+>542e08f19e
+[c1][FD0F:22][c0][n]"Tch! [c1][FD12:EB][c0] was only
+ good for that much!!~[0C]%{0}:"[c1][FD0F:22][c0]! I must
+ defeat you after all!!~[0C][c1][FD0F:22][c0][n]"Ha ha ha! Can you?
+ The power of [c1][FD12:EC][c0] is
+ already in my hands!!~
+[n]"No one can defeat me now!
+ Ha ha ha ha!!~
+>568bb38c17
+[n]"[FD0F:41] What[FD0F:3F]
+ M-my mind[FD0F:3D]~
+>9c40c6a0bd
+[n]"S-stop! [c1][FD12:EC][c0]!![n]
+>68868c41fc
+ Stop it! The one who rules
+ you is... m... e...
+>4523a20bc3
+[c1][FD12:EC][c0][n]"Ugh...!
+ At... last...~
+[n]"...At last I am free!!~
+[n]"I have returned to this
+ world to fulfill my hatred
+ and my revenge!!~[0C]%{0}:"[c1][FD12:EC][c0][FD0F:41]~
+[n]%{9}:"Oh no!!~
+[n]"By making contact with
+ [c1][FD12:EC][c0], [c1][FD0F:22][c0] summoned
+ [c1][FD12:EC][c0] himself!!~[0C]%{0}:"[c1][FD12:EC][c0]! You have
+ already lost your human
+ heart. You're only a grudge!!~
+[n]"What you need is to be
+ purified!!~[0C][c1][FD12:EC][c0][n]"Silence! Insolent
+ [c2]Matrices[c0] of [c1]Julian[c0]!!~
+[n]"How long I wandered in
+ endless darkness!!~
+[n]"This time! I shall become
+ the true Creator!!~
+[n]"My kingdom of slaughter
+ and ruin shall begin
+ with your blood!!
