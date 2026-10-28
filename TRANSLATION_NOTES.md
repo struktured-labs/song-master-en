@@ -210,3 +210,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Farion (ファリオン, b20 64) is a different man from Ferion, as in the JP. Christ = クリスト.
 - Map box showed the shortened name "Barahat" (was "Barahat Pass") in full (b22 06/09), plus Farhan, Watts Pass, Christ.
 - Travel Pass office, Farhan shops, and the old-man line all read correctly. No fixes.
+
+## Chunk 10 (b24 d2 – b27 02), viewed
+- Log lines 427–476 viewed (sheets c1000–c1007). Inn, Alster guards/townsfolk, Palm Pass map box, El Ran/Selena lines, rock-paper-scissors gambler all render cleanly.
+- Fix: b25 0d "just a drunkold guy" — fragment 50e0ea2589 lost the space before the soft-continued 0ce32c7286; now "just a drunk " (trailing space). Queued in recheck.
+- Open: RPS hand-choice popup (uid 368155822f, `[x5A][x5B][x5C]Rock/Scissors/Paper`) shows only cursor + "c" under forced labels. JP is ヨラリ + グ-/チョキ/パ- (2–3 chars). Queued in recheck (b26 52) to check in a real flow before changing.
