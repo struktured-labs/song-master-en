@@ -168,7 +168,7 @@
  [c2][FD0E:3B][c0]...?~[0C]%{6}:"I believe it's the name of
  the capital of [c2]Ancient
  Melrose[c0].~
-"Most [c1]Excelion[c0] ruins
+"Most [c1]Exelion[c0] ruins
  are in the [c2]Central
  Plains[c0][FD0F:3D]~
 "But the [c2]Melrose[c0] ruins
@@ -263,7 +263,7 @@
  together.
 >78c296b5a8
 "The history of the
- [c1]Excelion[c0] holds many
+ [c1]Exelion[c0] holds many
  mysteries.
 >62edc061c1
 "I research the

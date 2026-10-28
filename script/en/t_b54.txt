@@ -68,8 +68,8 @@ We were tricked by
 >ff3ff62cfd
 [0C][c1][FD0F:23][c0][n]"Mmm[FD0F:42] This looks like
  the work of the
- [c1]Excelion[c0][FD0F:3D]~
-%{0}:"The [c1]Excelion[c0]...?~[0C]%{1}:"The [c1]Excelion[c0] were a
+ [c1]Exelion[c0][FD0F:3D]~
+%{0}:"The [c1]Exelion[c0]...?~[0C]%{1}:"The [c1]Exelion[c0] were a
  people said to have fought
  beside the gods when the
  gods fought
@@ -78,10 +78,10 @@ We were tricked by
  perished through their own
  mistakes.~[0C][c1][FD0F:23][c0][n]"Just so! By now, few
  things left by the
- [c1]Excelion[c0] should
+ [c1]Exelion[c0] should
  remain!~
 "Look into the
- [c1]Excelion[c0] and you
+ [c1]Exelion[c0] and you
  should learn something!!~
 %{0}:"Thank you,
  [c1][FD0F:23][c0]!!~[0C]"Also, the reason we came

@@ -32,6 +32,7 @@
 | アクローン | Acron | country; capital エルース・ノア Elles Noah |
 | アルスター | Alster | port |
 | ファローン | Farlon | |
+| ファリオン | Farion | b32 NPC; distinct from Farlon (ファローン) |
 | ノーザンブリア | Northumbria | |
 | クロワドール | Croixdor | enemy nation |
 | バーニシア / クーレア / リムリック | Barnicia / Kulea / Limerick | |
