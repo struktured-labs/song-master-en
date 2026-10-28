@@ -215,3 +215,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Log lines 427–476 viewed (sheets c1000–c1007). Inn, Alster guards/townsfolk, Palm Pass map box, El Ran/Selena lines, rock-paper-scissors gambler all render cleanly.
 - Fix: b25 0d "just a drunkold guy" — fragment 50e0ea2589 lost the space before the soft-continued 0ce32c7286; now "just a drunk " (trailing space). Queued in recheck.
 - Open: RPS hand-choice popup (uid 368155822f, `[x5A][x5B][x5C]Rock/Scissors/Paper`) shows only cursor + "c" under forced labels. JP is ヨラリ + グ-/チョキ/パ- (2–3 chars). Queued in recheck (b26 52) to check in a real flow before changing.
+
+## Chunk 11 (b27 04 – b28 6f), viewed
+- Log lines 477–532 viewed (sheets c1100–c1110). Singer Guild/Hudson, Alster townsfolk, Purge Blade seller, temple, weapon/armor/item/clinic/inn shops, sailors' inn, stagecoach station all render cleanly; shop lists and "Not enough money" fit.
+- Fix: b27 8c "rock-paper- scissors" split at the hyphen with a stray space; the compound is now on one source line so it wraps whole.
+- Forced-label artifacts (same class as the earlier stagecoach "=a"): option popups showing a single letter ("c", "d", "sd", "ud") and the trailing "bミ b" after the broker/stagecoach prompts. Broker b28 4b added to recheck for a real-flow check.
