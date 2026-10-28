@@ -1,0 +1,149 @@
+# b74: Croixdor fortress, duel with Ragnas, Lamia sacrifices herself, ^2 dies, Fone activates.
+>605abcba52
+[c1][FD0E:45] Soldier[c0][n]"Enemies! Get 'em!!
+>cc8c1bd78b
+[c1][FD0E:45] Soldier[c0][n]"Curse you!
+ You'll go no further!!
+>b040b9238a
+[c1][FD0E:45] Soldier[c0][n]"Long live His Majesty
+ [c1][FD12:EB][c0]!!
+>9b28de58f1
+[c1][FD0E:45] Soldier[c0][n]"I'll show you what for!!
+>735df552ca
+[c1][FD0E:45] Knight[c0][n]"You did well to get this
+ far! But this is the end!!
+>9cd83ea118
+[c1][FD0E:45] Knight[c0][n]"You think the likes of
+ you can beat me?
+>0787d113d7
+[c1][FD0E:45] Knight[c0][n]"On my pride, I will bury
+ you all!!
+>19c09e8a5c
+%{0}:"I sense [c1][FD0F:22][c0]
+ up ahead[FD0F:3D]
+ Everyone! Let's go!!
+>fb1eb6ebca
+[c1][FD0E:45] Soldier[c0][n]"Don't think you'll leave
+ this room alive!!
+>db4bc32c49
+[c1][FD0F:22][c0][n]"So you made it this
+ far at last[FD0F:3D]~
+"I should have finished you
+ off back then!!~
+%{0}:"[c1][FD0F:22][c0]! Can't you see
+ [c1][FD12:EC][c0] is using
+ you!!~
+"Remember your mission as a
+ [c2]Matrix[c0] like me!!~[0C][c1][FD0F:22][c0][n]"Silence! What could
+ you possibly understand!!~
+"The [c1][FD0F:0E][c0] tried to
+ erase me!!~
+"To the [c1][FD0F:0E][c0], you and I
+ are just tools for
+ defeating [c1][FD12:EC][c0]!!~
+"Once you're no longer
+ needed, you'll be erased
+ too!!~
+"Lend me your power! Let us
+ build our own world,
+ ruled by neither the gods
+ nor [c1][FD12:EC][c0]!!~[0C]%{0}:"...I can't do that!!~
+"Because,
+ [c1][FD0F:22][c0]! Your
+ heart is far too evil!!~
+"As long as you hold such
+ ambitions, you're no
+ different from
+ [c1][FD12:EC][c0]!!~[0C][c1][FD0F:22][c0][n]"Then die here! As a
+ last mercy, I'll bury
+ you with my own hands!!
+>0dabe1abe2
+[c1][FD0F:22][c0][n]"That I should lose[FD0F:3D]~
+"So this is as far as my
+ fate goes[FD0F:3D]~
+"[c1]^0[c0]! Go on, finish
+ me!!~[0C]%{0}:"[FD0F:3C]~
+[c1][FD0F:22][c0][n]"What's wrong... Isn't
+ defeating me your
+ mission[FD0F:3D]~
+>ea59d06def
+[0C]%{2}:"[c1]^0[c0]! What are you
+ hesitating for!!~
+>a95d415d5d
+[n]%{0}:"But
+ [c1][FD0F:22][c0] is a
+ [c2]Matrix[c0], same as me!!~[0C]%{2}:"Too soft, [c1]^0[c0]!!
+ Bah! I'll do it!!
+>081c357b99
+[c1][FD12:3A][c0][n]"I won't let you kill
+ Lord [c1][FD0F:22][c0]!!~
+%{2}:"What!!~
+>b18d1000b7
+[n][c1][FD12:3A][c0][n]"Aaaaagh!![0C]
+>c7fb7f355c
+[c1][FD0F:22][c0][n]"[c1][FD12:3A][c0]! You[FD0F:3F]~[0C]%{0}:"[c1]^2[c0]! Hang on!!~
+%{2}:"Looks like I've lost my
+ touch[FD0F:3D]~
+"To end up trading blows
+ with a woman...
+ *cough*!!~
+"The rest is up to you...
+ Defeat...
+ [c1][FD12:EC][c0]....~
+%{0}:"[c1]^2[c0]! [c1]^2[c0]!!~
+>3090b86c64
+[0C][c1][FD0F:22][c0][n]"[c1][FD12:3A][c0]...
+ You fool
+>54327074d2
+[c1][FD0F:22][c0][n]"What[FD0F:41]
+ That's [c2]Fortress
+ [FD0E:3E][c0]!!~
+>d7955221fc
+[0C]%{0}:"What!!~[0C][c1][FD0F:22][c0][n]"It seems I can't give
+ my life away just yet!!~
+"[c1]^0[c0]! I swear I will
+ become king of this
+ world!!~
+>a3b20dac1b
+[n]%{7}:"Get back here! Tch[FD0F:3D]~
+>2f5ac65caa
+[n]%{0}:"[c1]^2[c0], I'm sorry...
+ Maybe I was too
+ soft[FD0F:3D]~
+%{4}:"[c1]^0[c0][FD0F:3D]
+>ae7a624a3f
+%{9}:"[c1]^0[c0]!
+>59869dbf05
+ [c2][FD0E:3E][c0] has started
+ moving!!~
+%{0}:"[c1]^9[c0]! Not all the
+ [c2]Orbs[c0] are gathered, so
+ why is it moving?~
+%{9}:"It is probably not fully
+ revived!~
+"But human power can no
+ longer do anything
+ against it.~
+%{6}:"Then! Is this the end
+ for us...?~[0C]%{0}:"[c1]^9[c0]! Anything we
+ can do!?~[0C]%{9}:"Just one thing! We meet
+ it with [c2][FD0E:3B][c0].~
+"But [c2][FD0E:3B][c0] was never
+ built for combat.~
+"I cannot say how long it
+ could hold out.~[0C]%{0}:"Either way, if we do
+ nothing, the land of
+ [c2][FD0F:01][c0] will be
+ burned!
+ Let's hurry to
+ [c2][FD0E:3B][c0]!!~
+%{9}:"Understood.~
+"Go to [c2][FD0E:34][c0] and use
+ the [c2]Pointer[c0] at the
+ center of the stone
+ circle. It will transport
+ us to [c2][FD0E:3B][c0]!~
+"Let us hurry!!
+>ec1cc3acf5
+[c1][FD0E:45] Soldier[c0][n]"Who goes there! You shall
+ not pass!!
