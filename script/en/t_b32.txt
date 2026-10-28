@@ -1,0 +1,154 @@
+# b32-b35: Alesia search for Ferion, Farhan, camel. Skipped data: 5d73c69c99 b03b282864 3944c05517 d4e6c77dcf ff2cf25c40
+>acb8bb48ea
+"What is it with you people?~
+"^8...? Never heard of him!!~[0C]%{0}:"Liar! I can sense a
+ [FD0F:27]'s power in you,
+ no, even more than that!!~
+"...What nonsense is this!
+ What's so funny about
+ teasing an [FD0F:20]!?~
+[n]
+>795897b7a7
+"I don't want to talk any
+ more! Go away!!
+>1a480a7dcc
+%Farion:"I'm [c1]Farion[c0]. What do you
+ want?~
+"Huh? A [FD0F:27]...?
+ A [FD0F:12]???~
+"Well, that sure ain't me.
+>5f3d49d718
+"My, my, visitors?~
+%{0}:"Ma'am, do you know a man
+ called ^8?~[0C]"Eh!? What's that!! Sorry,
+ I'm hard of hearing.~
+%{0}:"A man called ^8. Do you
+ know him?~[0C]"Oh yes, lovely weather.
+>eb3238aa35
+"Goodness, I'm so busy!!~
+"Looking for someone!? I've
+ no time for that now!!
+>375c153259
+"Hmm... I don't know anyone
+ called ^8.
+>8969e91258
+%Elder:"I am the [c1]elder[c0] of this
+ village.~
+"
+>3eb111ffe6
+^8...? I recall someone long
+ ago who became a [FD0F:27].
+ I wonder what became of
+ him...?
+>ecddf2308e
+~[0C]%{1}:"No leads here, it
+ seems[FD0F:3D]~
+"Let's go back to
+ [c2][FD0E:15][c0] for now.
+>dbb91dab56
+I've nothing more to say to
+ you!!
+>515b4db6d6
+"I'm so sick of this
+ backwater!!
+>3539f10f8b
+"Take care, then!!
+>b2e3b64894
+"Let me see your
+ [c2][[FD10:8E]][c0].~[0C]
+>1671c2e2ce
+"You have no
+ [c2][[FD10:8E]][c0]?~
+"To go on ahead, you must
+ have a [c2][[FD10:8E]][c0]
+ issued.
+>e3bd8b54c6
+"This is the village of
+ [c2][FD0E:1A][c0].~
+"North of here lies dry
+ wasteland.
+>2d32936525
+[c1][FD0F:0F][c0][n]"How about it? Buy
+ something?
+>6f91b47f80
+"There's no shop here, but
+ traveling [c1][FD0F:0F]s[c0]
+ keep us supplied.
+>f5589abbdb
+[c1][FD0F:0F][c0][n]"How about rare
+ [c2][FD0E:46][c0] <weapons>?
+ You won't regret it!!
+>28f5168d7b
+"Come again!!
+>5274a80322
+%{0}:"Sir, are you from
+ [c2][FD0E:46][c0]?~[0C][c1][FD0F:0F][c0][n]"Yep! War looked likely, so
+ I fled here.~
+%{0}:"Do you know an [FD0F:0D]
+ called ^8?~
+[c1][FD0F:0F][c0][n]"^8...? Can't say I do[FD0F:3D]~
+"Speaking of old men, one
+ traveled with me from
+ [c2][FD0E:46][c0]!!~
+"When [FD0F:1E]s attacked
+ our [FD0F:2B], he drove
+ them off with some strange
+ power!!~
+"Like a [c1][FD0F:27][c0], but
+ that shabby old man
+ couldn't be a
+ [c1][FD0F:27][c0].~[0C]%{1}:"^0[FD0F:3F]~
+%{0}:"Sir, do you know where
+ that old man went?~
+[c1][FD0F:0F][c0][n]"Hmm[FD0F:3D] He said he was
+ going to [c2][FD0E:20][c0] and
+ hired some guards.~[0C]%{0}:"[c2][FD0E:20][c0]!?~
+%{1}:"It seems we should go
+ to [c2][FD0E:20][c0][FD0F:3D]
+>a655522268
+[c1][FD0F:0F][c0][n]"Need medicine?
+>4f2ea1518e
+[c1][FD0F:0F][c0][n]"If you're crossing the
+ [c2]Central Plains[c0], you'll
+ be glad you bought some!!
+>3dc0bddc44
+[c1][FD0F:0F][c0][n]"Good stock of <shields>
+ and <armor>!!
+>2f08359d6d
+"Grrr!!
+>7b6acffd28
+%{0}:[FD0F:2D]~[0C] [c2][[FD10:74]][c0]
+>5b5e16c661
+%{0}:[FD0F:2D]~[0C] [c2][[FD10:75]][c0]
+>9ecd516090
+%{0}:[FD0F:2D]~[0C] [c2][[FD10:76]][c0]
+>26e086a210
+%{0}:[FD0F:2D]~[0C] [c2][Cyan [FD10:74]][c0]
+>0d54363d5e
+ got eaten!!
+>cab24dff06
+"Hmm! What a problem!!~
+"Oh, nothing. I just can't
+ decide what to have for a
+ snack.
+>01862c1d99
+"I wonder what my big sister
+ is doing now[FD0F:3D]
+>1d47c665b1
+"Lately lots of people have
+ been coming from beyond the
+ [c2]Central Plains[c0].
+>5a1ec78c88
+"If you want to shop, buy
+ from the [c1][FD0F:0F][c0]
+ outside.
+>3ae4f94584
+"Watch out for the
+ [c1]camels[c0].
+>d9143726e3
+*[c1]Queen of [FD0E:42][c0]
+ assassinated!!
+>d420aabcaa
+"The land from here to
+ [c2][FD0E:46][c0] is called the
+ [c2]Central Plains[c0].

@@ -1,0 +1,458 @@
+# b36-b40: Farhan pass office, Mystery Knight ambush & mercenary, Alster (Marsha capital), Hudson, Arthur. Skipped data: 7a649a1187 11909cc388 94fe41b6a5 d806b53a33 8a35a6fa67 c7a9ad03ae 996862051f 026a87690d 6761681ec2 c88d2d6530 31ac79d201 6b9a9cc9cf 9e6c2af56a 7599d8c235 1df5df8a6b d3552cb141 d2f3480b7f 5eee12c356
+>5a1cf8c491
+[0C]"That will be 500 [FD0F:08].
+ Is that all right?~
+>c8ae643842
+[0C]"Um... you don't have
+ enough money[FD0F:3D]
+>d8594d26fc
+[0C]"Then please come back for
+ it a little later.~[0C]%{1}:"^0! Let's kill some time
+ shopping.
+>0335178fba
+[0C]"We can't issue that many,
+ you know.
+>ffa18118c1
+"Sorry to keep you! Here you
+ are!!~
+>75efe961db
+[0C]"[FD0F:28] very much.
+>e2de82839c
+"This is the
+ [c2][[FD10:8E]][c0] office.~
+"Do you need a
+ [c2][[FD10:8E]][c0]?~
+>edfa043b1a
+*HELP WANTED*
+Camel keeper needed!!
+>724d56d229
+"I ran away from
+ [c1][FD0E:45][c0].
+>e4c3f5b281
+"[FD0F:1E]s used to live only
+ in the [c2]Central
+ Plains[c0][FD0F:3D]
+>b3a1656b97
+"Don't talk to me! I'm
+ thinking about life!!
+>63c5d68221
+%{7}:"Who are you!?~
+[c1][FD0F:16][c0][n]"The dying need no names!!~
+"You! Sooner or later you'll
+ get in our way!! You die
+ here!!
+>311923b5d3
+%Mercenary:"Hold it! What are you
+ doing!? Depending on what,
+ I can't just stand by!!~
+[c1][FD0F:16][c0][n]"What, you[FD0F:41]~
+>f48731ad7b
+[n]"Y-you!! No! Fall back!
+ Fall back!!
+>e65ed54c41
+%{0}:"Thank you for saving us
+ from danger.~
+%Mercenary:"Think nothing of it.~
+[n]
+>4ed35813f7
+%{7}:"We could've beaten them
+ ourselves without any
+ help!!~
+>b6872c2b1b
+[n]%{0}:"^7!!~
+>6fee4ebcc8
+[n]%{7}:"I know, I know[FD0F:3D]
+>c9211b5369
+[n] Thanks, old man!!~
+>aa074280dc
+[0C]%Mercenary:"Ha ha ha! Lively, aren't
+ you!!~
+"But what did you do to get
+ those types after you...?~
+"Anyway, be careful. I won't
+ be around to save you next
+ time! Ha ha ha!!
+>39ddd4c91f
+%{0}:"Ah! Your name!!~
+>7bee552120
+[n]%Mercenary:"Oh, just
+>530ecb7daf
+a passing
+>dcfd6b1fe9
+%{7}:"Ahh! You're that drunk
+ old guy from before!!~
+%{0}:"^7! That's rude!!~[0C]%Mercenary:"Ha ha ha! Drunk old guy,
+ that's spot on[FD0F:3D]~
+"I see, you're the ones who
+ came to hire me in
+ [c2][FD0E:01][c0]!!~
+"Sorry about that time.
+ Let's call it even now.
+ Ha ha ha!!~[0C]
+>50e0ea2589
+just a drunk
+>0ce32c7286
+ old guy! Ha ha ha!!
+>d37f0b66db
+%{4}:"[c1]^0 Ferm[c0]! The
+ [c2][FD0F:25][c0] is in the
+ northwest of town!!
+>0ef01c6369
+[c1][FD0F:0B][c0] is away at
+ present. You may not enter
+ the castle!!
+>ee10c73ad5
+%{1}:"^0! Where are you going?
+ That way leads out of
+ town!!
+>b053cf00ad
+Ahead lies the castle of
+ [c2][FD0E:20][c0], seat of
+ [c1][FD0F:0B][c0]! No suspicious
+ persons shall pass!!
+>6fc0ad9d57
+~[0C]%{1}:"[FD0F:29] ^1.~
+"I have come to request an
+ audience with
+ [c1][FD0F:0B][c0].~[0C]%Guard:"You are the [c1]fairy
+ king[c0]!! Please, go on
+ through!!
+>b042bfec3f
+Please! Go on through!!
+>f5bc13bf0f
+%{1}:"^0! Let's hurry to
+ [c2][FD0E:11][c0]!!
+>992defda4d
+%Soldier:"Everyone entering or
+ leaving town gets checked.
+>e926c28a0f
+%Soldier:"We of the [c2]Guard[c0] will
+ surely catch the [c1]culprit[c0]
+ who killed the
+ [c1][FD0F:05][c0]!!
+>860e799d80
+"This is [c2][FD0E:20][c0], capital
+ of the [c2]Kingdom of
+ [FD0E:42][c0].~
+"Great [c1][FD0F:0B][c0] rules
+ here, so the country is
+ rich, as you can see.
+>aa6d55f29c
+"The [c2][FD0F:25][c0]'s up
+ north.
+>045318a994
+"The other day the
+ [c1][FD0F:05][c0] was attacked
+ by an [c1]assassin[c0] and
+ died.~
+"She was a fine
+ [c1][FD0F:05][c0][FD0F:3D]
+ [c1][FD0F:0B][c0] must be
+ deeply grieved.
+>68a502a6c5
+%Soldier:"Tell me if you see anyone
+ suspicious!!
+>cae7770e94
+"[c2][FD0E:20][c0] is split into
+ east and west by the
+ river, [FD0F:39]~
+"It's big, so try not to get
+ lost.
+>b8869294c9
+"The castle's just past the
+ north gate!!
+>cfa90e6a19
+"This country has two
+ beautiful princesses.~
+"The first princess, Lady
+ ^4, is a priestess of the
+ god [c1]Aram[c0], revered by
+ all.~
+"And the second princess,
+ Lady [c1][FD0F:24][c0], is
+ captain of the guard of the
+ [c2][FD0E:42] Holy Knights[c0].
+>aa5d4de595
+Jogging is the best thing
+ for your health!!
+>ffabd1bb97
+Huff! Huff! Huff! But it's
+ tiring[FD0F:3C]
+>127d7e887a
+"Well! How about a game of
+ rock-paper-scissors with
+ me?~
+>4e21c6e4cd
+[0C]"Ho ho ho! Not confident
+ you can win, I see!!
+>bdb5c207d1
+[0C]"Then let's play for
+ 500 [FD0F:08]!!~[0C]
+>86ed44e097
+"Rock, paper, scissors!!~
+>368155822f !
+[x5A][x5B][x5C]Rock
+ Scissors
+ Paper
+>dfd3205ca4
+~[0C]%{1}:"Let's ask about ^8 at
+ the [c2][FD0F:25][c0].
+>9fba85beb9
+[0C]"Grr! I hate it, but you
+ win!!
+>e3a301704d
+[0C]"Ho-ho! Ho ho ho!! I win!!~
+"Now! I'll take my
+ 500 [FD0F:08]!!
+>486e2ac598
+[0C]"A tie! Once more!!~
+[n]
+>e0356351b8
+"Or so I thought, but you
+ have no money!!~
+"I've no use for people
+ without money! Bye-bye!!
+>d351514060
+"Anyway, we'll let you know
+ if we learn anything, so
+ please drop by again.
+>49d61d91c3
+%{1}:"^0! In fact, [FD0F:29]
+ acquainted with
+ [c1][FD0F:0B][c0], and as you
+ heard, the [c1][FD0F:05][c0]
+ has died.~
+"I'd like to pay my
+ respects. Will you come
+ with me to the castle?~[0C]%{7}:"I'd like to meet the
+ famously brave
+ [c1][FD0F:0B][c0] too! Let's go,
+ ^0!!~[0C]%{0}:"^1. Understood, let's
+ go!!
+>3dc9966cb2
+%Hudson:
+>3666248100
+"Sorry to keep you.~
+"You asked about where ^8
+ is, right?~
+"So far there's no real
+ information[FD0F:3D]~[0C]"I'm sorry we couldn't be of
+ help.~[0C]
+>93c7ee00b7
+%{0}:"Nothing unusual here.
+>f440c0434e
+"I know! You might find him
+ at the [c2]tavern[c0]!!~
+"Just ask for [c1]Hudson[c0] the
+ [c1][FD0F:27][c0].
+>8fbbecac35
+"Good! Looks like you found
+ him!!
+>276d03c0d5
+~[0C]%{0}:"Could I ask you
+ something?~[0C]"Sorry[FD0F:3D] The person in
+ charge is away[FD0F:3D]~
+"Honestly! Slacking off
+ somewhere again!!~[0C]
+>45fc9c2972
+"Hello, this is the
+ [c2][FD0F:25][c0].
+>55ba4e9849
+"A [FD0F:27]'s songs seem to
+ bring back something dear
+ that we grown-ups have
+ forgotten.
+>0983ec9bd3
+"[c1]Hudson[c0] went out at
+ [c1][FD0F:1C][c0]'s request.
+>62a46e41ad
+"Hello! Have you found ^8?
+>d7333137d8
+"^0! We've been waiting!!~
+"The [c2][FD0F:25][c0] in
+ [c2][FD0E:15][c0] reports
+ that someone who may be ^8
+ has returned to
+ [c2][FD0E:16][c0]!!~
+[n]
+>db8c8d59b9
+"Hurry to [c2][FD0E:16][c0]!!
+>4b4db1e1ec
+"Odd room, isn't it?~
+"It's built just like the
+ inside of a ship, [FD0F:39]
+>71404f8f3a
+"This is the sailors'
+ lodging.
+>4309a846b2
+"The [c1][FD0F:05][c0] fell into
+ the hands of [c1]villains[c0]
+ and lost her life.
+>1d95aea9f0
+"The goods in the shops
+ change now and then, so
+ check often.
+>db0454075f
+"[c1][FD0F:0B][c0] is a great
+ man!!~
+"How great, you ask!?~[0C]"....He's just great, OK!!
+>264388c831
+"Hardly anyone can beat my
+ sister at rock-paper-
+ scissors!!~
+"Why don't you try, mister.
+>cc2261179c
+"They say [c2][FD0E:2E][c0], city of
+ learning, has a [c2]temple[c0]
+ holding books from all over
+ [c2][FD0F:01][c0].~
+"[c2][FD0E:3A][c0], where
+ [c2][FD0E:2E][c0] is, lies far
+ north in the sea, [FD0F:39]
+>6890f9750c
+Take good care of it!!
+>a40a9c3968
+Young one! How about buying
+ this sword?~
+"This [c2][[FD10:0A]][c0] is a
+ holy sword with the power
+ to drive away evil.~
+"How about
+ [FD12:B4]00 [FD0F:08]?~
+>ae3afcbad1
+[0C]"I see[FD0F:3D]~
+"Come back if you change
+ your mind.
+>88cc3a9aba
+[0C]"Much obliged! Here, take
+ it!!~
+>22b7c0ed70
+[0C]"What! You don't have the
+ money!!
+>c232d3fdf3
+"Oh! You're a [FD0F:27]!!~
+"I so admire you!!
+>240f21b0ef
+[0C]"That will be 1000 [FD0F:08].
+ All right?~
+>17d106f4eb
+%Priest:"This is the [c2]temple[c0] of
+ the god [c1]Aram[c0]. What is
+ your need?~
+>3ef10974ab
+"This is the [c2]sailors'
+ inn[c0].~[0C]
+>7a7b19fe13
+"There won't be a ship to
+ [c2][FD0E:3A][c0] for a while.
+>e258f89d66
+%{0}:"Do you know someone
+ called ^6?~[0C]"He was right there a
+ moment ago[FD0F:3D] Now where
+ did he go[FD0F:3D]
+>7b972aa72f
+%{6}:"Whew! What a mess[FD0F:3D]~
+>dbe5064a3b
+[n]"Lost to that girl
+ again[FD0F:3D]~[0C]"Mr. ^6! You have
+ visitors!!~
+>5130c152d6
+[n]%{6}:"Huh[FD0F:42] You're the
+ ones!?~
+"You caught me at a bad
+ moment.~
+"Pleased to meet you! I'm
+ ^6, a priest of
+ [c2][FD0E:3A][c0].~
+"Now, let me guide you all
+ to [c2][FD0E:2E][c0].~[0C]"The ship is waiting! Let's
+ set off right away!!
+>6e376c868a
+[0C]"[c2][FD0E:45][c0] is stronger
+ than expected. At this
+ rate [c2][FD0E:46][c0] will
+ fall.
+>3e38b0ec88
+[c1][FD0F:09][c0][n]"Welcome! What can I do
+ for ya?~
+>694acfb824 !
+[x4D][x4E][x4C]Ask for info
+ Ask about Ferion
+ Never mind
+>d30e56ad6b
+[0C]"The other day someone
+ tried to kill
+ [c1][FD0F:0B][c0], but the
+ [c1][FD0F:05][c0] died in his
+ place.~
+"And the culprit still
+ hasn't been caught.
+>1fd3243d49
+[0C]"^8...? Never heard of
+ anyone like that[FD0F:3D]
+>6c16c94602 !
+[x4A][x4C]About the war
+ Never mind
+>d778e1236e
+*For restoring MP, try
+ [c2][[FD10:76]][c0]!!
+>3db6992c35 !
+[x70][x6F]Ride the coach!
+ Never mind
+>5e584fba7e
+[0C]"We're terribly sorry.~
+"Due to the
+ [c1][FD0F:05][c0]'s
+ assassination, the coaches
+ are not running.
+>de11d8ce39
+"Ah[FD0F:42]~
+"Don't tell anyone I was
+ slacking! Please!!
+>d778e338f7
+"Going to [c2][FD0E:46][c0] sounds
+ rough.
+>6550b253db
+"Take the coach and you'll
+ be there in no time!!
+>c7cb8805d9
+"The coach really is
+ convenient.
+>d907ec7ac8
+%Bartender:[FD0F:34]
+>130b324a6f
+"How about it! Drink with me
+ all night?
+>fe5804068c
+"The [c2][FD0E:42] Holy
+ Knights[c0] are the
+ strongest order in
+ [c2][FD0F:01][c0]!!
+>aec313fcae
+They say [c1]Baron Goza[c0] of
+ [c2][FD0E:41][c0] does dirty
+ work behind the scenes.
+>6d048dfee1
+Who'd have thought
+ [c1]Baron Goza[c0] was the
+ boss of the [c2][FD0F:14]
+ Guild[c0].
+>c82a0057c3
+"Kids shouldn't hang around
+ the [c2]tavern[c0]!!
+>62a0e95885
+"Come to think of it, this
+ [c2]tavern[c0] has no
+ women[FD0F:3D]
+>c133c46695
+"[FD0F:3C]
+>4bab3654c0
+%Hudson:"Eh? Yes, I'm
+ [c1]Hudson[c0][FD0F:3D]~
+"Oh! You're ^0! I've heard
+ all about you.~
+"Not here. Could you come to
+ the [c2][FD0F:25][c0]?
+~"[FD0F:29] heading there
+ ahead of you. See you
+ there.
