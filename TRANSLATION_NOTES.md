@@ -98,3 +98,11 @@ Doubtful: "Christ" place name from the list; may want a rename.
 
 ## Test-only WRAM map (for Mesen Lua pokes; never shipped)
 - Names 7E:0AF8 (16 bytes each); stats records ~7E:0A08; gold 7E:0B7A (24-bit LE); inventory (id,count) pairs 7E:0BDE-0C13; item id = lists index + 1.
+
+## FIXED: FD0E place names froze dialogue (since f6e683e)
+- asar assembled `BRA $02B09A` at $02:B08F as `80 9A` (jumped to $02:B02B), so every dialogue line using an FD0E place name stopped right after the name. Now emitted as `db $80,$09`. Verified on screen after the fix: b26 90a909543c, b76 0ef7c92c79, b77 84c5631acf / 07d2ab3f5b / e60481ecda (pv/fixgrp.png).
+
+## b75-b77 full preview pass (Oct 28)
+- All 63 translated message ids in b75-b77 previewed headless (13 + 30 + 20), sheets in /workspace/pv. Untranslated ids there are data junk or lone 「 opening quotes (render as '"'), not text.
+- Preview sheets keep only stable frames, so some mid-scroll pages are not captured; the text source was cross-checked for those.
+- Doubtful: b75 68868c41fc "The one who rules you is... m... e..." (JP stutters わ・・たし・・だ, "it's... m... e"); kept.

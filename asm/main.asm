@@ -85,7 +85,7 @@ org $00BC14
 org $02B088         ; places (A = index)
   JSL lh_places
   JSR $B0F5
-  BRA $02B09A
+  db $80,$09        ; BRA $02B09A (asar mis-assembled the long-address BRA as 80 9A)
 org $02B093         ; terms
   JSL lh_terms
   JSR $B0F5
