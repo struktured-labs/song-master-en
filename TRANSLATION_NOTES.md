@@ -200,3 +200,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Tavern, Nimens story, Meritus gate, Eddie/Ferion briefing, Singer Guild all read cleanly; no fixes needed.
 - Map boxes seen: Meritus, Vilne Pass, Lancafarn (all <=10, fit).
 - Speaker-only boxes (Soldier/Man/Youth) are forced-label artifacts (tag label without its body).
+
+## Chunk 8 (b1d 0f – b1f 19), viewed
+- Selena vision, Ferion news, Meritus/Lancafarn shops, stagecoach (Lancafarn map box), Alesia: clean.
+- b1f 0a / b1f 19: lines using the "old man" term ([FD0F:0D]) broke a line early and lost the indent.
+  The cause in the engine isn't pinned down, so those 4 lines now spell out "old man" as plain text (in the recheck list).

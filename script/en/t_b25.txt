@@ -19,7 +19,7 @@ Forgot already?~
 >f3e3f4f549
 [0C]"Then go to the town
  cells. Tell the password to
- an [FD0F:0D] named
+ an old man named
  [c1][FD0F:1A][c0], and he'll
  take you to [c2][FD0E:3F][c0].~
 "The password is

@@ -39,7 +39,7 @@
 "This is the village of
  [c2][FD0E:16][c0].
 >41251c8b9a
-"I don't know any [FD0F:0D]
+"I don't know any old man
  called ^8!!
 >102cbeadd8
 Hey! Mister!! Let's play tag!!~
@@ -56,7 +56,7 @@ Aww! I got caught[FD0F:3D]~
 "Outsiders, go home!!
 >9e9b422fbc
 "^8? Never heard of him[FD0F:3D]~
-"There's an odd [FD0F:0D]
+"There's an odd old man
  living on the edge of the
  village, though[FD0F:3D]
 >7d9e2c3d87

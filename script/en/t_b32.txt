@@ -84,7 +84,7 @@ I've nothing more to say to
 %{0}:"Sir, are you from
  [c2][FD0E:46][c0]?~[0C][c1]Merchant[c0][n]"Yep! War looked likely, so
  I fled here.~
-%{0}:"Do you know an [FD0F:0D]
+%{0}:"Do you know an old man
  called ^8?~
 [c1]Merchant[c0][n]"^8...? Can't say I do[FD0F:3D]~
 "Speaking of old men, one
