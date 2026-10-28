@@ -243,3 +243,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Log lines 681–755 viewed (sheets c1500–c1511). The Troll battle (the new HUMANS literals are confirmed on screen at b31 28/2d/32/37/3c), Laura rescue, Durham dwarves, the Charms → Gaia Sword trade, Durham shops, the mine, King Rimbelt and the Amulet barrier are fine.
 - Fixes: the b54 header "[FD0F:15] Guard" rendered as "dwarf Guard" in lowercase, so it is now the literal "Dwarf Guard" (3 places). b46 30d7076d4a: "Lots of the mines around" (JP ここいらには鉱山がたくさん) is now "Lots of mines around here!!". 33 05 and 37 37 added to recheck.
 - Forced-label artifact: b34 0f "it's a trade!!" ran straight into the next "Dwarf" message without a break. That comes from chaining labels; check it in real play.
+
+## Battle window overflow (in progress, 2026-10-28)
+- Before captures (earlier build): /workspace/item8.png and /workspace/bat2.png. In the command window, "Magic", "Guard" and "Fight" end right at the right border. The item list's right-hand "x 8" column also sits against the border.
+- Command window headers are at 01:AE8D (10 pointers). Each is 6 bytes, JP and EN identical: `00 01 08 11 03 06` (x=0 y=1 w=8 h=17 (or 15 for the variant) text 03 06?). The text and cursor offset bytes still need confirming. The candidate fix is a smaller text X, or a wider window that pushes the "Yury H·P" window right.
+- Harness problem: with the current field.mss + enc poke, the encounter is 3 Fireball casters (Man-Eater records at 7E:10FE/112B/1158, 0x2D each, HP at +3). The player never gets a command turn and dies, and the JP ROM behaves the same way. menuUp (7F:AD4C) never fires. A new battle state is needed before any change can be viewed.
