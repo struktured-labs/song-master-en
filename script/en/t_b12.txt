@@ -1,0 +1,137 @@
+# b12: Lesa Village, goblin hunting party HQ (Hans), Chief, Remi. Skipped data: 5a6eeec46e ce14e11cd8
+>e1ddf6743f
+*Departing tomorrow morning
+>828c3ac275
+"Finally, a fight! My arm's
+ itching for it!!
+>b8039489cf
+"It's shameful, but the
+ [c1][FD0F:0A]s[c0] got me[FD0F:3D]
+>45dcfcd24c
+"Guess I'm stuck staying
+ behind!!
+>7937764e60
+"The advance party has
+ already left! This time
+ we'll wipe them out for
+ good.
+>57b8a8ee96
+[c1]Hans[c0][n]
+>736b78319e
+"This is the post for the
+ [c1][FD0F:0A][c0] hunting party.~
+"[FD0F:29] the captain, [c1]Hans[c0].
+>41cded83ad
+~[0C]"I see, understood! You're
+ ready for this, I trust?~[0C]"Then take this money and
+ these weapons!!~
+>20534d1f3e
+"The operation starts
+ tomorrow morning. Rest at
+ the [c2]inn[c0] tonight.
+>e8a203c764
+%Hans:"You're late! The main force
+ led by the [c1]chief[c0] has
+ already set out. We'll be
+ leaving soon too.~
+"But I'm worried that the
+ [FD0F:2B] from [c2][FD0E:01][c0] is
+ late arriving.~
+"So I want you to go and
+ search for the [FD0F:2B]!!~
+"If anything happens, report
+ to the main force!
+ I'm counting on you!!~[0C]"Good luck!
+>cce0e4bceb
+ All right! Let's go!!
+>2327164221
+"With warriors like these,
+ we've nothing to fear from
+ [c1][FD0F:0A]s[c0].
+>3421182e41
+[0C]"Oh, you already had that
+ many[FD0F:3D]~
+"Then you won't need these.~[0C]
+>31a09fff12
+%Chief:"
+>9f96c0b461
+What do you want?~[0C]
+>3d133e958c
+ Gave the [c1]chief[c0] the
+ [c2][[FD10:93]][c0]!~[0C]"Oh! You'll join the
+ [c1][FD0F:0A][c0] hunt too?~
+"
+>31035d7e98
+"If you've no business here,
+ please leave. I'm busy right
+ now.
+>ca3ca25499
+Then go talk to the hunting
+ party's captain, [c1]Hans[c0].
+ I'm counting on you.
+>d013639c90
+You've done so much for us,
+ my daughter included.
+ Let me thank you!
+ [FD0F:28]!!
+>70b4fe2ed9
+"We must act as quickly as
+ we can[FD0F:3D]
+>2a21fa8f9c
+%Remi:"Everyone, it's been a while!~
+"I'm glad you all look well.~
+"Actually, I'm going to join
+ the fight against [c2][FD0E:45][c0]
+ as a field nurse.~
+"Now is the time for
+ everyone to join forces.
+>3b3c5fb162
+%{7}:"^0! Nothing seems wrong so
+ far.~[0C]%{1}:"We've driven off the
+ [c1]bandits[c0] for now. They
+ shouldn't be a problem for
+ a while.~
+"More importantly, we must
+ stop the fighting between
+ the villagers and the
+ [c1][FD0F:0A]s[c0]!!~
+%{7}:"Right! Let's find someone
+ who knows where
+ [c2][FD0E:0C][c0] is.~[0C]%Remi:"I'm coming too!!~
+>0e1a8cf472
+[n]%{7}:"No! You wait here!!
+>6ea039ffeb
+~
+%Remi:"....All right.~
+"Then take this with you!!~
+>da97dff44e
+[0C]%{7}:"[FD0F:28]![n]
+>18ddaba2e4
+ Come on! Let's go!!
+>b4ef6eb673
+[0C]"Looks like you can't carry
+ any more of this
+ medicine[FD0F:3D]~
+>af3766c907
+"Oh! You're safe! Thank
+ goodness!!
+>dd537c5fa8
+"Stay safe[FD0F:3D]~
+%{7}:"You be careful too[FD0F:3D]
+>c26d5ce7db
+I hear the chief's girl,
+ [c1]Remi[c0], has finished her
+ medical studies and is
+ coming home.
+>ac15668bfe
+Little [c1]Remi[c0]'s home safe
+ and sound! Wonderful!
+ Wonderful!!
+>6744d7f95f
+My childhood friend [c1]Remi[c0]
+ is finally coming home, but
+ I'm worried about the
+ [c1][FD0F:0A]s[c0][FD0F:3D]
+>0a77b11a89
+I hear you saved [c1]Remi[c0]!
+ [FD0F:28]!!

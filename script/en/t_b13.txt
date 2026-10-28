@@ -1,0 +1,23 @@
+# b13: Lesa Village inn
+>306a5db227
+"Oh! The room isn't made up
+ yet.
+>446126366d
+[c1]Inn[c0][n]
+>373dfc16b8
+"Are you with the hunting
+ party? Then please use the
+ room upstairs.~
+"Oh, no charge. You're
+ fighting for the village,
+ after all[FD0F:3D]~
+"Now, make yourselves at
+ home.
+>c6497776f3
+%{0}:"Morning! All right!
+ Let's do our best!!
+>6f747c2f3c
+"Good luck to you!!
+>71c88e71b0
+[FD0F:37]~[0C]%{1}:"^0! We can't dawdle here!
+ Let's hurry on!!

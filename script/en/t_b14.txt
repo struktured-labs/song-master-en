@@ -1,0 +1,101 @@
+# b14: Bandit fort; bandits faking goblin attacks; Jack joins. Skipped data: 85da48d88f 0ac67ce36e bcf38e99ca 7faa63da3b
+>0dce2f9547
+Something like a map is
+ posted here.
+>15a090a99e
+%{0}:"This is a plan to attack
+ the [FD0F:2B]!!
+>65618dfb94
+%{5}:"Hey! Get me out too!!
+ I owe these guys one!
+ I'll help ya!!~
+>e5f808eecb !
+[x10][x11]Fine, help him
+ Leave him there
+>f9e682a47b
+[0C]%{5}:"Thanks! I owe ya one!!~
+ All right! Let's give 'em a
+ nasty surprise! I'm
+ comin' with you!!
+>960eb4ca83
+[0C]%{5}:"Hey, hey! You'll regret
+ this!!
+>cda12181b4
+%{1}:"Shh! Quiet. I hear
+ something[FD0F:3D]~[0C]"So things are going well
+ on the [c1][FD0F:0A][c0] side too...~
+"Yessir! By now the village
+ folk and the [c1][FD0F:0A]s[c0]
+ should be at each other's
+ throats[FD0F:3D]~
+"Boss! Looks like this job's
+ as good as done.~
+"Heh heh heh! Indeed. Let's
+ raid the village right away
+ and take the treasure!!~
+"Hm[FD0F:41] Who's that
+ eavesdropping over there?
+>8b5bb2119c
+[c1][FD12:58][c0][n]"What!? Who the hell are
+ you!? And you're the brat
+ we threw in the cell!!~[0C]
+>d33e66a5fe
+%{1}:"Would you care to explain
+ what you were just
+ discussing?~[0C][c1][FD12:58][c0][n]"Damn! Now that you've
+ heard, we can't let you
+ live!!~
+[c1][FD12:57][c0][n]"Fine! You'll die anyway,
+ so I'll tell you!! All
+ those [c1][FD0F:0A][c0] raids were
+ really us, faking it!!~[0C]%{0}:"What!?~[0C][c1][FD12:57][c0][n]"We fooled the [c1][FD0F:0A]s[c0]
+ the same way, making it
+ look like the villagers did
+ it. Once they're at war,
+ we take the treasure!!~
+"Enough talk! Off to the
+ next world with you!!
+>167036009e
+"Y-you bastards! You'll pay
+ for this!!
+>9f6a3c3a83
+%{0}:"Wait!!~
+>f2bddba880
+[n]%{1}:"^0! Don't chase them too
+ far!![n]
+>dc3e3b1842
+ Let's find what they stole
+ and hurry to
+ [c2][FD0E:03][c0].
+>1357cc1923
+ Let's find what they stole
+ and hurry to
+ [c2][FD0E:03][c0].~
+>1fb366993a
+[0C]%{5}:"Sorry, but I'm goin'
+ after him!
+>e5be0297a6
+[c1][FD12:58][c0][n]"What!? Who the hell are
+ you!? And you're the brat
+ we threw in the cell!!~[0C]%{5}:"Hey! You put me through
+ hell, ya jerk!!~[0C][c1][FD12:58][c0][n]"What! They rescued you
+ too? Ha ha ha!~
+%{5}:"Sh-shut up!!~[0C]
+>39ab501b94
+[n] ...Hm? What, can't move?
+ Can't be helped! I'll fix
+ ya up!!~
+>ed9c744f45
+[0C]"That should do it!
+>5c698b0e1a
+%{1}:"^0! Weren't we going to
+ recover what the [c1]bandits[c0]
+ stole?
+>693d485c16
+[n] Well, see ya. So long!!
+>54c3dd1925
+"Zzz... Zzz...
+>d7271e742d
+"Snore... Snore...
+>70f4aec372
+"[FD0F:43]

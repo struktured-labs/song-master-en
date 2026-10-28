@@ -1,0 +1,203 @@
+# b16: Caravan ambush, bandit prison (Remi, Jack). Skipped data: 8f49e5f7dd 0b355383fa
+>eb2f0aaae1
+%{7}:"No good! He's dead!!
+>ca1ef7cd27
+%{0}:"....!? Am I... dead...?
+ Where... is this....!?
+>f6723c5a02
+%Remi:"You're awake... Thank
+ goodness.~
+%{0}:"
+>6f39325ffc
+"Ugh... Unnh!
+>571839f94b
+ Where...?~
+%Remi:"In a cell. We've been
+ captured by [c1]bandits[c0].
+>e45c1708a8
+~
+%{0}:"[c1]Bandits[c0]!? ...Right,
+ the ones who attacked us
+ back then[FD0F:3D]~
+"You're
+>37941e16b5
+...?~
+%Remi:"[FD0F:29] [c1]Remi[c0]. On my way
+ home to [c2][FD0E:03][c0],
+>32a7f186f2
+"Th-they got me...~
+%{0}:"Hold on! What attacked
+ you?~
+"[FD0F:43]~[0C]%{1}:"[FD0F:43] ^0, he's
+ gone[FD0F:3D]
+>1cab481b92
+"[FD0F:43]
+>a211477312
+ You were staying at the
+ [c2]inn[c0] in [c2][FD0E:01][c0],
+ right[FD0F:3D]~
+%Remi:"I'm [c1]Remi[c0]!~
+%{0}:"Ah! That's right!!
+ But why are you here?~
+%Remi:"
+>1a14fce8d5
+The [FD0F:2B] was attacked by
+ [c1]bandits[c0].~
+"[c1]Bandits[c0] had slipped
+ into the [FD0F:2B], and it was
+ wiped out in no time. I
+ don't know what became of
+ the others[FD0F:3D]~
+"Because I'm the daughter
+ of the [c1]chief[c0] of
+ [c2][FD0E:03][c0], they took
+ me hostage.~
+%{0}:"...How cruel[FD0F:3D]~[0C]%Remi:"It seems they didn't
+ kill you because you're a
+ Singer.~
+%{0}:"I see[FD0F:41]
+>e448c7ef7c
+ Oh no! The [c2][[FD10:90]][c0]
+ and the [c2][[FD10:92]][c0]
+ are gone!!~
+%Remi:"The [c1]bandits[c0] took
+ them.~
+%{0}:"Damn! They got us!!~[0C]"...By the way, did they
+ bring anyone else here
+ besides me?
+>e26930fc14
+~[0C]"You two are the only ones
+ they brought in!~
+>d44ff7a0dd
+%{0}:"Who's there!?~[0C]"The name's ^5! Folks
+ call me [c1]Cat-Eye ^5[c0]!
+ A [c1]gentleman thief[c0] of
+ some renown!~
+%{0}:"Then what's a [c1]gentleman
+ thief[c0] doing in here?~
+%{5}:"Tch! Those guys tricked
+ me! Figured it was too
+ sweet a deal, and the
+ minute the job was done,
+ they tossed me in here!!~
+"Makes my blood boil, those
+ lousy creeps!!~[0C]"By the way, miss! You
+ said you're from
+ [c2][FD0E:03][c0][FD0F:3D]~
+%Remi:"Y-yes.~[0C]%{5}:"They were talkin' about
+ attackin' that
+ [c2][FD0E:03][c0] place!
+ Somethin' about the
+ village's defenses bein'
+ thin[FD0F:3D]~[0C]
+>24d519ff78
+%Remi:"What!! Oh... what should
+ I do?~
+>53a177881a
+%{0}:"What!? How do you know
+ that!?~
+>31112d8120
+[n]%Remi:"Is it true!? ^0!!~
+>deb78e75da
+[0C]%{5}:"[FD0F:41]
+>5ac87a9ccf
+ Wait! Someone's coming!!
+>2cc32f9894
+%{7}:"^0! Are you all right?
+>65624a1752
+~
+%{0}:"^7[FD0F:41][n]
+>da17b2ea8a
+ ^7! You came to rescue
+ me!! Where's ^1?~[0C]%{7}:"^1's putting them to
+ sleep with magic. ^0!
+ I'll get you out now.
+>03550e9fae
+%{0}:"^7! [FD0F:28]!![n]
+>93df472771
+ Come on! You too, [c1]Remi[c0],
+ hurry outside!!~
+[n]
+>61a4c851b4
+%Remi:"[FD0F:28]!~
+%{7}:"
+>497aa5ab53
+...Who's this?~
+>63523d9b1e
+[0C]%{0}:"I'll explain later!
+ Hurry[FD0F:3D]~
+>e79086ee2e
+[0C]%{5}:"Hey! Hey!! Get me out too.
+ I owe these guys one!
+ I'll lend ya a hand!!~
+>29f181d857
+[n]%{7}:"Who's that guy?~
+%{0}:"Says he's some kind of
+ [c1]gentleman thief[c0].~[0C]"Never mind that!
+ [c2][FD0E:03][c0] is being
+ targeted by the [c1]bandits[c0]!
+ Take [c1]Remi[c0] and head for
+ the village!!~
+ I'll get back what they
+ stole with ^1.~
+%{7}:"Got it!! Well then, be
+ careful, ^0!!
+>145f940f26
+%{0}:"Now then, Mr. [c1]Gentleman
+ Thief[c0]! Mind telling me a
+ bit more about what you
+ said earlier?~
+%{5}:"Hey! I got a proper name!
+ Call me ^5!!~
+"That's all I know about
+ [c2][FD0E:03][c0]! Anyway, I'm
+ not one of their gang!!~
+"More important, get me
+ outta here! Please!!~
+>e9bd6317b9 !
+[x27][x28]Poor guy, let him out!
+ No! He stays in!!
+>144e69532b
+%{5}:"Thanks! I owe ya one!!~
+"Their boss is in the room
+ at the very back! Let's
+ hurry!!
+>0a07254660
+You were captured too!!
+ ^0! What on earth...?~
+>b2958f89c4
+%{1}:"^0! You're safe. Come,
+ quickly! Let's hurry!!
+>9d0f583cdc
+~[0C]%{1}:"Oh? ^0! You seem quite
+ weak. Let me heal you!!~
+>4c8f5cd8d2
+%{0}:"Hey! Anybody!!
+>b17ad562bd
+"You called? Brat!!~
+%{0}:"
+>7981e22b69
+"Huh[FD0F:41]
+>ed32c4ac88
+ Y-you're!?
+>2a19e22483
+~[0C]"Heh heh heh! Drop dead!!
+>0a7e64f70c
+~[0C]%{0}:"Ugh[FD0F:3F]
+>b907dee845
+%{0}:"Hang in there!!~[0C]"Ugh.... The [FD0F:2B]...
+ w-was attacked[FD0F:3D]~
+%{7}:"Hey! Who did this?~[0C]"...Ban... dits...~
+%{1}:"He's gone[FD0F:3C]~
+"This is the worst. The
+ [FD0F:2B] may already be
+ lost.~
+"Anyway, let's split up and
+ search for survivors.~
+"Now, be very careful.~[0C]%{7}:"Got it! If anything
+ happens, we'll let each
+ other know.
+>35d22ab279
+ Wh-who are you!?
+>a3cb396060
+~[0C]"Heh heh heh! Drop dead!!

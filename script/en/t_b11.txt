@@ -1,0 +1,45 @@
+# b11: Lesa Village outskirts (goblin trouble)
+>ed77d8e8e0
+%{0}:"Past here is outside the
+ village.
+>486854aa41
+%{7}:"Hey! ^0!!
+ The exit's the other way!!
+>a2320b02de
+"The [c1][FD0F:0A]s[c0] attack anyone
+ at all. You'd best be
+ careful too.
+>499608c97b
+"Go north and you'll reach
+ the village of [c2][FD0E:22][c0].
+>e6d9ff8b54
+Somebody got attacked by
+ [c1][FD0F:0A]s[c0] just yesterday,
+ [FD0F:39]
+>6fc74e14c3
+They say you mustn't go
+ near [c2][FD0E:0C][c0]!!
+>320d0df99c
+"Hey, hey! Mister!!
+ Gimme somethin', won'tcha!!
+>b95d5ef278
+"...Mommy says I can't talk
+ to strangers.
+>719cebe4f2
+~
+"Thanks to the [c1]chief[c0], life in
+ this village had gotten a
+ lot easier lately, but the
+ [c1][FD0F:0A]s[c0] have ruined it.
+>e122fb0c63
+"Leave the village's defense
+ to us!!
+>2b8d8f2f63
+"Nothing out of the ordinary
+ so far!!
+>5978700064
+"[c2][FD0E:0C][c0] is in the
+ mountains north of the
+ village!!
+>f26744dad5
+"This is [c2][FD0E:03][c0].

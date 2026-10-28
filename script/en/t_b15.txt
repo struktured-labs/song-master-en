@@ -1,0 +1,49 @@
+# b15: Goblin cave, evil magic circle. Skipped data: a8ea1b9896 f4694e4168
+>5c062c767b
+%{0}:"Ah! This is[FD0F:41]~
+>9848a591a2
+[0C]%{1}:"So this is the
+ [c2][[FD10:94]][c0].~
+"Hm[FD0F:41] Look here a
+ moment.~[0C]%{7}:"[FD0F:41] What, it's just
+ some scribbling.~
+%{1}:"No, I don't think it's
+ mere scribbling.~
+"This is most likely a
+ <magic circle>, and an evil
+ one at that[FD0F:3D]~[0C]%{0}:"Then someone performed
+ sorcery here?~
+%{1}:"Most likely. And as a
+ result, [FD0F:1E]s came to
+ dwell here.~
+"[FD0F:1E]s are very
+ sensitive to evil
+ presences.~[0C]%{7}:"That someone... could it
+ be [c1]Thomas[c0]?~
+%{1}:"No, I don't think so.
+ He'd have no reason to send
+ us to find the
+ [c2][[FD10:94]][c0].~[0C]%{7}:"I see[FD0F:3D] Then who!?
+ Who did this!?~
+%{1}:"In any case, go back to
+ town. [FD0F:29] going to
+ seal this cave first.
+>28c57e9c0e
+~[0C]"Oh? You seem quite weak.
+ Let me heal you!!~
+>585780d78e
+[0C]"Now, take care.
+>f75e80a8af
+%{1}:"What's wrong? Hurry and
+ deliver the [c2][[FD10:94]][c0]
+ to [c1]Thomas[c0].
+>de5d2e39a0
+%{1}:"Let's try going back once
+ more.
+>d3a25e7d5f
+%{1}:"I'm worried about ^7 and
+ the others! Let's hurry to
+ [c2][FD0E:03][c0]!!
+>8b8e81cff3
+%{0}:"Looks like we can get
+ through here!!
