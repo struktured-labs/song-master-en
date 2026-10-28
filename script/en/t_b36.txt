@@ -434,7 +434,7 @@ They say [c1]Baron Goza[c0] of
 >6d048dfee1
 Who'd have thought
  [c1]Baron Goza[c0] was the
- boss of the [c2]Thieves'
+ boss of the [c2][FD0F:14]
  Guild[c0].
 >c82a0057c3
 "Kids shouldn't hang around

@@ -82,6 +82,17 @@ def paginate(toks, maxlines=3):
 def encode(s, dowrap=True, col0=0):
     toks = wrap(s, col0=col0) if dowrap else list(tokens(s))
     if dowrap: toks = paginate(toks)
+    # A space byte straight after a list term (FD0E-FD12) is rendered as a line break by the
+    # game (seen: "the thief / Guild.", "an old man / named"). Re-emit the current colour tag
+    # between the term and the space so the space is not the first byte after the term.
+    fixed = []; colr = 'c0'
+    for i, t in enumerate(toks):
+        if t[0] == 'tag' and t[1] in ('c0', 'c1', 'c2', 'c3'): colr = t[1]
+        fixed.append(t)
+        if t[0] == 'tag' and t[1][:5] in ('FD0E:', 'FD0F:', 'FD10:', 'FD11:', 'FD12:') \
+                and i + 1 < len(toks) and toks[i + 1] == ('ch', ' '):
+            fixed.append(('tag', colr))
+    toks = fixed
     b = bytearray()
     for k, v in toks:
         if k == 'tag': b += tagbytes(v)

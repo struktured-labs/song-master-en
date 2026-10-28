@@ -229,3 +229,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Log lines 593–662 viewed (sheets c1300–c1309). Dorfas thieves' town, shops, informant, Lamia/Sam/King Eric, Marsha knights, Alster/Triangle/Lesa map boxes, Lismore Troll arc, "Got 5000G!", "Object Clear x1 obtained!" all render cleanly.
 - Consistency: the rest of the "[FD0F:14] Guild" uses (b26/b41/b44) now read "Thieves' Guild", replacing "thief Guild" (seen at b2c 73).
 - Informant choice popup "d" (b2c 4b): the same forced-label artifact class as before.
+
+## Term-wrap root cause (investigation)
+- The encoder's wrap is correct: "the [FD0F:14] Guild." wraps to " the thief Guild." (17 columns). On screen (pass4 b28_e2) the game breaks right after the term, and "Guild." starts at column 0 with no indent. So the space byte (0x00) that directly follows a list term is being drawn as a line break by the game's term path (`lh_*` → `$02:B0F5`). Terms followed by `[c0]` and then a space (e.g. "[c1]culprit[c0] who") render fine. That matches every bad case: "an [FD0F:0D] named" and "[c2][FD0F:14] Guild".
+- Experimental fix in encode_en.py: when a term is followed directly by a space, re-emit the current colour tag between them. To test it, b36 6d048dfee1 (label b28 e2) uses the term again. Pending on-screen confirmation in the recheck run; the other literal workarounds stay in place until then.
