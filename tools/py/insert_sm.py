@@ -96,7 +96,7 @@ bank, addr, idx = 0x30, 0x8000 + 0x100, 0
 for i, b in enumerate(newblocks):
     blob = bytes([(len(b) - 1) & 0xFF, (len(b) - 1) >> 8]) + b
     if addr + len(blob) > 0x10000: bank += 1; addr = 0x8000 + 0x100; idx = 0
-    assert bank < 0x3C  # $3C lists, $3E names, $3F code
+    assert bank < 0x3A  # $3A prologue, $3B splash, $3C lists, $3E names, $3F code
     rom[lo(bank, addr):lo(bank, addr)+len(blob)] = blob
     t = lo(bank, 0x8000) + 2 * idx; rom[t:t+2] = bytes([addr & 0xFF, addr >> 8])
     rom[0x6C59 + 2*i] = idx; rom[0x6C5A + 2*i] = bank

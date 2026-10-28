@@ -377,3 +377,11 @@ rumble_dmg:
 .done:
   LDX $1286
   JML $1581AD
+incsrc "splash.asm"
+
+; ---- Prologue crawl: English 1bpp bitmap (raw block, tools/py/prologue.py) replaces LZSS block 19:00 ----
+org $00C755 : ldx.w #$3A00     ; was ldx #$1900 (bank $19 idx 0) -> bank $3A idx 0
+org $3A8000
+  dw $8002
+  dw 9216-1                    ; bit15=0: raw copy, size-1
+  incbin "prologue.bin"

@@ -131,3 +131,11 @@ Known: a single varying glyph (ュ/リ/る) appears after the spell name in the 
 it also appears in the untouched JP ROM, changes frame-to-frame, likely an animated tile
 sharing VRAM with the text window. Not a text issue.
 Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-like shape); verified in battle "Spirit".
+
+## Prologue crawl (boot intro)
+- Source: LZSS block 19:00 (9216 bytes = 1152 1bpp 8x8 tiles), loaded by 00:C755 `ldx #$1900` -> 7F:0000, shown on BG3 (tilemap $4800).
+  Layout: 24 lines x 12 cells of 16x16; line L cell c = tiles 48L+4c..+3 (TL,TR,BL,BR).
+- JP text was read off the decoded bitmap (not memory) and translated in assets/prologue_en.txt.
+- tools/py/prologue.py renders it (DejaVu Sans 11px, 1bpp) to asm/prologue.bin; stored raw (header bit15=0) at $3A:8000; the loader is repointed to bank $3A idx 0.
+- Viewed in Mesen: full crawl from first line to "the Song Master." scrolls correctly over the landscape.
+- Names: ティリス = Tiris (the island capital; town is Tiris Noah), ケイン王 = King Kane, 聖詩歌 = Holy Songs, 光の神 = God of Light, 聖戦 = Holy War.

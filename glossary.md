@@ -77,4 +77,7 @@
 | ディアラ | Diara | |
 | ぎじどう | Assembly Hall | |
 | 神でん | Temple | |
-| せんちょう | Captain | ship's captain (b77) |
+| せんちょう | Captain | ship's captain (b77) || ティリス | Tiris | island capital (prologue) |
+| 聖詩歌 | Holy Songs | prologue |
+| 光の神 | God of Light | prologue |
+| 聖戦 | Holy War | prologue |
