@@ -25,3 +25,14 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 - The Tiris Noah broker speaks Kansai dialect; rendered as a folksy merchant ("ain't", "ya").
 - Menu option-id bytes before the choice text are kept as raw [xHH] tags (new encoder tag).
 - d0795837b5 (b07 drink menu) is now translated with the raw-byte prefix.
+
+## b22-b29 notes
+- Password (b24 menu / b25 hint): JP 『アルバイトをみつけるなら?』; menu and hint both use "Want to find work?" so they match. Menu options shortened to fit the window.
+- FD0F:1F (fairy, ようせい) is reused in b26 as a pun for 要請 "request"; written as plain English. Likewise "200 grams" built from monster-list codes [FD12:C8][FD12:16]ム, written plain.
+- FD12:C8 + "0" renders "2000" (monster list entry 0xC7 is the string "200"); kept as code in the broker's fee line.
+- FD0F:2E in the temple (b23 fc00be5eeb) still left as code; meaning unconfirmed.
+
+## Visual checks (headless Mesen2, viewed)
+- Preview runner fixed: tools/test/mesen_run_sm.sh (own Xvfb :78, completion = last screenshot file, 3 retries) because the shared /tmp/mesen_done flag ended runs early.
+- Viewed OK: 3b7531f6c0 (b25), 6309683778 (b26 long news), bf7845035e (b17 King Orin), d77b744ae7 (b21, item Circlet renders).
+- Viewed OK: 3d133e958c (b12, item [Introduction] renders), 74892dd59f (b25 Nimens history). b12 trailing quote continues into the next string (same as JP).

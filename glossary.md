@@ -39,3 +39,21 @@
 | ティルナノーグ | Tir na Nog | elf land |
 | (all 70 places, 67 terms) | see script/en/lists.json | dialogue word lists, read from ROM $3C |
 | name3 | Eiria | Elf queen (from ROM name table) |
+| レミ | Remi | Lesa chief's daughter, healer |
+| ゴードン / ハンス | Gordon / Hans | Hans = hunting-party captain |
+| ベンジー | Benjie | (terms 1A) old man in Lancafarn cells; password contact |
+| ゴザ男爵 | Baron Goza | |
+| ドノン | Donon | conqueror king of Agna, defeated by ^2 |
+| ランゼル | Ranzel | ^2's younger brother, late king; father of King Eric |
+| アラム神 / タラム神 / アーリム神 | Aram / Taram / Arim | gods; Arim = god of order (temples) |
+| アハル | Ahharu | (monsters EC) evil god Croixdor seeks to revive |
+| ゼノン | Xenon | (monsters EA) king of Croixdor |
+| 赤いオーブ | Red Orb | |
+| シグナス城 | Cygnus Castle | |
+| 中原 | Central Plains | wasteland of the gods' last battle |
+| ギブロン / オリン王 | Gibron / King Orin | Orin = goblin king |
+| キャッツアイ・ジャック | Cat-Eye Jack | name5, gentleman thief |
+| サム / エディ | Sam / Eddie | Dorfas guide / Singer Guild branch chief in Meritus |
+| 聖騎士団 | Holy Knights | of Marsha |
+| バーテン | Bartender | drinks: Salty Dog, Griffon's Tears, Grasshopper |
+| name4 | Selena | seer; foresees Alesia attack |

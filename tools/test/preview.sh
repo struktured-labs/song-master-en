@@ -3,7 +3,7 @@
 set -e; cd "$(dirname "$0")/../.."
 SM_PREVIEW=$1 bash tools/build.sh >/dev/null
 rm -rf /tmp/smprev; mkdir -p /tmp/smprev
-timeout 700 bash /workspace/trinea/tools/mesen_run.sh "$PWD/build/songmaster_en.sfc" "$PWD/tools/test/preview.lua" 650 >/dev/null 2>&1 || true
+for try in 1 2 3; do rm -rf /tmp/smprev; mkdir -p /tmp/smprev; DONEFILE=/tmp/smprev/s08980.png timeout 700 bash tools/test/mesen_run_sm.sh "$PWD/build/songmaster_en.sfc" "$PWD/tools/test/preview.lua" 650 || true; [ -f /tmp/smprev/s08980.png ] && break; done
 python3 - "$2" <<'P'
 import sys,glob,hashlib
 from PIL import Image

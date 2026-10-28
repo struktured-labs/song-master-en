@@ -1,0 +1,150 @@
+# b30-b31: Meritus coach/clinic, Alesia, Ferion joins. Skipped data: 4ff9f926d3 5bd2422910 9a92578d6e ca4efc06bd 3895de47d0 afb22ba045 2df9e34f04 063fe62dd9 bdded4bd64
+>b8a4c217ce !
+[x2E][x2A]Ride the coach!
+ Never mind
+>820505b299
+[0C]"Right now we only go to
+ [c2][FD0E:11][c0]. Is that
+ all right?~
+>18919cfb2e
+[0C]"Then that'll be
+ 500 [FD0F:08].~
+>2c6346b642
+*For restoring stamina, try
+ [c2][[FD10:72]][c0]!!
+>031dcface9
+"Hello! This is the
+ [c2][FD0F:13][c0].~
+[FD0F:30]
+ [FD0F:31]
+>bfb0c17e52
+%{0}:"Nothing catches my eye.
+>50725b94e1
+"Nothing beats a drink after
+ a day's work!!
+>b4de0d37e9
+"Everyone heading north
+ across the [c2]Central
+ Plains[c0] sets out from the
+ village of [c2][FD0E:1A][c0].
+>404df01bc6
+"Hey, boss! How's it going!!
+>dcc7594c9c
+"You're ^0, right? [c1]Eddie[c0]
+ of the [c2][FD0F:25][c0] wants
+ to see you urgently!!~
+"Please head to
+ [c2][FD0E:15][c0] right away!!
+>338d473c50
+"This is the village of
+ [c2][FD0E:16][c0].
+>41251c8b9a
+"I don't know any [FD0F:0D]
+ called ^8!!
+>102cbeadd8
+Hey! Mister!! Let's play tag!!~
+>6f17305d8b
+[0C]"OK! You guys are it!!
+ Yay!!
+>2b137ea92e
+[0C]"Aw! No fun!!
+>a2dd51d460
+Aww! I got caught[FD0F:3D]~
+"I'm kinda bored now[FD0F:3D]
+ I quit!!
+>c60888f62d
+"Outsiders, go home!!
+>9e9b422fbc
+"^8? Never heard of him[FD0F:3D]~
+"There's an odd [FD0F:0D]
+ living on the edge of the
+ village, though[FD0F:3D]
+>7d9e2c3d87
+"So it's you[FD0F:3D]~
+"...The village burned
+ because of me[FD0F:3D]~
+"Because of me[FD0F:3C]~[0C]%{0}:"[FD0F:2A] ^8,
+ aren't you[FD0F:3D]~[0C]"...No point hiding it
+ now[FD0F:3D] Yes, I am ^8.~[0C]%{0}:"Please tell us what
+ happened.~[0C]%{8}:"After you came to me, I
+ decided to disappear.~
+"Right after that, the
+ village was attacked[FD0F:3D]~
+"This [c2]Orb[c0] is the cause
+ of it all.~[0C]%{0}:"That [c2]Orb[c0]... is it the
+ [c2]Sealing Orb[c0]...?~
+%{8}:"You know of it!? ...Then
+ I'll tell you everything.~
+"I was summoned to
+ [c2][FD0E:46][c0] by my old
+ friend, [c1]King Askil[c0].~
+ There [c1]King Askil[c0] told
+ me of the ambitions of
+ [c1][FD12:EB][c0] of
+ [c2][FD0E:45][c0].~
+"A dreadful plan to revive
+ [c1][FD12:EC][c0] and turn
+ [c2][FD0F:01][c0] to ashes!!~
+"[c1]King Askil[c0] knew
+ [c2][FD0E:46][c0], the first to
+ be attacked, could not
+ hold out,~
+ so he entrusted this
+ [c2]Orb[c0] to me.~
+"I left [c2][FD0E:46][c0] in
+ haste, but [c2][FD0E:45][c0]'s
+ pursuers were soon on my
+ trail.~
+"With Sir ^2's help I thought
+ I'd shaken them off,
+ but[FD0F:3D]~
+"Either way, I should never
+ have come back here[FD0F:3D]
+>06ab72216f
+[c1][FD0F:16][c0][n]"Enough chatter!!~
+>df150fcc58
+[0C]%{7}:"You're the ones from
+ before!!~
+[c1][FD0F:16][c0][n]"Now! Quietly hand over
+ that [c2]Orb[c0]!!~
+>6920903779
+[0C]%{8}:"Curse you! I won't give
+ it up, even at the cost of
+ my life!!~
+[c1][FD0F:16][c0][n]"Then we'll take it by
+ force! Behold our power!!
+>d8fa23b09c
+[c1][FD0F:16][c0][n]"I underestimated
+ you[FD0F:42] But
+ [c1]Lord [FD0F:22][c0] will
+ surely... your lives too...
+ are num... bered...
+>319e06738a
+%{7}:"Monsters like that are
+ [c2][FD0E:45][c0]'s men?~
+%{0}:"Then we can't waste a
+ single moment[FD0F:3D]~
+"Master ^8! Please!
+>1b91a36ef9
+ Come with us!!~
+"We need your power to
+ stand against
+ [c2][FD0E:45][c0].~[0C]%{8}:"....Very well. If this
+ old man's strength can be
+ of use[FD0F:3C]~
+%{0}:"[FD0F:28]!~
+"Also, I'm still green as
+ a [FD0F:27].~
+"If you're willing, please
+ take me as your student!
+ Please!!~
+%{8}:"My teaching is strict!
+ Can you keep up?~
+%{0}:"Yes!!~[0C]%{8}:"Very well! I shall teach
+ you all I know!!~
+%{0}:"[FD0F:28], Master!!~
+>cf7ab767c5
+[n]%{4}:"That's wonderful, ^0!!~
+"Now! Let's go back to
+ [c2][FD0E:42][c0]!! [c1]^1[c0] is
+ waiting!!
