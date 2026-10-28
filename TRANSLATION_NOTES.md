@@ -115,3 +115,8 @@ PrgBlade->PurgeBld, ChsBlade->ChaosBld, TrrBlade->TerrorBl, CrssHelm->CrossHlm, 
 - Tiris Noah: leaving town is gated ("You can't leave town without Permission." viewed), so no random encounters from the post-intro save state.
 - Field actor table: 12-byte records from 7E:0D88 (player x = 0D88, 16-bit pixel; followers at 0D94, 0DA0, 0DAC). The y offset is not confirmed yet.
 - Shop counter in Tiris Noah not reached by blind scripted walking; needs y-coordinate or a later save state.
+
+## FD0E re-check sample (2026-10-28)
+9 previews of lines with distinct place ids across blocks after the fix (uids 499608c97b 2a21fa8f9c 939d6e4ed9 3703c0a8c8 dba3221193 cc2261179c df88f450d8 88e3619a43 aa9623de11). Viewed text continuing past names: Lancafarn / Mt. Barama, Albion, Farlon / Barnicia, Tir na Nog, Great Wall, North Shield. Not all 282 FD0E lines individually previewed.
+
+## Draft delivered 2026-10-28 (build of d195e36, sfc sha1 cefd7596...)
