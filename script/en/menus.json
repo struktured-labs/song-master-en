@@ -1,0 +1,146 @@
+{
+ "_doc": "Bank $02 menu strings. All strings below are re-packed into the pool $02:C821-$02:C96C (file 0x14821-0x1496C, which includes the unused debug-menu strings) and the 7-byte menu table entries at file 0x147CE-0x14820 are re-pointed. Each menu keeps its original 2 prefix bytes.",
+ "pool": [
+  "0x14821",
+  "0x1493E"
+ ],
+ "menus": [
+  {
+   "jp": "はい/いいえ",
+   "table": [
+    "0x147ce"
+   ],
+   "orig": "0x14821",
+   "items": [
+    "Yes",
+    "No"
+   ]
+  },
+  {
+   "jp": "とまる/出る (inn)",
+   "table": [
+    "0x147d5"
+   ],
+   "orig": "0x1482B",
+   "items": [
+    "Stay",
+    "Leave"
+   ]
+  },
+  {
+   "jp": "かう/うる/みせを出る (shop)",
+   "table": [
+    "0x147dc"
+   ],
+   "orig": "0x14835",
+   "items": [
+    "Buy",
+    "Sell",
+    "Leave"
+   ]
+  },
+  {
+   "jp": "ちりょうする/くすりをかう/出る (clinic)",
+   "table": [
+    "0x147e3"
+   ],
+   "orig": "0x14845",
+   "items": [
+    "Treat",
+    "Medicine",
+    "Leave"
+   ]
+  },
+  {
+   "jp": "field menu",
+   "table": [
+    "0x147ea"
+   ],
+   "orig": "0x14859",
+   "items": [
+    "Status",
+    "Items",
+    "Magic",
+    "Equip",
+    "Order",
+    "Lineup",
+    "Rename",
+    "Config",
+    "Save",
+    "Load"
+   ]
+  },
+  {
+   "jp": "そうび/はずす",
+   "table": [
+    "0x147f1",
+    "0x147f8"
+   ],
+   "orig": "0x14896",
+   "items": [
+    "Equip",
+    "Remove"
+   ]
+  },
+  {
+   "jp": "せいれい/かいふく/しょうかん",
+   "table": [
+    "0x147ff",
+    "0x14806"
+   ],
+   "orig": "0x148A2",
+   "items": [
+    "Spirit",
+    "Healing",
+    "Summon"
+   ]
+  },
+  {
+   "jp": "debug sound test",
+   "table": [
+    "0x1480d"
+   ],
+   "orig": "0x148B4",
+   "items": [
+    "BGM",
+    "SE"
+   ]
+  },
+  {
+   "jp": "debug menu (12 lines)",
+   "table": [
+    "0x14814"
+   ],
+   "orig": "0x148C9",
+   "items": [
+    "Map",
+    "X",
+    "Y",
+    "Text",
+    "Chip1",
+    "Chip2",
+    "Chip3",
+    "Pal1",
+    "Pal2",
+    "Pal3",
+    "Color",
+    "Battle"
+   ]
+  },
+  {
+   "jp": "パーティー1-5/クラス",
+   "table": [
+    "0x1481b"
+   ],
+   "orig": "0x14944",
+   "items": [
+    "Party 1",
+    "Party 2",
+    "Party 3",
+    "Party 4",
+    "Party 5",
+    "Class"
+   ]
+  }
+ ]
+}

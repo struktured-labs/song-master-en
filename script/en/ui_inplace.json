@@ -1,0 +1,410 @@
+{
+ "regions": [
+  {
+   "note": "battle command windows, bank 01 (pointer table 01:AE8D)",
+   "start": "0xAEA7",
+   "end": "0xB015",
+   "strings": [
+    {
+     "jp": "battle cmds 0",
+     "orig": "0xaea7",
+     "refs": [
+      "0xae8d"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 1",
+     "orig": "0xaece",
+     "refs": [
+      "0xae8f"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 2",
+     "orig": "0xaef5",
+     "refs": [
+      "0xae91"
+     ],
+     "pre": "0001080f0306",
+     "items": [
+      "Fight",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 3",
+     "orig": "0xaf16",
+     "refs": [
+      "0xae93"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 4",
+     "orig": "0xaf3d",
+     "refs": [
+      "0xae95"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 5",
+     "orig": "0xaf64",
+     "refs": [
+      "0xae97"
+     ],
+     "pre": "0001080f0306",
+     "items": [
+      "Fight",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 6",
+     "orig": "0xaf85",
+     "refs": [
+      "0xae99"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 7",
+     "orig": "0xafac",
+     "refs": [
+      "0xae9b"
+     ],
+     "pre": "0001080f0306",
+     "items": [
+      "Fight",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 8",
+     "orig": "0xafcd",
+     "refs": [
+      "0xae9d"
+     ],
+     "pre": "000108110306",
+     "items": [
+      "Fight",
+      "Magic",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "battle cmds 9",
+     "orig": "0xaff4",
+     "refs": [
+      "0xae9f"
+     ],
+     "pre": "0001080f0306",
+     "items": [
+      "Fight",
+      "Item",
+      "Move",
+      "Guard",
+      "Run"
+     ]
+    },
+    {
+     "jp": "しょうかん (battle)",
+     "orig": "0xb488",
+     "refs": [
+      "0xb464"
+     ],
+     "items": [
+      "Summon"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "battle magic categories",
+   "start": "0xB47E",
+   "end": "0xB48E",
+   "strings": [
+    {
+     "jp": "せいれい",
+     "orig": "0xb47e",
+     "refs": [
+      "0xb456"
+     ],
+     "items": [
+      "Spirit"
+     ]
+    },
+    {
+     "jp": "かいふく",
+     "orig": "0xb483",
+     "refs": [
+      "0xb45f"
+     ],
+     "items": [
+      "Heal"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "status ailments (table 02:B512)",
+   "start": "0x13520",
+   "end": "0x13545",
+   "strings": [
+    {
+     "jp": "ひん死",
+     "orig": "0x13520",
+     "refs": [
+      "0x13512"
+     ],
+     "items": [
+      "KO"
+     ]
+    },
+    {
+     "jp": "どく",
+     "orig": "0x13524",
+     "refs": [
+      "0x13514"
+     ],
+     "items": [
+      "Poison"
+     ]
+    },
+    {
+     "jp": "こんらん",
+     "orig": "0x13529",
+     "refs": [
+      "0x13516"
+     ],
+     "items": [
+      "Conf"
+     ]
+    },
+    {
+     "jp": "すいしょう",
+     "orig": "0x1352e",
+     "refs": [
+      "0x13518"
+     ],
+     "items": [
+      "Cryst"
+     ]
+    },
+    {
+     "jp": "すいみん",
+     "orig": "0x13534",
+     "refs": [
+      "0x1351a"
+     ],
+     "items": [
+      "Sleep"
+     ]
+    },
+    {
+     "jp": "かなしばり",
+     "orig": "0x13539",
+     "refs": [
+      "0x1351c"
+     ],
+     "items": [
+      "Bind"
+     ]
+    },
+    {
+     "jp": "きょうふ",
+     "orig": "0x13540",
+     "refs": [
+      "0x1351e"
+     ],
+     "items": [
+      "Fear"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "status/equip screen labels",
+   "start": "0x14D15",
+   "end": "0x14D54",
+   "strings": [
+    {
+     "jp": "こうげき力/ぼうぎょ力",
+     "orig": "0x14d15",
+     "refs": [
+      "0x14b3f",
+      "0x160e0"
+     ],
+     "items": [
+      "Atk Pwr",
+      "Def Pwr"
+     ]
+    },
+    {
+     "jp": "こうげき/ぼうぎょ",
+     "orig": "0x14d24",
+     "refs": [
+      "0x15bab"
+     ],
+     "items": [
+      "Atk",
+      "Def"
+     ]
+    },
+    {
+     "jp": "すばやさ/リズム",
+     "orig": "0x14d31",
+     "refs": [
+      "0x14b48",
+      "0x160e9"
+     ],
+     "items": [
+      "Speed",
+      "Rhythm"
+     ]
+    },
+    {
+     "jp": "すばやさ/リズム (equip screen copy)",
+     "orig": "0x14d31",
+     "refs": [
+      "0x15bb4"
+     ],
+     "items": [
+      "Spd",
+      "Rhy"
+     ]
+    },
+    {
+     "jp": "ぶき/たて",
+     "orig": "0x14d3c",
+     "refs": [
+      "0x14b55",
+      "0x15bc1"
+     ],
+     "items": [
+      "Weapon",
+      "Shield"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "bank 02 menu-pool tail (menus.json pool ends at 0x1493E)",
+   "start": "0x1493E",
+   "end": "0x1496D",
+   "strings": [
+    {
+     "jp": "よろい/かぶと",
+     "orig": "0x14d43",
+     "refs": [
+      "0x14b5e",
+      "0x15bca"
+     ],
+     "items": [
+      "Armor",
+      "Helm"
+     ]
+    },
+    {
+     "jp": "しょうひ M・P",
+     "orig": "0x14d4c",
+     "refs": [
+      "0x1512d"
+     ],
+     "items": [
+      "MP Cost"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "save/load labels (unreferenced, fixed)",
+   "start": "0x171A5",
+   "end": "0x171AF",
+   "strings": [
+    {
+     "jp": "セーブ",
+     "orig": "0x171a5",
+     "items": [
+      "Save"
+     ]
+    },
+    {
+     "jp": "ロード",
+     "orig": "0x171aa",
+     "items": [
+      "Load"
+     ]
+    }
+   ]
+  }
+ ],
+ "patches": [
+  {
+   "note": "gold window label お金 -> blank (field menu)",
+   "addr": "0x10e50",
+   "old": "a9 05 24 8f 46 47 7e a9 dc 24",
+   "new": "a9 00 24 8f 46 47 7e a9 00 24"
+  },
+  {
+   "note": "gold window label お金 -> blank (shop)",
+   "addr": "0x14a6f",
+   "old": "a9 05 24 8f c4 4c 7e a9 dc 24",
+   "new": "a9 00 24 8f c4 4c 7e a9 00 24"
+  }
+ ]
+}

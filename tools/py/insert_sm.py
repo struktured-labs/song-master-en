@@ -131,5 +131,37 @@ for k, name in enumerate(['places', 'terms', 'items', 'magic', 'monsters']):
         dat += e + b'\xff'
 assert base + len(dat) <= 0x10000
 rom[0x1E0000:0x1E0000 + 0xA00] = tab; rom[0x1E0A00:0x1E0A00 + len(dat)] = dat
+# --- bank $02 menus (script/en/menus.json): repack into the original pool and re-point the menu table
+f = ROOT + '/script/en/menus.json'
+if os.path.exists(f):
+    MJ = json.load(open(f)); a0, a1 = (int(x, 16) for x in MJ['pool']); pool = bytearray(); orig = bytes(rom[a0:a1])
+    for m in MJ['menus']:
+        o = int(m['orig'], 16); pre = orig[o - a0:o - a0 + 2]
+        ptr = 0x8000 + ((a0 + len(pool)) & 0x7FFF)
+        for t in m['table']:
+            t = int(t, 16); assert rom[t] | rom[t+1] << 8 == 0x8000 + (o & 0x7FFF), (hex(t), m['jp'])
+            rom[t:t+2] = bytes([ptr & 255, ptr >> 8])
+        pool += pre + b'\xfe'.join(encode(x, False) for x in m['items']) + b'\xff'
+    assert len(pool) <= a1 - a0, ('menu pool over', len(pool), a1 - a0)
+    rom[a0:a0 + len(pool)] = pool; rom[a0 + len(pool):a1] = b'\xff' * (a1 - a0 - len(pool))
+# --- in-place UI strings (script/en/ui_inplace.json): each region is rewritten within its original bytes;
+# strings keep their order, pointer operands listed in "refs" are re-pointed, leftover bytes become FF.
+f = ROOT + '/script/en/ui_inplace.json'
+if os.path.exists(f):
+    for R_ in json.load(open(f))['regions']:
+        a0, a1 = int(R_['start'], 16), int(R_['end'], 16); out = bytearray()
+        for s_ in R_['strings']:
+            o = int(s_['orig'], 16); want = 0x8000 + (o & 0x7FFF); new = 0x8000 + ((a0 + len(out)) & 0x7FFF)
+            for t in s_.get('refs', []):
+                t = int(t, 16); assert rom[t] | rom[t+1] << 8 == want, (hex(t), s_['jp'])
+                rom[t:t+2] = bytes([new & 255, new >> 8])
+            if not s_.get('refs'): assert o == a0 + len(out), ('unreferenced string moved', s_['jp'])
+            out += bytes.fromhex(s_.get('pre', '')) + b'\xfe'.join(encode(x, False) for x in s_['items']) + b'\xff'
+        assert len(out) <= a1 - a0, ('ui region over', R_['start'], len(out), a1 - a0)
+        rom[a0:a0 + len(out)] = out; rom[a0 + len(out):a1] = b'\xff' * (a1 - a0 - len(out))
+    for P_ in json.load(open(f)).get('patches', []):
+        a = int(P_['addr'], 16); old = bytes.fromhex(P_['old']); new = bytes.fromhex(P_['new'])
+        assert rom[a:a + len(old)] == old and len(old) == len(new), P_['note']
+        rom[a:a + len(new)] = new
 open(sys.argv[2], 'wb').write(rom)
 print('strings %(strings)d translated %(en)d' % stats, 'unique ids', len(ids), 'str bank end %02X:%04X' % (bank, addr), 'over', stats['blocks_over'])
