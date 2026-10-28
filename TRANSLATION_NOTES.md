@@ -285,3 +285,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 
 - Name entry now opens on the Latin page: asm patch at 02:EA55 (LDA #$FC→#$FE, the page-label init). Page cycling at 02:E82x is unchanged. The ▲ arrow goes to the lowercase page (viewed).
 - tools/test/walk.lua: added the `btn` step and the `dump`/`wtrace` options.
+
+## Harness: unique capture paths (10:25)
+- Every Mesen run (tools/test/mesen_run_sm.sh) creates a new run id and directory /tmp/smrun/<RUN>/ (written to /tmp/sm_run.lua and /tmp/sm_last_run). tools/test/smshot.lua wraps M.shot so every capture is saved as <RUN>_<name>, and raises an error if a path already exists. walk.lua, fs2.lua (the battle/field harness, now in the repo, reads /tmp/sm_seq.lua), fromstate.lua and preview.lua load it. wk.sh, rp.sh and preview.sh write their contact sheets inside the run directory and print the path. walk.lua now does nothing until the save state has loaded.
+- Why: Read could return an old image when a path like /workspace/wk.png was reused. Visual claims made while shared paths were in use are being rechecked below.

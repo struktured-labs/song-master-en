@@ -1,4 +1,5 @@
 local M=dofile("/workspace/trinea/tools/mesen_lib.lua")
+SM_M=M; dofile("/workspace/song-master-en/tools/test/smshot.lua")
 local S=dofile("/tmp/wk.lua")
 M.endAt=S.endAt or 6000; M.shotEvery=0
 local W=function(a) return emu.read(a,emu.memType.snesWorkRam) end
@@ -9,6 +10,7 @@ local log=io.open("/tmp/wk_log.txt","w")
 for _,a in ipairs(S.wtrace or {}) do emu.addMemoryCallback(function(ad,v) local st=emu.getState(); log:write(string.format("%d w %04x=%02x pc=%02x:%04x\n",M.f or 0,ad,v,st["cpu.k"],st["cpu.pc"])); log:flush() end, emu.callbackType.write, a, a, emu.cpuType.snes, emu.memType.snesWorkRam) end
 local i,busy,t0=1,0,0
 M.onFrame=function(f)
+ if not loaded then return end
  local x=W(0xd88)+256*W(0xd89); local y=W(0xd8a)+256*W(0xd8b)
  if f%20==0 then log:write(string.format("%d step=%d x=%d y=%d map=%02x%02x\n",f,i,x,y,W(0xe44),W(0xe45))); log:flush() end
  if f%120==0 then local t={} for k=1,12 do local e=0xd84+12*k; if W(e+1)+W(e+2)+W(e+3)>0 then t[#t+1]=string.format("%d:%d,%d",k,W(e+4)+256*W(e+5),W(e+6)+256*W(e+7)) end end log:write(f.." npcs "..table.concat(t," ").."\n") end

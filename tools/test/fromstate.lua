@@ -1,5 +1,6 @@
 -- load field.mss then run SEQ inputs (relative frames), shots at SHOTS
 local M=dofile("/workspace/trinea/tools/mesen_lib.lua")
+SM_M=M; dofile("/workspace/song-master-en/tools/test/smshot.lua")
 local SEQ=dofile("/workspace/smmenu/seq.lua")
 M.endAt=SEQ.endAt+5; M.shotEvery=0
 local loaded=false

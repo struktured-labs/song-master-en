@@ -1,6 +1,7 @@
 -- show the first classroom dialogue (string e58f49c110, replaced via SM_PREVIEW) and screenshot every 20 frames
 local M=dofile("/workspace/trinea/tools/mesen_lib.lua")
-M.endAt=9000; M.shotEvery=20; M.shotDir="/tmp/smprev"
+SM_M=M; dofile("/workspace/song-master-en/tools/test/smshot.lua")
+M.endAt=9000; M.shotEvery=20; M.shotDir="/tmp"
 for f=400,2990,40 do M.press(f,"a",4) end
 for f=3000,8900,90 do M.press(f,"a",4) end
 for f=600,2900,300 do M.press(f,"start",4) end
