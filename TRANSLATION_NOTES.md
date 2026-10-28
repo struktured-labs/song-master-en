@@ -171,3 +171,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Popups checked on screen: "Can't carry more / Nitron." (Nitron count 99), "Can't use here!" (Nitron in the field), "Can't use / Temp. Permit!", "Can't sell / Temp. Permit!", "Introduction x1 obtained!".
 - Item 145 is renamed from Provisional Permit to Temp. Permit (12 characters), so every item name now fits in the 16-column popups. Vengeance Sword is the longest at 15.
 - b10 sweep: labels 1e-5c viewed (NPCs, broker, help-wanted, item/weapon/armor shops, Not enough money). They look fine. The broker menu was caught mid-draw ("Ma"), so I couldn't judge it.
+
+## b0a sweep pass3 (labels 5f–70), viewed
+- Viewed sheets for 5f, 64, 67, 68, 69, 6a, 6c, 6d, 6e, 6f, 70: clinic, inn (full/stay/500 Guillaume + Yes/No), Sion "Hey! Yury!!", stagecoach. No overflows; wraps look right.
+- Stagecoach choice windows (6e, 70) show "=a" / "/a" when forced by label jump: menu data is not set up outside real play. Needs checking in real play; not counted as a text bug yet.
