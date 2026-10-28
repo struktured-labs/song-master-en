@@ -1,0 +1,133 @@
+# b01: ending sequence. {N}=[nameN], @X: = [wait]X[tab][n], ~=[wait]
+>db70364501
+~@{7}:"We did it!!
+@{0}:"Purify him, Ahharu!
+@Ahharu:"Nngh... uoaaah... ...oh...
+ Curse you... Yu...ri...an!!!...
+ ...!? Fuhahahaha!! Haa-hahaha!
+@{7}:"Has he gone mad, Ahharu!?
+>84b5b2b5c3
+@{6}:"Ahharu went[FD10:1F] into
+ Ragnas's body!?
+>c138972351
+@{0}:"No! {9}, the barrier!!
+>9271fb9d3a
+@Ahharu:"Too late!! Yurian, DIE!!
+>8c137210b8
+@{4}:"{0}! Look out!!!
+>12745f72bc
+@Ahharu:"Nngh!?
+@{0}:"Ah... ah...
+>d493b66389
+@{0}:"[FD0E:00]... {4}...
+ Wh-why would you...
+@{4}:"[0C]{0}... *cough*!!
+@{0}:"Don't try to talk!
+@{4}:"D-don't... lose...
+ ...{0}...
+@{0}:"{4}?... {4}~--[tab]!!
+>8b187275b9
+@Ahharu:"Tch, I missed! That brat...
+ So eager to die.
+"Heh, no matter. You will all
+ die here anyway... by my hand.
+ No... by Ragnas's hand, I
+ should say...
+"Haa-hahahahaha!
+>c5f79f5691
+@{0}:"...won't forgive...
+"I won't forgive you...
+ Not you. Never!!!
+>2cb1eed706
+~"Raaaaaaaaaah!!!![tab]
+>6138b5bfd9
+@Ahharu:"Hmph! That sword...!
+>2c6e431ce7
+ M-my body!?
+>0f997d988b
+[FD10:21]
+@Ragnas:"Ahharu!
+ I'm dragging you to hell!!
+>f939879d6c
+[n]@Ahharu:"Nooooo!! S-stop it!!!
+>d195c8264b
+@Ahharu:"Guwaaaaaagh!!!!
+>98c8700cc5
+@{7}:"Did we get him!?
+@{9}:"{6}, cast Resurrection now!
+@{6}:"Resurrection![FD10:29]
+"It's not working! Why!?
+>1f7c7f9aeb
+@Ahharu:"Guahahaha... She won't
+ heal... I poured all of my
+ evil power into her...
+ Guh...
+"Damn you... to think vermin
+ like you could beat me...
+ But I won't die alone!
+ You're coming with[FD10:24] me!
+ All[FD10:1E] of you!![FD10:1E]
+>ab565f48b9
+@{6}:"[FD10:1E]Th-the door!!
+[FD10:1E]~@{7}:"Can't magic bre[FD10:1E]ak it?
+@{9}:[FD10:1E]"Impossible! This is[FD10:1E]
+ Fone's heart, practically[FD10:1E]
+ Ahharu's other self!
+[FD10:1E] Its magic defense is[FD10:1E]
+ perfect.
+"Our[FD10:1E] power can never[FD10:1E]
+ break this bar[FD10:1E]rier!!
+@Ahharu:"Ex[FD10:1E]actly... ha... ha..[FD10:1E]
+ ha...
+[FD10:1E] *gah*...[FD10:1E]..
+@{0}:"..[FD10:1E][FD11:3B].....!?
+>ad8a6b3cb7
+[n]@{7}:"What is it, {0}!?
+@{0}:"Someone is calling me...
+@{6}:"Look!
+@Everyone:"{1}!!
+>88a3d9819b
+@{1}:"Talk later!
+"Follow me!
+ Picture the friends who are
+ waiting for you!!
+"Now! Let's go!!
+>f263a4f5cb
+@{7}:"Is it... over...?
+@{1}:"Yes...
+@{6}:"Master, we have avenged
+ you....
+@{0}:"......
+>f9e5b4b220
+@{0}:"Ugh... uu... ......
+@{7}:"You did well, {0}...
+@{0}:"I didn't do anything...
+"We beat Ahharu thanks to
+ {4}.
+"And I let {4}...
+ die...
+@{7}:"......
+>5318befaf3
+@{1}:"{0}... blaming yourself
+ gains you nothing!
+"Regretting without acting is
+ what fools do.
+"It isn't too late. Come,
+ {0}! Now your true worth
+ as a Song Master is being
+ tested.
+"Make a miracle!!
+@{0}:"...I'll make one happen!!
+"A miracle!!!
+>ebe5e7ab9b
+"...I hear a song...
+ Such a warm, gentle voice...
+"...[FD0F:00]!
+"...{4}!!
+"{0}!!
+>5e9db9ac3d
+[n]@{4}:"...I... how did I...?
+>fd6245c354
+@{5}:"Tch, I can't watch this!
+@Robinton:"Hahahaha!
+@{9}:"Dawn is breaking.

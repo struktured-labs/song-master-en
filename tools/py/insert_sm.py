@@ -13,6 +13,27 @@ EN = {}
 for f in sorted(glob.glob(ROOT + '/script/en/s_*.json')):
     for k, v in json.load(open(f)).items():
         if v.get('en'): EN[k] = v
+import re
+def txt2tags(body):
+    out=[]
+    for i,l in enumerate(body):
+        m=re.match(r'(.*?)~?@([^:]+):(.*)$',l)
+        if m: t=m.group(1)+'[wait]'+m.group(2)+'[tab][n]'+m.group(3)
+        else: t=l
+        if i and not t.startswith('[wait]'): t='[n]'+t
+        elif i: t='[n]'+t
+        out.append(t)
+    s=''.join(out)
+    s=re.sub(r'\{(\d)\}',r'[name\1]',s).replace('~','[wait]')
+    return s
+for f in sorted(glob.glob(ROOT + '/script/en/t_*.txt')):
+    cur=None; body=[]
+    for l in open(f).read().split('\n')+['>END']:
+        if l.startswith('>'):
+            if cur and body: EN[cur]={'en':txt2tags(body)}
+            cur=l[1:].strip(); body=[]
+        elif l.strip() or body: body.append(l.rstrip())
+    while 0: pass
 def lo(bank, a): return (bank & 0x7F) * 0x8000 + (a & 0x7FFF)
 # --- strings: banks $20-$2F; pointer table $20:8000 (3 bytes * 0x800)
 ids = {}; sdata = []
@@ -53,7 +74,7 @@ for i in range(78):
     if len(out) > limit: stats['blocks_over'].append((i, len(out)))
     newblocks.append(bytes(out))
 for uid, n in ids.items():
-    v = EN[uid]; b = encode(v['en'], v.get('wrap', True)) + b'\xfd\x31'
+    v = EN[uid]; v['en']=re.sub(r'(\[END\]|\[LINE\])$','',v['en']); b = encode(v['en'], v.get('wrap', True)) + b'\xfd\x31'
     if addr + len(b) > 0x10000: bank += 1; addr = 0x8000
     assert bank < 0x30
     o = lo(bank, addr); rom[o:o+len(b)] = b
