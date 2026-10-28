@@ -62,8 +62,14 @@ def block0(d):
     return bytes(out)
 stats = dict(blocks_over=[], strings=0, en=0)
 newblocks = []
+RAWP = json.load(open(ROOT + '/script/en/raw_inplace.json')) if os.path.exists(ROOT + '/script/en/raw_inplace.json') else []
 for i in range(78):
-    d = load(i); p, end = parse(d)
+    d = load(i)
+    for P_ in RAWP:
+        if P_['block'] != i: continue
+        a = int(P_['off'], 16); o = bytes.fromhex(P_['old']); n = bytes.fromhex(P_['new'])
+        assert bytes(d[a:a+len(o)]) == o and len(o) == len(n), P_['note']; d = bytes(d[:a]) + n + bytes(d[a+len(o):])
+    p, end = parse(d)
     if i == 0: newblocks.append(block0(d)); continue
     out = bytearray(); last = 0
     for kind, s, e in p:
