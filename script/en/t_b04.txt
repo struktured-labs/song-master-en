@@ -105,16 +105,16 @@
  different names depending
  on their ability.~
 "Those with the most basic
- ability are [c1]<Bards>[c0].~
+ ability are [c1]Bards[c0].~
 "Better than them are
- [c1]<Singers>[c0].~
+ [c1]Singers[c0].~
 "And the very best among
  Singers are called
- [c1]<Song Masters>[c0]!!
+ [c1]Song Masters[c0]!!
 >550d6428b3
 "[c2]Tiris Noah[c0] is the center
- of this land's <politics>
- and <economy>!~
+ of this land's politics
+ and economy!~
 "You can reach [c2]Tiris Noah[c0]
  from here by ship.
 >5115631c50

@@ -148,7 +148,7 @@ Heading out, ^0?
  illnesses.
 >8f0d9869ed
 "They say [c2]Holy Songs[c0] are
- <songs> holding divine
+ songs holding divine
  power, given to [c1]St. Kane[c0]
  by the gods.
 >7d60e288d0
@@ -212,7 +212,7 @@ Come back when you are
 %Robinton:"Oh! ^0!!~
 "I believe in you! Now,
  take these.~
-"This is a [c2]<License>[c0],
+"This is a [c2]License[c0],
  recognizing you as a
  provisional Singer, and
  [c2][[FD10:90]][c0].~
@@ -241,7 +241,7 @@ Come back when you are
  don't care for titles.~
 "Also, remember that by our
  laws I am bound by a
- <spirit power> oath.~[0C]%{7}:"Excuse me!!
+ spirit power oath.~[0C]%{7}:"Excuse me!!
 >db4db842b8
 %{7}:"[c1]Robinton[c0], it's been too
  long.~
@@ -298,7 +298,7 @@ This is [c2][[FD10:8F]][c0], which
 "Also, it loses its power in
  other countries, so go to
  each country's [c2]Temple[c0] and
- receive a <Charm>.~[0C]
+ receive a Charm.~[0C]
 >ad75366889
 "May the good winds of
  [c1]Amsia[c0] blow for you[FD0F:3D]
@@ -308,7 +308,7 @@ This is [c2][[FD10:8F]][c0], which
 >9ebe4302af
 "[FD0F:41]
  Is this your first time
- seeing an <Elf>?~
+ seeing an Elf?~
 %{0}:"Eh! Ah... yes!! But how
  do you know me...?~
 %{1}:"I met you once when you

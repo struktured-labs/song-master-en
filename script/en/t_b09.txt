@@ -383,9 +383,9 @@ What! You want something
 %Devi:"...!? What have I been
  doing[FD0F:41]~
 %{1}:"You were possessed by
- a [c1]<[FD12:B0]>[c0].
+ a [c1][FD12:B0][c0].
 >919485d1be
-~[0C]%Devi:"A [c1]<[FD12:B0]>[c0]!? ...I remember!
+~[0C]%Devi:"A [c1][FD12:B0][c0]!? ...I remember!
  I performed a summoning in
  the cave!!~
 %{1}:"A little longer and it

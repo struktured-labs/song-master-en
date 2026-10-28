@@ -194,21 +194,21 @@ Medusa's Shield protected you!
 >9aeab3866e
 "Forgive me, I wasn't enough..."
 >71bdc0f939
-<My power can go no further...>
+"My power can go no further..."
 >6e0388d842
-<Sorry, sorry, sorry>
+"Sorry, sorry, sorry"
 >94e397249a
-<Good-bye--!!!>
+"Good-bye--!!!"
 >f1f28e6c8f
-<Next time...>
+"Next time..."
 >b1b7733b65
-<...I'm... sorry...>
+"...I'm... sorry..."
 >f13d465747
-<My power fell short...>
+"My power fell short..."
 >cd3ae96d15
-<Sorry I was no help...>
+"Sorry I was no help..."
 >da28c3d640
-<Forgive me, farewell...>
+"Forgive me, farewell..."
 >f343116e27
 [FD13] took a direct hit!
 >88d679a434
@@ -232,21 +232,21 @@ Medusa's Shield protected you!
 >942d6e6a69
 "Yaaaah!!"
 >6c5a5046c2
-<Burn!!!>
+"Burn!!!"
 >afb97f68ea
-<I hate you!!>
+"I hate you!!"
 >f88c79dfeb
-<Blow away!!!>
+"Blow away!!!"
 >269f070922
-<Take this!!>
+"Take this!!"
 >8963aae7b4
-<Can you bear my dark-piercing flame!>
+"Can you bear my dark-piercing flame!"
 >9156a53ae4
-<Feel the earth's power!!>
+"Feel the earth's power!!"
 >51c91e0753
-<Vanish from this place!>
+"Vanish from this place!"
 >61fece6301
-<Know my power in the flesh!!>
+"Know my power in the flesh!!"
 >36e38dd499
 "Ugh! [FD17] doesn't work!!"
 >d8f717090d

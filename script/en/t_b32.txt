@@ -76,7 +76,7 @@ I've nothing more to say to
  keep us supplied.
 >f5589abbdb
 [c1]Merchant[c0][n]"How about rare
- [c2][FD0E:46][c0] <weapons>?
+ [c2][FD0E:46][c0] weapons?
  You won't regret it!!
 >28f5168d7b
 "Come again!!
@@ -112,8 +112,8 @@ I've nothing more to say to
  [c2]Central Plains[c0], you'll
  be glad you bought some!!
 >3dc0bddc44
-[c1]Merchant[c0][n]"Good stock of <shields>
- and <armor>!!
+[c1]Merchant[c0][n]"Good stock of shields
+ and armor!!
 >2f08359d6d
 "Grrr!!
 >7b6acffd28

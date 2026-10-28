@@ -10,7 +10,7 @@
 %{1}:"No, I don't think it's
  mere scribbling.~
 "This is most likely a
- <magic circle>, and an evil
+ magic circle, and an evil
  one at that[FD0F:3D]~[0C]%{0}:"Then someone performed
  sorcery here?~
 %{1}:"Most likely. And as a

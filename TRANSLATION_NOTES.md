@@ -281,3 +281,4 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## Walker / NPC check (2026-10-28)
 - tools/test/walk.lua + wk.sh: scripted walker. WRAM entity table at 0xD84 + 12*k (k=0 player; x at +4, y at +6; slot active if +1..+3 nonzero). 0xE44 is scroll, not map id. Step {'talk',k,timeout,side} steers next to entity k and presses A.
 - School exit: corridor y=1183, go down at x=328. Viewed: classmate (b06 8f0d9869ed, JP 《うた》 rendered as <songs>), pier priest (Amsia/Limerick), tavern barkeep menu "A drink, please!/Never mind!" fits.
+- 《》 emphasis: no longer carried over as <...>. Battle shouts (b03_nowrap) now use "..."; elsewhere the brackets are simply dropped (color codes already mark key terms). lists.json "<Singer>" -> "Singer". Viewed: classmate b06 8f0d9869ed now "are songs holding divine power".

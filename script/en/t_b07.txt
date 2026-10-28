@@ -57,7 +57,7 @@ The ship leaves soon.
 "Going outside?~
 >f5c13db004
 "Sorry, I can't let you
- through without a <pass>.~
+ through without a pass.~
 
 >2cafdd914a
 "It's dangerous lately, and
@@ -96,8 +96,8 @@ Right now in the [c2]Assembly
 >44fddb270f
 "[c2]Limerick[c0] is the only
  country without a [c1]king[c0].~
-"It's run by a [c1]<Council>[c0]
- of the [c1]<Singer Guild>[c0].
+"It's run by a [c1]Council[c0]
+ of the [c1]Singer Guild[c0].
 >b60892a796
 "When I grow up I'm gonna be
  a Singer!!
@@ -135,7 +135,7 @@ Right now in the [c2]Assembly
  town in [c2]Limerick[c0].
 >7facf0c10b
 "If you travel without an
- <escort>, it's far too
+ escort, it's far too
  dangerous.
 >7149ff56fc
 %{7}:"Any farther and we'll be

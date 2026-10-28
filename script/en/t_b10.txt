@@ -54,7 +54,7 @@ There won't be a ship to
 >21280c014d
 [0C]"Well now, the chief of
  [c2]Lesa Village[c0] asked us, so
- we sent a <hunting party>!!
+ we sent a hunting party!!
  So there ain't nobody handy
  with a sword left in town.
 >025dfa1218
@@ -264,7 +264,7 @@ The caravan is heading to
  [c2]Alster[c0] right away!!
 >dfd2b91a30
 * In trouble? Visit the
- [c1]<broker>[c0]!!
+ [c1]broker[c0]!!
 >be43d1363e
 ~[0C]%{7}:"^0! Shouldn't we hurry to
  the [c2]station[c0]?
