@@ -19,3 +19,9 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 - Visual check: `tools/test/preview.sh UID out.png` puts any string into the first classroom line and makes a contact sheet. Viewed: 07e5149dcc (b09 Robinton/Ferion scene) - wraps cleanly, list dots render as "...".
 - Doubtful: 3446a4b544 (Devi choice menu, keeps "-・" prefix); 44396273ce replaced FD0F:2A with plain text; Fern/Exelion/Amsia romanizations tentative.
 - Items/magic/monsters lists translated for dialogue use (menus/battle still use their own JP data; to do). Tentative: マーダー Murder, ギルボアール Gilboal, ショックルーゼス Shock Ruses, シャーウットボウ Sha-Wood Bow, レーザープロット Laser Plot, パブロフ Pavlov, ヒベモス Hibemoth.
+
+## b10 notes
+- Term FD0F:08 (ギョ-ム) is used as the currency unit ("500 Guillaume"). Kept as "Guillaume" for now; doubtful, may become a short unit.
+- The Tiris Noah broker speaks Kansai dialect; rendered as a folksy merchant ("ain't", "ya").
+- Menu option-id bytes before the choice text are kept as raw [xHH] tags (new encoder tag).
+- d0795837b5 (b07 drink menu) is now translated with the raw-byte prefix.

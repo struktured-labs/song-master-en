@@ -17,6 +17,7 @@ def tokens(s):
         if m.group(1) is not None: yield ('tag', m.group(1))
         else: yield ('ch', m.group(2))
 def tagbytes(t):
+    if re.match(r'x[0-9A-F]{2}$', t): return bytes([int(t[1:], 16)])  # raw byte (menu option ids)
     if t == 'LINE': return b'\xfe'
     if t == 'END': return b'\xff'
     m = re.match(r'FD([0-9A-F]{2})(?::([0-9A-F]{2}))?$', t)

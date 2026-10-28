@@ -1,0 +1,291 @@
+# b10: Tiris Noah broker (Kansai-style merchant -> folksy), inn, coach station, tavern job, Gordon's caravan, meeting Nimens(^2).
+# Data strings skipped: 601e9505e6 83b9f13f40 9aef9e399c b2a179813e 019d7f59d2 d2df8bdc4a ab2e10b8f8 e6830861e3 bcc22f4728 ab450ce414 e30c6f159b 8b3a91a50d c5af37fb2d c9ae1cbc55 9fd38bca3e 3f9aec95f4 30564da372 790fc11dd3 510c49fa57 b68542373c 3acff96a27 a715334409
+>5a52b8bb7c
+"Ain't got no work just now,
+ friend!!
+>d2e6bcf9c5
+[0C]"They say the bigwigs from
+ every nation are holdin' a
+ council in the [c2]Assembly
+ Hall[c0] about [c2]Croixdor[c0]'s
+ invasion.~
+"Mighty serious business,
+ ain't it.
+>fc02835b7a
+All sailings have been
+ stopped because of the war.
+>df4d8ad541
+Lord [c1]Robinton[c0] told me.~
+"We can set sail for
+ [c2]Diara[c0] any time!!~[0C]"Take care, then!!
+>fe5e6357aa
+There won't be a ship to
+ [c2]Tiris[c0] for a while.
+>cfd0008a56
+[0C]"Then it's the tavern to the
+ lower right. Go 'round the
+ back door and talk to the
+ [c1]master[c0].
+>d22c1363d9
+"Then it's the house at the
+ very back, left of the
+ square. That's [c1]Thomas[c0]'s
+ place. Go on over.
+>f07a1110ca
+"The job that's left is
+ helpin' out at the tavern.
+ Want it?~
+>6c7fb4e766
+[0C]"You folks can fight, I
+ trust? Well, fine by me.~
+"Take this and head on
+ over to [c2]Lesa Village[c0].~
+>92a59fc686
+[0C]"[c2]Lesa Village[c0] is north of
+ here! Good luck to ya!!
+>1726dfd6cc
+%Broker:"Welcome, welcome!! What can
+ I do for ya?~
+>7e150cea9d !
+[x2F][x30]Ask for info
+ Take a job
+>9f24c797c4
+[0C]"Come again!!
+>21280c014d
+[0C]"Well now, the chief of
+ [c2]Lesa Village[c0] asked us, so
+ we sent a <hunting party>!!
+ So there ain't nobody handy
+ with a sword left in town.
+>025dfa1218
+"I got about three jobs.~
+>f9a8b9d56d !
+[x29][x2A][x2C][x31]Tavern helper
+ Thomas's request
+ Goblin hunt
+ Never mind
+>5d17cd75f2
+[0C]"Changed your mind? Well,
+ come again!!
+>e5ccddffc7
+%Weapons:"Need a weapon!?
+>c308321e26
+*Watch out for colds!!
+>5acc851f3b
+[0C]"You don't seem to have
+ enough money...
+>d46894c72f
+[0C]"Have a safe trip!!
+>7be5a4712e
+%Inn:"We're terribly sorry, but
+ we're full at the moment.~
+>dc35b957ae
+[FD0F:37]
+>3bb4ee6546
+"Please come again.
+>df71548cc1
+[0C]"That will be 500 [FD0F:08].
+ Is that all right?~
+>bec05214bd
+%{7}:"Hey! ^0!!~
+"We're not done here yet!!
+>3d4a365d03
+"This is the stagecoach
+ [c2]station[c0].~
+"How can I help you?~
+>28e6d57f1f !
+[x70][x6F]I want to ride the coach!
+ Never mind
+>91c45eb70d
+[0C][FD0F:36]
+>c33fd30cd5
+"Where to?~
+>97cdd2b96d !
+[x71][x6F]Lancafarn
+ Never mind
+>f011e6c064
+[0C]"We're terribly sorry, but
+ the coach to [c2]Lancafarn[c0] is
+ not running at present.
+>dd1a2c7b53
+"Oh! You're going with the
+ caravan too?~
+"Then we'll be together part
+ of the way! Nice to meet
+ you.
+>6a5fa57528
+"I'm cleaning, so please
+ don't come into the room.
+>4ec9117a51
+[c1]Remi[c0][n]
+>8559b6c2ea
+"Hello, I'm [c1]Remi[c0]. I just got
+ my healer's license, so I'm
+ going home to [c2]Lesa
+ Village[c0].~
+"But they say [c1]goblins[c0] have
+ been showing up. I'm worried
+ about the village...
+>7a5896e901
+"Then come here tomorrow
+ morning. Don't be late!!
+>f5b7514304
+"I'm [c1]Gordon[c0], captain of the
+ caravan.~
+"What? You want us to take
+ you to [c2]Lancafarn[c0]!!~[0C]"The caravan only goes as
+ far as [c2]Alster[c0] in
+ [c2]Marsha[c0]. That all right
+ with you?~
+>e0c51671a7
+[c1]Gordon[c0][n]
+>1d28193f4a
+"I'm busy right now. Can we
+ talk later?
+>48dd83dc1f
+"Ahh, so busy! So busy!!
+>76daaeffe8
+"I'm waiting for the coach
+ to [c2]Lancafarn[c0].~
+"But if [c2]Mt. Gloastill[c0] gets
+ blocked, I'll have to go
+ around through [c2]Marsha[c0].
+>951a9a65c9
+"Hm...!? I'm not [c1]Gordon[c0].~
+"What!? If it's the caravan,
+ it's already left.~[0C]%{0}:"Oh no! We're too late!!~[0C]
+>d8ff7ee225
+"If you chase it now, you
+ might catch up.~
+"The caravan left by the
+ north road!!
+>5e20e82634
+"If the war spreads, you
+ won't be able to travel
+ freely.
+>aaca2d33a1
+"I'd like to go traveling
+ somewhere too...
+>64a5e037d6
+*Alesa 3 on sale now!!
+>7ffa593fc7
+%Master:
+>8c0f78597f
+[FD0F:33]
+>25bb562799
+"Go take everyone's order.
+>463b81a1c0
+"Good work! Here's your pay
+ for the job.~
+>df8006afca
+[n]"Come help again sometime.
+>ddf2ab6b15
+%Master:"Customers can't come in the
+ back door, you know.
+>51fa443562
+~
+"What!? You want to work
+ here!!~
+>3158b22add
+[n]"That's a help. Let's put
+ you to work right away.~
+[n]
+>aeb6f79caf
+"Go out beside the counter
+ and take the customers'
+ orders.
+>d7aaba26bb
+Thanks to the [c1]goblins[c0], you
+ can't go near [c2]Lesa
+ Village[c0] without hiring
+ guards.
+>5b454d3629
+"Beer and a salad.
+>194f773fe4
+They say [c2]Croixdor[c0] is
+ attacking. What an uproar!!
+>08906998fb
+"Come to think of it, I hear
+ there's monster trouble in
+ [c2]Farlon[c0] and [c2]Barnicia[c0] too.
+>e9c4445225
+"Beer for me.
+>833cc721a0
+Still, [c1]goblins[c0] aren't
+ supposed to attack people
+ for no reason.
+>109c637d0b
+"Just a beer for me.
+>24b936cccc
+"...
+>26f1aa3cf3
+"Bourbon, please.
+>ff6eadcf9c
+"Can't get by without a
+ drink!!
+>65bd7d9bbf
+"Beer and sausages.
+>0ccec28663
+~[0C]%{7}:"
+>30cb3cfd1a
+Right, with the caravan it
+ might be safe.
+>3e41a62ff5
+"Whiskey!!
+>0c70d66263
+The caravan is heading to
+ [c2]Lancafarn[c0] with guards.
+ Why not go to the [c2]station[c0]?
+>bd2221a18c
+"Wheee! Hic!!
+>39cdb71b69
+"Urgh! What, you want me as
+ a bodyguard!?~
+%{7}:"^0! We don't need to ask
+ some old drunk like this,
+ do we?~[0C]"Urgh! Even if you hadn't
+ asked, I've already got a
+ promise to keep.
+>d309cbb69f
+"I don't need anything else.
+>7700c3c993
+"Hey! You look well!!~
+%{7}:"Ah! The old drunk!!~
+"What are you doing in a
+ place like this!!~[0C]%{0}:"^7! That's rude!!~
+"I'm sorry! By the way, do
+ you know someone named
+ ^2?~[0C]"He's right here!!~[0C]%{7}:"Where is he?~[0C]"I'm ^2...?~
+"You didn't know[FD0F:3D]~
+"Then let me introduce
+ myself properly! I am ^2!
+ Glad to be with you!!~
+"Well then, let's head for
+ [c2]Alster[c0] right away!!
+>dfd2b91a30
+* In trouble? Visit the
+ [c1]<broker>[c0]!!
+>be43d1363e
+~[0C]%{7}:"^0! Shouldn't we hurry to
+ the [c2]station[c0]?
+>bb6caf4893
+%Inn:[FD0F:37]
+>ffb44ca87e
+"Then please, make yourself
+ at home.
+>af52249822
+"The maid at [c1]McPherson[c0]'s
+ place is cute, isn't she.
+>04212deb08
+"The richest man in this
+ town is [c1]McPherson[c0].~
+"His house is the one to
+ the northwest.
+>368c3c09aa
+"How long am I going to keep
+ drinking...?
+>fc766aa80e
+%{7}:"Isn't it too early to stop
+ for the night? Let's look
+ around town while we're
+ here.
