@@ -1,0 +1,286 @@
+# b58-b65: Great Wall, Tir na Nog (Eiria, El Ran's rebirth), Elles Noah library, Uther's death.
+>5e63d1ac8e
+%{7}:"[c1]^0[c0]! Nothing to do
+ but push on!!
+>07c1d5dc42
+%{3}:"My king, I have been
+ waiting.~
+%{1}:"Thank you for waiting,
+ [c1]^3[c0].~
+>39a9e61a1f
+[n]"Let me introduce you all.
+ This is the queen,
+ [c1]^3[c0].~[0C]%{7}:"Queen? So she's
+ [c1]^1[c0]'s wife!?~
+%{1}:"She is.
+"Though it means something
+ different from a human
+ wife.~[0C]%{3}:"I know it is thanks to all
+ of you that my king
+ arrived safely.~
+"I have no words to thank
+ you.~
+>663053d6aa
+[n]"Now! My king!! There is no
+ time! Let us begin the
+ [c2]Rite of Departure[c0]!!
+ I shall go with you!!~
+%{1}:"[c1]^3[c0], [FD0F:29] intend
+ to undergo rebirth once
+ more.~
+>3f5c35073d
+[n]%{3}:"What are you saying! My
+ king!!~
+"That is far too
+ dangerous!!~[0C]%{0}:"[FD0F:41] [c1]^1[c0]! What does
+ that mean!!~
+>d6f9b27f4d
+[0C]%{1}:"When an [c1]elf[c0]'s life
+ ends, it is said the soul
+ goes to [c2][FD0E:29][c0],
+ beyond time.~
+"What must be done for that
+ is called the [c2]Rite of
+ Departure[c0].~
+"The other way is to renew
+ the body and go on living
+ in this world.~
+"That is called the
+ [c2]Rite of Rebirth[c0].~[0C]%{3}:"But my king has already
+ been reborn 3 times.~
+"No one has ever been reborn
+ 4 times.~
+"Each rebirth carries more
+ danger than the last.~
+"It is said that if it
+ fails, the soul is trapped
+ in a void of darkness,
+ wandering forever.~[0C]%{0}:"No[FD0F:3D]~
+"[c1]^1[c0]! [FD0F:2A] taking
+ such a risk[FD0F:3D]~
+%{1}:"It's all right.
+ [FD0F:29] will come back!!~
+"No! I must come back!!~
+%{8}:"But is that not far too
+ reckless?~
+>767edf8df0
+[0C]%{3}:"My king! [FD0F:29] am
+ afraid of losing
+ you[FD0F:3D]~
+%{1}:"I feel none of this is
+ chance. It is all the will
+ of the gods.~[0C]"So I am certain. I will
+ return to this world!!~[0C]%{3}:"I understand, my king!!~
+"Let us begin the
+ [c2]Rite of Rebirth[c0].~
+%{1}:"[FD0F:28],
+ [c1]^3[c0]!!~
+"Don't worry about me.~
+"In my place, go with
+ everyone to
+ [c1][FD0F:1C][c0]. I'm
+ counting on you.~
+>68ea585ace
+[n]"Everyone, I won't say
+ goodbye! We will surely
+ meet again!!
+>b961733889
+%{7}:"H-he vanished[FD0F:3D]~
+>cd37761fde
+[n]%{3}:"The rebirth has begun.~
+"It will take some time
+ before it is complete.~
+"Until then, [FD0F:29] will
+ serve in the king's
+ place.~
+"Come! Let us go!!~[0C]%{7}:"Right! Back to
+ [c2][FD0E:01][c0]!!
+>4c10af825a
+%{0}:"The [c2]harbor[c0] is up
+ ahead.
+>1619216835
+"This is [c2][FD0E:2E][c0],
+ the city of learning.
+>fabe36a68e
+"Most people living here
+ work in scholarship.
+>97caf591af
+"Lord [c1][FD0F:02][c0] is high
+ priest and head of the
+ [c2]temple[c0].
+>1c0404ca16
+"Every book in the world is
+ gathered here.
+>0e75dbe29f
+"[c2][FD0E:3A][c0] is ruled by
+ Lady [c1]Fern[c0]!!
+>afdfefde20
+"They say Lady [c1]Fern[c0] is
+ actually a "fairy".
+>6381e2d8af
+%{6}:"These are relatively
+ new.
+>609d67654e
+%{2}:"Oho! This is from
+ [c2]Agna[c0]'s war of
+ conquest[FD0F:3D]
+>8b1362eae7
+%{7}:"I'm no good with this
+ stuff[FD0F:3D]
+>f92c502e8e
+%{6}:"This is about the history
+ of the [c2][FD0F:25][c0].
+>44c80a3ee2
+%{4}:"Wow! What pretty
+ patterns!!
+>a2ea5aa9c6
+%{2}:"Hm! A book on
+ weapons[FD0F:3D]
+>8cb4b0ff52
+%{6}:"Most of what's here
+ hasn't been deciphered
+ yet.
+>f2d9e9b502
+%{0}:"This book[FD0F:3D]~
+%{2}:"Quite old-fashioned[FD0F:3D]~
+%{6}:"It's written in [c2]Ancient
+ Melrosian[c0].~
+"[c2]Ancient Melrose[c0]'s
+ language is still almost
+ entirely undeciphered.~
+>b0e2707cab
+[0C]%{7}:"...What's wrong!
+ [c1]^0[c0]!?~[0C]%{0}:"...I feel like I can
+ understand what this book
+ says[FD0F:3D]~[0C]"...You who inherit my will!
+ [c1][FD12:EC][c0] must not be
+ unleashed on this world!!~
+"To that end, I grant you
+ all my power!!~
+"Follow the guidance of the
+ [c2]Pointer[c0], and make
+ for [c2][FD0E:3B][c0]!!~
+%{7}:"[c1]^0[c0][FD0F:42] What was
+ that[FD0F:41]~[0C]%{0}:"It just came to me[FD0F:3D]~
+"Something spoke straight
+ into my head.~[0C]%{2}:"Hm[FD0F:3D] Strange[FD0F:3D]~
+"By the way, what is this
+ [c2][FD0E:3B][c0]...?~[0C]%{6}:"I believe it's the name of
+ the capital of [c2]Ancient
+ Melrose[c0].~
+"Most [c1]Excelion[c0] ruins
+ are in the [c2]Central
+ Plains[c0][FD0F:3D]~
+"But the [c2]Melrose[c0] ruins
+ are on an island called
+ [c2]Diara[c0], far to the
+ east[FD0F:3D]~[0C]%{2}:"[c2]Diara[c0][FD0F:3D]~
+"I went there once. As I
+ recall, an empty,
+ desolate land[FD0F:3D]
+>c6a5459499
+"Th-this is bad! Knights of
+ [c2][FD0E:45][c0] suddenly
+ attacked!!~
+>ed42b3ba45
+[n]%{6}:"What!? And Lord
+ [c1][FD0F:02][c0]?~[0C]"Lord [c1][FD0F:02][c0] is
+ fighting them alone!!~[0C]%{2}:"[c1]^0[c0]! Hurry to Lord
+ [c1][FD0F:02][c0]!!
+>afd1aad8b1
+%{6}:"You!!~
+[c1][FD0E:45] Knight[c0][n]"Oho! So you've come!!~
+"By Lord [c1][FD0F:22][c0]'s
+ order, you must die!!~
+"Hyoooooooh!!
+>4a2ffb7f9b
+%{6}:"Lord [c1][FD0F:02][c0]!!~[0C][c1][FD0F:02][c0][n]"...Ah, [c1]^6[c0][FD0F:3D]~[0C]%{6}:"Hold on!!~
+[c1][FD0F:02][c0][n]"...[FD0F:29] cannot be
+ saved now[FD0F:3D]~
+"...[c1]^0[c0]... any...
+ clues...?~
+%{0}:"Yes. [c2][FD0E:3B][c0]
+ holds the secret.~[0C][c1][FD0F:02][c0][n]"As I thought[FD0F:3D]~
+"Go to [c2]Diara[c0] and all
+ should be clear...
+ *cough*!~
+"You are... perhaps...
+ the... le... gend...
+ of....~
+%{6}:"[FD0F:40] Lord
+ [c1][FD0F:02][c0]!!~[0C]%{2}:"It's no use! He's
+ gone[FD0F:3C]~
+>bdce51f679
+[0C]%{0}:"[c1]^6[c0]... I'm sorry.~
+"For dragging you into
+ this[FD0F:3D]~
+>3bb0d1fadb
+[n]%{6}:"[c1]^0[c0][FD0F:3D] Right to
+ the end, Lord
+ [c1][FD0F:02][c0] thought
+ of you[FD0F:3D]~
+"Take me with you!!~
+"I will see Lord
+ [c1][FD0F:02][c0]'s will
+ through!!~
+"And avenge him[FD0F:3D]~
+"Let's go! To [c2]Diara[c0]!!
+>20d908ed9a
+%{2}:"To reach [c2]Diara[c0] we
+ must go by ship.~
+"Let us go back to
+ [c2][FD0E:01][c0] and cross
+ to [c2]Diara[c0].
+>865e208b6a
+%{7}:"Honestly, I can't make
+ heads or tails of it.
+>153711dbd4
+%{4}:"It's about the [c2]ancient
+ [FD0E:42] Empire[c0].
+>c3539932e5
+[c1][FD0F:02][c0][n]"Sadly, most old records
+ were lost to war[FD0F:3D]
+>1fa30c715d
+%{6}:"Hi! You came!!~
+"Let me introduce you! This
+ is Lord [c1][FD0F:02][c0], who
+ oversees this
+ [c2]temple[c0]!!~[0C][c1][FD0F:02][c0][n]"Welcome, all. I have heard
+ the situation from Lady
+ [c1]Fern[c0].~
+"We shall help however we
+ can.~[0C]"[c1]^6[c0]! Show everyone
+ around.~
+>5a38e92269
+[0C]%{6}:"Then please follow me.
+>5cadfdb946
+%{6}:"This is where every
+ record in the world is
+ gathered.~
+"The lower the floor, the
+ older the material.~
+"Now, let's search
+ together.
+>78c296b5a8
+"The history of the
+ [c1]Excelion[c0] holds many
+ mysteries.
+>62edc061c1
+"[FD0F:29] research the
+ events of about the last
+ 100 years.
+>e72da8f3bc
+"Sorting books is rough.~
+"Honestly, it's hard labor.
+>a0fcacb597
+"The [c2]temple[c0] here in
+ [c2][FD0E:2E][c0] honors
+ [c1]Fariga[c0], god who guards
+ the sea[FD0F:39]
+>6fefe659f4
+"They say [c2][FD0E:2E][c0] is
+ protected by a barrier.
+>0682f4d720
+"To work at the
+ [c2]temple[c0] you have to
+ study really hard.
