@@ -149,3 +149,5 @@ Right now in the [c2]Assembly
 >d0795837b5 !
 [xC9][xCA]A drink, please!
  Never mind!
+>6ffb57edcc
+[c1]Armor Shop[c0][n][FD0F:34]
