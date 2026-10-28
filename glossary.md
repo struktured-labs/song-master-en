@@ -81,3 +81,4 @@
 | 聖詩歌 | Holy Songs | prologue |
 | 光の神 | God of Light | prologue |
 | 聖戦 | Holy War | prologue |
+- かりにんていしょ (item 145): **Temp. Permit**. It was "Provisional Permit", shortened so it fits the 16-column popups.

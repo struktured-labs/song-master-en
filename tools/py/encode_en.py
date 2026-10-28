@@ -33,7 +33,7 @@ def _termw():
     for code, name in (('FD0E', 'places'), ('FD0F', 'terms'), ('FD10', 'items'), ('FD11', 'magic'), ('FD12', 'monsters')):
         for i, e in enumerate(json.load(open(f)).get(name, [])): TERMW['%s:%02X' % (code, i + 1)] = len(e)
 _termw()
-def wrap(s, width=WIDTH):
+def wrap(s, width=WIDTH, col0=0):
     """re-flow text between [n] tags: words never split; continuation lines indented by one space."""
     out = []; col = 0
     toks = list(tokens(s)); i = 0
@@ -51,7 +51,7 @@ def wrap(s, width=WIDTH):
             words.append(('sep', tk))
         else: cur.append(tk)
     if cur: words.append(('w', cur))
-    res = []; col = 0; pending_space = False
+    res = []; col = col0; pending_space = False
     for kind, x in words:
         if kind == 'sep':
             if x == ('ch', ' '):
@@ -79,8 +79,8 @@ def paginate(toks, maxlines=3):
                 out.append(('tag', 'wait')); lines = 1
         out.append(t)
     return out
-def encode(s, dowrap=True):
-    toks = wrap(s) if dowrap else list(tokens(s))
+def encode(s, dowrap=True, col0=0):
+    toks = wrap(s, col0=col0) if dowrap else list(tokens(s))
     if dowrap: toks = paginate(toks)
     b = bytearray()
     for k, v in toks:

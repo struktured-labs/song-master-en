@@ -60,6 +60,7 @@ def block0(d):
         if len(blob) > n: raise SystemExit('list %s over budget: %d > %d' % (L['list'], len(blob), n))
         out[a:a+n] = blob + b'\xff' * (n - len(blob))
     return bytes(out)
+QUOTED = set()
 stats = dict(blocks_over=[], strings=0, en=0)
 newblocks = []
 RAWP = json.load(open(ROOT + '/script/en/raw_inplace.json')) if os.path.exists(ROOT + '/script/en/raw_inplace.json') else []
@@ -71,10 +72,12 @@ for i in range(78):
         assert bytes(d[a:a+len(o)]) == o and len(o) == len(n), P_['note']; d = bytes(d[:a]) + n + bytes(d[a+len(o):])
     p, end = parse(d)
     if i == 0: newblocks.append(block0(d)); continue
-    out = bytearray(); last = 0
+    out = bytearray(); last = 0; prevq = False
     for kind, s, e in p:
         if kind != 'text': continue
         raw = d[s:e]; uid = hashlib.sha1(raw).hexdigest()[:10]; stats['strings'] += 1
+        if prevq: QUOTED.add(uid)
+        prevq = bytes(raw[-2:]) == b'\x70\xff'
         out += d[last:s]; last = e
         if uid in EN:
             stats['en'] += 1
@@ -84,8 +87,9 @@ for i in range(78):
     limit = 0x1800 if i not in (0, 2, 3) else len(d)
     if len(out) > limit: stats['blocks_over'].append((i, len(out)))
     newblocks.append(bytes(out))
+open(ROOT + '/build/quoted.txt', 'w').write('\n'.join(sorted(QUOTED)))
 for uid, n in ids.items():
-    v = EN[uid]; v['en']=re.sub(r'(\[END\]|\[LINE\])$','',v['en']); b = encode(v['en'], v.get('wrap', True)) + b'\xfd\x31'
+    v = EN[uid]; v['en']=re.sub(r'(\[END\]|\[LINE\])$','',v['en']); b = encode(v['en'], v.get('wrap', True), 1 if uid in QUOTED else 0) + b'\xfd\x31'
     if addr + len(b) > 0x10000: bank += 1; addr = 0x8000
     assert bank < 0x30
     o = lo(bank, addr); rom[o:o+len(b)] = b

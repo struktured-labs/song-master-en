@@ -98,7 +98,7 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - Narrow-glyph pair / ligature tiles were considered: only ~23 free tile codes (old hiragana 1E-34), while ~134 long names would need ~5 distinct pair tiles each. A VWF would require rewriting the window renderer. Abbreviations are the more robust choice; they are polished by hand in lists_short.json.
 
 ## Test-only WRAM map (for Mesen Lua pokes; never shipped)
-- Names 7E:0AF8 (16 bytes each); stats records ~7E:0A08; gold 7E:0B7A (24-bit LE); inventory (id,count) pairs 7E:0BDE-0C13; item id = lists index + 1.
+- Names 7E:0AF8 (16 bytes each); stats records ~7E:0A08; gold 7E:0B7A (24-bit LE); inventory = one count byte per item, indexed by item: 7E:0BDE + (list index - 97) for list items 97..150 (Nitron 0BDE, HiNitron 0BDF, Pavlov 0BE0, Darts 0BE1, Temp. Permit 0C0E). The old "(id,count) pairs" note was wrong.
 
 ## FIXED: FD0E place names froze dialogue (since f6e683e)
 - asar assembled `BRA $02B09A` at $02:B08F as `80 9A` (jumped to $02:B02B), so every dialogue line using an FD0E place name stopped right after the name. Now emitted as `db $80,$09`. Verified on screen after the fix: b26 90a909543c, b76 0ef7c92c79, b77 84c5631acf / 07d2ab3f5b / e60481ecda (pv/fixgrp.png).
@@ -166,3 +166,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Because that external quote also takes a column, the wrapper doesn't count it. b09 2a8f5b4dd8 overflowed ("hav e"). It's reworded so the first line is ≤23 characters. Other entries that start with an external 「 and have a 24-character first line could have the same problem. None seen so far.
 - In b09 lbl 82, "accept it.Priest" comes from forcing the label: the text falls through into the next label. It isn't a real game bug.
 - The "Elixir x2 obtained!" popup has been checked on screen.
+- The quote glyph lives in a VRAM font that is loaded at boot, so old save states (field.mss from 00:50) still showed the old ┌ shape. field.mss was regenerated from a fresh boot on the current ROM (03:52), and the quote then appeared as `"` (b0a lbl 28 viewed).
+- Wrapper: strings that follow a lone 「 segment (`70 ff`) now wrap starting at column 1 (insert_sm QUOTED -> encode col0=1). The audit found 119 such strings. 24 of them wrapped differently and would have overflowed. b09 2a8f5b4dd8 and b0a fe5e6357aa ("There won't be a ship / to Tiris for a while.") were checked on screen.
+- Popups checked on screen: "Can't carry more / Nitron." (Nitron count 99), "Can't use here!" (Nitron in the field), "Can't use / Temp. Permit!", "Can't sell / Temp. Permit!", "Introduction x1 obtained!".
+- Item 145 is renamed from Provisional Permit to Temp. Permit (12 characters), so every item name now fits in the 16-column popups. Vengeance Sword is the longest at 15.
+- b10 sweep: labels 1e-5c viewed (NPCs, broker, help-wanted, item/weapon/armor shops, Not enough money). They look fine. The broker menu was caught mid-draw ("Ma"), so I couldn't judge it.
