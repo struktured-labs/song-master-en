@@ -22,7 +22,7 @@
  [c1]^1[c0] doing?~
 [c1][FD0F:24][c0][n]"Much better, but[FD0F:3C]
 >a653725287
-%{1}:"I will explain[FD0F:38]~
+%{1}:"Let me explain.~
 >91a85a1547
 [n]%{0}:"[c1]^1[c0]!!~[0C]%{1}:"Everyone! I have caused
  you much trouble.~

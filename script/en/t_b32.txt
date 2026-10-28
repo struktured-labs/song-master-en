@@ -123,7 +123,7 @@ I've nothing more to say to
 >9ecd516090
 %{0}:[FD0F:2D]~[0C] [c2][[FD10:76]][c0]
 >26e086a210
-%{0}:[FD0F:2D]~[0C] [c2][Cyan [FD10:74]][c0]
+%{0}:[FD0F:2D]~[0C] [c2][xA4]Cyan [FD10:74][xA5][c0]
 >0d54363d5e
  got eaten!!
 >cab24dff06

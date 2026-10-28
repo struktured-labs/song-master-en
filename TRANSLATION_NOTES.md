@@ -52,3 +52,9 @@ Avoid FD0F:28-2A, 39-43 in English; write the text out.
 ## b58-b65 notes
 Re-read against the dump. The "ancient Marsha Empire" (こだい[FD0E:42]てい国) is literal per the game, kept.
 Fern (フェルン) is tentative. Uther (FD0F:02) is high priest of Elles Noah's temple of Fariga.
+
+## Code audit (all t_b*.txt)
+Every FD0E/FD0F code in the English script was checked against WORDLISTS.md (full decoded lists).
+Fixed: b45 "explain[FD0F:38]" (=let's do that) -> "Let me explain."; b01 FD0E:00/FD0F:00 (index 0, no list entry) removed;
+b32 literal "[Cyan ...]" bracket now [xA4]/[xA5]. Phrase codes FD0F:2C-37 (shop/inn greetings) used only where the JP uses them.
+Rule: before using any FDxx code, look it up in WORDLISTS.md.
