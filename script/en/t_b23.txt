@@ -158,7 +158,7 @@ Seems the [c1][FD0F:09][c0] got
  [c2]station[c0], so you can hear
  news from all over.
 >4d8cfff286
-[0C]"It costs 500 [FD0F:08]. Is
+[0C]"It costs 500[FD0F:08]. Is
  that all right?~
 >fc00be5eeb
 [0C][FD0F:2E]
@@ -167,7 +167,7 @@ Seems the [c1][FD0F:09][c0] got
  money[FD0F:3D]
 >387043749c
 [0C] ^0 donated 100
- [FD0F:08]!!~[0C]"Thank you very much.~
+[FD0F:08]!!~[0C]"Thank you very much.~
 "Your goal will surely be
  achieved.
 >b311ec3f3f

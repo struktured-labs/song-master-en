@@ -8,7 +8,7 @@
  all right?~
 >18919cfb2e
 [0C]"Then that'll be
- 500 [FD0F:08].~
+ 500[FD0F:08].~
 >2c6346b642
 *For restoring stamina, try
  [c2][[FD10:72]][c0]!!

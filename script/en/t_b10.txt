@@ -84,7 +84,7 @@ There won't be a ship to
 >3bb4ee6546
 "Please come again.
 >df71548cc1
-[0C]"That will be 500 [FD0F:08].
+[0C]"That will be 500[FD0F:08].
  Is that all right?~
 >bec05214bd
 %{7}:"Hey! ^0!!~

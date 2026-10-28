@@ -21,7 +21,7 @@ Window: about 22 visible columns, 4 rows; long lines are auto-wrapped at 24 by t
 - Items/magic/monsters lists translated for dialogue use (menus/battle still use their own JP data; to do). Tentative: マーダー Murder, ギルボアール Gilboal, ショックルーゼス Shock Ruses, シャーウットボウ Sha-Wood Bow, レーザープロット Laser Plot, パブロフ Pavlov, ヒベモス Hibemoth.
 
 ## b10 notes
-- Term FD0F:08 (ギョ-ム) is used as the currency unit ("500 Guillaume"). Kept as "Guillaume" for now; doubtful, may become a short unit.
+- Term FD0F:08 (ギョ-ム) is only ever used as the currency unit; menus show "G", so it is rendered "G" with no space ("500G").
 - The Tiris Noah broker speaks Kansai dialect; rendered as a folksy merchant ("ain't", "ya").
 - Menu option-id bytes before the choice text are kept as raw [xHH] tags (new encoder tag).
 - d0795837b5 (b07 drink menu) is now translated with the raw-byte prefix.
@@ -175,3 +175,4 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## b0a sweep pass3 (labels 5f–70), viewed
 - Viewed sheets for 5f, 64, 67, 68, 69, 6a, 6c, 6d, 6e, 6f, 70: clinic, inn (full/stay/500 Guillaume + Yes/No), Sion "Hey! Yury!!", stagecoach. No overflows; wraps look right.
 - Stagecoach choice windows (6e, 70) show "=a" / "/a" when forced by label jump: menu data is not set up outside real play. Needs checking in real play; not counted as a text bug yet.
+- pass3 labels 71–78 viewed (coach not running, caravan/Remi/Gordon): OK.

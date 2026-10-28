@@ -13,7 +13,7 @@ Forgot already?~
 "Looks like you ain't spies
  for the [c1]king[c0][FD0F:3D]~
 "All right! Pay me
- [FD12:C8]0 [FD0F:08] and I'll
+ [FD12:C8]0[FD0F:08] and I'll
  put you in touch with the
  [c1][FD0F:14]s[c0]. Well?~
 >f3e3f4f549
@@ -136,7 +136,7 @@ The old [c1]bartender[c0] was in
 Welcome!!
 >da20f9772d
 ~
-"Any drink, 500 [FD0F:08] a
+"Any drink, 500[FD0F:08] a
  glass!!~
 >93ce7e6235 !
 [x9E][x9F][x9E][x9D]Salty Dog

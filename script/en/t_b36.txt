@@ -1,6 +1,6 @@
 # b36-b40: Farhan pass office, Mystery Knight ambush & mercenary, Alster (Marsha capital), Hudson, Arthur. Skipped data: 7a649a1187 11909cc388 94fe41b6a5 d806b53a33 8a35a6fa67 c7a9ad03ae 996862051f 026a87690d 6761681ec2 c88d2d6530 31ac79d201 6b9a9cc9cf 9e6c2af56a 7599d8c235 1df5df8a6b d3552cb141 d2f3480b7f 5eee12c356
 >5a1cf8c491
-[0C]"That will be 500 [FD0F:08].
+[0C]"That will be 500[FD0F:08].
  Is that all right?~
 >c8ae643842
 [0C]"Um... you don't have
@@ -187,7 +187,7 @@ Huff! Huff! Huff! But it's
  you can win, I see!!
 >bdb5c207d1
 [0C]"Then let's play for
- 500 [FD0F:08]!!~[0C]
+ 500[FD0F:08]!!~[0C]
 >86ed44e097
 "Rock, paper, scissors!!~
 >368155822f !
@@ -203,7 +203,7 @@ Huff! Huff! Huff! But it's
 >e3a301704d
 [0C]"Ho-ho! Ho ho ho!! I win!!~
 "Now! I'll take my
- 500 [FD0F:08]!!
+ 500[FD0F:08]!!
 >486e2ac598
 [0C]"A tie! Once more!!~
 [n]
@@ -318,7 +318,7 @@ Young one! How about buying
  holy sword with the power
  to drive away evil.~
 "How about
- [FD12:B4]00 [FD0F:08]?~
+ [FD12:B4]00[FD0F:08]?~
 >ae3afcbad1
 [0C]"I see[FD0F:3D]~
 "Come back if you change
@@ -333,7 +333,7 @@ Young one! How about buying
 "Oh! You're a [FD0F:27]!!~
 "I so admire you!!
 >240f21b0ef
-[0C]"That will be 1000 [FD0F:08].
+[0C]"That will be 1000[FD0F:08].
  All right?~
 >17d106f4eb
 %Priest:"This is the [c2]temple[c0] of

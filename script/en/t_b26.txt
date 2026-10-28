@@ -191,7 +191,7 @@ They say war's finally
  [c2][FD0E:42][c0], [c2][FD0E:15][c0]'s
  still the sticks[FD0F:3D]
 >517146138c
-[0C]"That will be 700 [FD0F:08].
+[0C]"That will be 700[FD0F:08].
  All right?~
 >0c88778623
 %Priest:"This is the [c2]temple[c0] of
