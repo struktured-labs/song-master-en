@@ -1,0 +1,148 @@
+# b07-08: Tiris Noah. Skipped (data, not text): fa173e09b7 338af53980 da0a748e0b 92842875ce 9bcc38f3e7; d0795837b5 (menu w/ kanji tile prefixes) pending.
+>5abde982d3
+%Item Shop:"Welcome! We buy and sell
+ all kinds of items!!
+>835685bb84
+"Thank you! Come again!!
+>2a8ea0fadb
+%Weapon Shop:"Sorry, this is all I've
+ got right now.
+>417b6fb802
+"Come again!!
+>97144eaeb0
+This is where you buy
+ [c2][FD10:95][c0] for [c2]Tiris Noah[c0].
+>74aa5f870c
+I was given this by [c1]Robinton[c0].
+ Take it to the [c2]ship dock[c0].~
+>e135873a19
+The ship leaves soon.
+>d4f939c1ff
+"Welcome! What'll it be?~
+>9536ddce91
+[0C]"No drinks until you're
+ grown up!!
+>8408e07465
+* HELP WANTED *
+ Dishwasher needed!!
+>f2b9508fd5
+[FD0F:37]~[0C]%{0}:"Whoa! This is no time
+ for that!!
+>2feaf037c9
+"Thank you very much.
+>bb0f6b8893
+"They say nothing but bad
+ things happen beyond the
+ [c2]Central Plains[c0] lately!!
+>76d3899441
+"Come to think of it, I
+ heard rumors the monsters
+ are prowling again.
+>dbb55daef5
+"Whaddaya want! Can't a
+ guy drink alone!?
+>85b8611779
+%{7}:"Hey! ^0!! We're not done
+ here yet!!
+>fb4e4bf8e1
+"Better get your gear in
+ order first!!
+>82b1a96139
+"It's getting more dangerous
+ lately, so be careful!!
+>65caaa2565
+"Past here is outside town.~
+"Go straight and you reach
+ [c2]Sombayu Forest[c0].~
+"Going outside?~
+>f5c13db004
+"Sorry, I can't let you
+ through without a <pass>.~
+
+>2cafdd914a
+"It's dangerous lately, and
+ on top of that there's
+ the [c1]goblin[c0] trouble.
+>92d6553028
+"Don't forget your pass
+ when you go out.
+>98d364dcfa
+"Wow! You're going to deal
+ with the [c1]goblins[c0]!!~
+"[c2]Lesa Village[c0] is north
+ along this road! Take care!!~
+>dd88725974
+"What!? You're chasing the
+ caravan!? Well, I guess I
+ can't stop you.~
+"Be very careful!!~
+>a707c0c704
+I'd beat those [c1]goblins[c0], but
+ they won't let kids out of
+ town.
+>488551f443
+It's terrible! They say a
+ huge war is about to begin!!
+>810f139412
+The fine buildings in front
+ of you are the [c2]Temple[c0] on
+ the left and the [c2]Assembly
+ Hall[c0] on the right.
+>bfaec75ca9
+Right now in the [c2]Assembly
+ Hall[c0], envoys from each
+ nation are discussing
+ [c2]Croixdor[c0].
+>44fddb270f
+"[c2]Limerick[c0] is the only
+ country without a [c1]king[c0].~
+"It's run by a [c1]<Council>[c0]
+ of the [c1]<Singer Guild>[c0].
+>b60892a796
+"When I grow up I'm gonna be
+ a Singer!!
+>f417219b79
+"I hear monsters show up
+ near town lately.
+>8a12c00418
+"With so many shops, it's
+ hard to choose where to
+ shop.
+>8a3f4bc496
+"I hear the [c1]Ice Dragon[c0] of
+ [c2]Mt. Gloastill[c0] has already
+ started stirring.
+>763d23eef6
+"Mister, you're a Singer,
+ right? My papa's a Singer
+ too!!
+>fa51a12e31
+"Shop carefully, or you'll
+ regret it later.
+>95a18aa3e6
+"If you're short on money,
+ ask the [c1]broker[c0].
+>bc9f32d9e8
+%{7}:"We don't have much money,
+ so let's take on a job or
+ something!!
+>237f0d8980
+"Such nice weather, I'd love
+ a picnic, but they say
+ monsters are out[FD0F:3D]
+>d9abbe4455
+"[c2]Tiris Noah[c0] is the biggest
+ town in [c2]Limerick[c0].
+>7facf0c10b
+"If you travel without an
+ <escort>, it's far too
+ dangerous.
+>7149ff56fc
+%{7}:"Any farther and we'll be
+ outside town.
+>0ba8fbf78c
+%{0}:"Nothing more to do in
+ [c2]West Forest[c0]!
+>5cd55f0329
+%{0}:"The [c2]harbor[c0] is up
+ ahead!!

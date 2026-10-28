@@ -1,0 +1,411 @@
+# b09: Tiris Noah events. Data strings skipped: 91e2ca0583 f06375c0d4 c7f86550f9 503666c960 035367a406 c69de01c72 aa62a02e7f
+>2942424680
+%Priest:"May the good winds of
+ [c1]Amsia[c0] blow for you[FD0F:3D]
+>f0d7df1b7a
+This is the [c2]Assembly Hall[c0].
+ No entry without permission.
+>9af8039c6e
+A council is in session.
+ No one may enter!!
+>ad2f4edad5
+At last, the final council
+ has begun, to prepare for
+ war with [c2]Croixdor[c0].~[0C]%{2}:"We can't sit around either!
+ To the [c2]ship inn[c0], quickly!!
+>fd7bf3d44b
+%King John:"
+>1aab6995bb
+Ho! So you're young ^0! I am
+ [c1]John[c0] of [c2]Barnicia[c0]!
+ Good to meet you!!
+>ad15cd3367
+That [c1][FD12:EB][c0]! I won't let
+ him do as he pleases any
+ longer!!
+>88232ebc14
+%King Colman:"Everyone! Well done coming
+ back!!
+>72fd0298a9
+^8 is at Lord [c1]McPherson[c0]'s
+ house.~
+"Go and see him.
+>ba3e3df940
+So you returned safely.~
+>07e5149dcc
+[n]"Well, did you learn
+ anything?~[0C] ^0 explained everything
+ that had happened.~[0C]%Robinton:"Lord [c1]Usar[c0][FD0F:3D]~
+%Fern:"I see[FD0F:3D]~
+%Robinton:"Just when things were
+ getting started, again[FD0F:3D]~
+"^0, in truth, it's about
+ ^8[FD0F:3D]~[0C]%{0}:"About my master...?~
+%Robinton:"Right after you all left
+ here, he suddenly
+ collapsed.~
+%{0}:"...What!? My master
+ did[FD0F:3F]~
+"How is he doing!?~[0C]%Robinton:"^8 had a fatal illness
+ that can never be cured.~
+"It seems this last journey
+ shortened his life[FD0F:3D]~
+"They say he hasn't much
+ longer[FD0F:3D]~
+"Don't blame yourself.~
+"^8 made his own choice. If
+ you can't understand that,
+ you will never master the
+ Song Master's art!!~
+%{0}:"...I understand,
+ Grandfather.~
+%Robinton:"
+>8e380a6167
+%Robinton:"
+>4149899ca0
+Oh! ^0!! Welcome back!!~
+>d2ea28d70a
+[n]%{0}:"Grandfather! We brought ^1
+ safely to [c2]Tir na Nog[c0].~
+"This is ^3, Queen of the
+ [c1]Elves[c0]!!~[0C]%{3}:"I have come in ^1's
+ place.~[0C]%Robinton:"Thank you for coming so
+ far!!~[0C]"...Oh! And you, ^8!! Well
+ met!!~
+%{8}:"You! What's with that
+ barrel of a belly!?~
+"You can't fight in that
+ shape!!~
+%Robinton:"Your tongue's as sharp as
+ ever!!~
+"Anyway, thank you for
+ coming!!~
+"^8 and [c1][name3] Queen[c0], please
+ join the council at once!!~[0C]%{0}:"Grandfather! About my
+ [c2][FD10:92][c0]: according to
+ [c1]King Rimbelt[c0] of
+ [c2]Northumbria[c0], it seems
+ to belong to people called
+ the [c1]Exelion[c0].~[0C]%Robinton:"The [c1]Exelion[c0]!! If that
+ is true, then you may be a
+ descendant of the
+ [c1]Exelion[c0][FD0F:3D]~
+%{0}:"I want to know who I
+ am!!~
+%Fern:"Ho ho ho! I am [c1]Fern[c0],
+ elder of [c2]Acron[c0]!!~
+"If you wish to know of the
+ [c1]Exelion[c0], go to
+ [c2]Elles Noah[c0], capital of
+ [c2]Acron[c0]!!~
+"[c2]Elles Noah[c0] holds more
+ old texts and records than
+ anywhere!!~
+%Robinton:"Are you sure, Lord [c1]Fern[c0]!?~
+%Fern:"Yes, yes! This young one
+ seems to hold some
+ immeasurable power!!~
+"What use is that power if
+ he doesn't know its true
+ nature!!~[0C]%Robinton:"^0! Then you shall set
+ out for [c2]Elles Noah[c0]
+ tomorrow!!~
+"And find your true self!!
+ Understood!!~
+%{0}:"Understood!!~[0C]%Robinton:"Now, everyone! Please rest
+ well today!!
+>3f1cefd414
+Are you ready?~
+"Then first take the
+ stagecoach to [c2]Alster[c0],
+ and from there sail to
+ [c2]Elles Noah[c0].~
+%Fern:"I have someone named ^6
+ waiting in [c2]Alster[c0].~
+"That one should guide you
+ from there.~
+"Also, Lord ^2 says he will
+ go with you!!~
+%{0}:"^2...? The hero of
+ [c2]Farlon[c0], ^2?~
+%Fern:"Indeed.~
+"
+>d73a424601
+He's probably at the [c2]tavern[c0].~
+"Go and see.
+>f8d9084d45
+Take care!!
+>0bab85d07c
+Ho ho ho!!
+>e6b10f1f28
+%Fern:"
+>ca767ab59e
+%{0}:"Yes, here you go!!
+>58c8507392
+%{0}:"^4!!~
+>4d35a2adc8
+[n]%{4}:"^0! You're safe...
+ Thank goodness[FD0F:3D]~
+%{0}:"I promised, after all[FD0F:3D]~
+"I'm relieved you're well
+ too.~[0C]%{4}:"Mm[FD0F:42] More importantly,
+ is it true you're leaving
+ for [c2]Acron[c0] right away?~
+%{0}:"Yeah[FD0F:3D] We leave
+ tomorrow.~
+%{4}:"...And we just met again[FD0F:3D]~
+"Listen! This time I want
+ you to take me too!!
+ Please?~
+%{0}:"No, you can't! I can't
+ do that!!~
+%{4}:"Why! Why not?~
+%{0}:"You have to stay by
+ [c1]King Colman[c0]! And I don't
+ want to drag you into
+ danger.~[0C]%{4}:"...I don't understand it
+ myself[FD0F:3D]~
+"I just feel I must go with
+ you[FD0F:3D]~
+%{0}:"I'm glad you feel that
+ way[FD0F:3D] but I still can't
+ take you.~
+%{4}:"....All right. I'm sorry
+ for being so selfish[FD0F:3D]~
+>33eaf434e9
+[n]"Let me stay like this for
+ a little while[FD0F:3D]
+>9e10db7f24
+%{7}:"^5... you're going after
+ all?~
+%{5}:"Sorry[FD0F:3D]~
+%{7}:"Leaving without a word?
+ Isn't that a bit cold?~[0C]%{5}:"I'm just better off alone.~
+"Besides, hangin' around
+ you guys, I'd need more than
+ one life!!~[0C]"So, tell ^0 I said bye!
+ See ya!!
+>56e46ff16c
+%{0}:"Huh...? Come to think of
+ it, where's ^5?~
+"^7! Do you know?~[0C]%{7}:"He's gone.~
+%{0}:"What...?~[0C]%{7}:"Seems [c1]King Colman[c0] saw his
+ skill and put him in charge
+ of scouting [c2]Croixdor[c0][FD0F:3D]~
+"And he makes excuses about
+ being better off alone[FD0F:3D]~
+"Well, that's just like him.~
+%{0}:"So that's what
+ happened[FD0F:3D]~[0C]%{7}:"We can't sit around either.~
+"Let's hurry to [c1]Robinton[c0]!!
+>b8ceeaf8d6
+^0! Please take good care
+ of ^6.
+>c5a81fce50
+"I saw monsters in [c2]West
+ Forest[c0] the other day!!~
+"With monsters this close to
+ town, a body can't even
+ take a stroll.
+>bbaa6fb71e
+"I was a Singer once too,
+ but my voice is gone now.
+>3d152abcc2
+My husband went to
+ [c2]Lesa Village[c0] to fight the
+ [c1]goblins[c0].~
+"I hope he comes home
+ safe[FD0F:3D]
+>fc15219ec0
+My husband came back from
+ fighting the [c1]goblins[c0], and
+ now he's gone off again to
+ a war in [c2]Kulea[c0]!!
+>bfd5b62b3c
+They say [c1]goblins[c0] appear near
+ [c2]Lesa Village[c0] to the north.
+>b93930e6d8
+A war like none before is
+ about to begin[FD0F:3D]
+>2a8f5b4dd8
+My husband seems to have
+ something on his mind
+ lately[FD0F:3D]
+>1482fd6a3c
+Thank you for helping my
+ husband.~
+"Thank you so much.
+>d18577a53b
+[c1]Thomas[c0][n]
+>7e7e9a4e9e
+"What to do... Oh! No!!
+ Never mind me.
+>c783d4e7c1
+"Oh! Thank you! You'll take
+ my request!!~
+"The other day I found a
+ cave in [c2]West Forest[c0].~
+"There never used to be a
+ cave there, so I thought
+ it odd and explored it.~
+"Deep inside I found
+ something written on the
+ ground, but monsters
+ suddenly attacked and I
+ barely escaped with my
+ life.~
+"I was saved, but I dropped
+ [c2][[FD10:94]][c0], a keepsake of
+ my mother.~
+"I tried to go back for it,
+ but the monsters scare
+ me[FD0F:3D]~
+"So I'd like to ask you.
+ Could you find
+ [c2][[FD10:94]][c0] for me?~
+"Of course I'll reward you.
+ Please, I beg you.~
+>b2ce20932b
+[0C]"Thank you! You can reach
+ [c2]West Forest[c0] by crossing
+ the bridge to the lower
+ left.
+>3425a02587
+[0C]"I see... Life comes first,
+ after all.
+>27c2724632
+"Don't push yourself. If it
+ gets dangerous, come back
+ to town.
+>605b98fe65
+"You're back. Oh! This is
+ it, this is it! Thank you.~[0C] ^0 handed over
+ [c2][[FD10:94]][c0]!!~[0C]%Thomas:"Here's your reward. It's
+ only a small token, but
+ please accept it.~
+>b6f413eb4b
+[0C]"I see, someone drew a magic
+ circle... That's it! It
+ must be him!!~
+"A fellow named [c1]Devi[c0] who
+ lives east of town. The day
+ I went to that cave, I ran
+ into him in the forest!!~
+"Now that I think of it, he
+ seemed nervous.~
+"And he doesn't have a good
+ reputation. He's, well, a
+ creepy sort.~[0C]%{7}:"^0! Shall we go see this
+ guy?~
+>7bc44ecf9e
+[0C]%Thomas:"Then take this with you!!~
+>98770c1956
+[0C]%{7}:"All right! Let's go!!
+>4c7c520ac8
+[0C]%{7}:"Right, let's hurry on.
+>0dadc79b3c
+%{1}:"The sealing is complete.
+ Now! Let us go.
+>a0a062e1e6
+"[c1]Devi[c0]'s house is the one
+ farthest east, by the sea.
+>b0749f5bc9
+"Thank you for your help
+ the other day.
+>0482ef94ff
+[0C]"It seems you can't carry
+ any more.
+>e7062e3ee3
+"Is that so[FD0F:3D]
+>af059cf9a3
+"Ugh! Singing lessons every
+ single day. So boring.
+>ecd5d8847d
+The [c1]Ice Dragon[c0] lives on
+ [c2]Mt. Gloastill[c0].~
+"It's nearly the season the
+ [c1]Ice Dragon[c0] wakes, so the
+ road to [c2]Farlon[c0] may
+ become impassable.
+>1957a1fa3c
+The [c1]Ice Dragon[c0] has gone to
+ sleep, so you can go straight
+ to [c2]Farlon[c0] now.
+>cbfa9c9585
+Hey! Thanks for saving me
+ the other day.
+>ac084c77d0
+Some strange formulas are
+ written in a memo.
+>30c8e2c1b0
+%{0}:"Hm!? What's written in
+ this memo[FD0F:3F]
+>7ff5a060ff
+Nothing unusual here.
+>e8a1a802b9
+Heh heh heh[FD0F:42] Soon this world
+ will belong to Lord
+ [c1][FD12:EC][c0]!!
+>0fdd0eba94
+Sorry! I won't do it again.
+>7689d565ea
+%Devi:"
+>566dc9bc1b
+Mutter mutter... Hey! You're
+ distracting me, get out!!
+>ff41aaa6d7
+I'm [c1]Devi[c0]. What do you want?~
+>3446a4b544 !
+-・Ask about the circle
+ Never mind
+>ef540a511b
+[0C]%Devi:"If you've no business here,
+ get out!!
+>772a888dc5
+[0C]%Devi:"H-how should I know about
+ that!!~[0C]%{7}:"^0! Then let's find some
+ proof!!
+>5f5abe02bf
+What! You want something
+ else?~
+>a6af94b4fe
+[0C]%{0}:"Hey! Isn't that memo on
+ the wall for a magic
+ circle?~
+%Devi:"....Found out, eh? Then
+ I can't let you leave
+ alive! Prepare yourselves!!
+>ecb7d32136
+%{1}:"It is you who should
+ prepare! Show your true
+ form!!~
+>44396273ce
+%Devi:"...!? What have I been
+ doing[FD0F:41]~
+%{1}:"You were possessed by
+ a [c1]<[FD12:B0]>[c0].
+>919485d1be
+~[0C]%Devi:"A [c1]<[FD12:B0]>[c0]!? ...I remember!
+ I performed a summoning in
+ the cave!!~
+%{1}:"A little longer and it
+ would surely have taken
+ your body too.~
+"Listen. Using summoning
+ carelessly can lead to
+ things that cannot be
+ undone. Be careful.~
+%Devi:"...O-okay... I'll be
+ careful.
+>0920a93e35
+"If it's information you
+ want, go to the [c2]tavern[c0].~
+"Travelers gather at the
+ [c2]tavern[c0], you see.
+>009b44e281
+Sometimes I hear strange
+ noises from next door.~
+"What could it be...? It
+ gives me the creeps.
+>bedd9518db
+Thank you! It's safe now!!
