@@ -233,3 +233,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## Term-wrap root cause (investigation)
 - The encoder's wrap is correct: "the [FD0F:14] Guild." wraps to " the thief Guild." (17 columns). On screen (pass4 b28_e2) the game breaks right after the term, and "Guild." starts at column 0 with no indent. So the space byte (0x00) that directly follows a list term is being drawn as a line break by the game's term path (`lh_*` → `$02:B0F5`). Terms followed by `[c0]` and then a space (e.g. "[c1]culprit[c0] who") render fine. That matches every bad case: "an [FD0F:0D] named" and "[c2][FD0F:14] Guild".
 - Experimental fix in encode_en.py: when a term is followed directly by a space, re-emit the current colour tag between them. To test it, b36 6d048dfee1 (label b28 e2) uses the term again. Pending on-screen confirmation in the recheck run; the other literal workarounds stay in place until then.
+
+## Chunk 14 (b2f 8b – b31 14), viewed
+- Log lines 663–680 viewed (sheets c1400–c1403). Lismore girl/Troll quest, clinic, item and arms shops (Boomrang/Drop, Bastard/IceBlade/BrnzHarp), inn and Lismore map box are fine.
+- Fix: the Troll Lord and Troll shouts used the lowercase "human" term plus a suffix, which rendered "humans!" and "humanS! YOU NOT PASS". They are now literal "Humans!" / "HUMANS! …" / "KILL HUMANS!!" (b46). b31 0a/0f added to recheck.
+- The battle "Fireball:" / "Fireball-" header flicker is mid-animation under forced labels; not judged.

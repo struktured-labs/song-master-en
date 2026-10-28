@@ -138,7 +138,7 @@ Stupid [c1][FD12:5C][c0]!
 %{0}:"Nothing more to do
  here!!
 >43eaa09085
-[c1][FD12:5C] Lord[c0][n]"Brorororo! [FD0F:17]s!
+[c1][FD12:5C] Lord[c0][n]"Brorororo! Humans!
  Come to take back the
  girl?~
 "I need that girl's living
@@ -146,13 +146,13 @@ Stupid [c1][FD12:5C][c0]!
  I won't let you
  interfere!!
 >4c8e11851f
-[c1][FD12:5C][c0][n]"[FD0F:17]S! YOU NOT PASS
+[c1][FD12:5C][c0][n]"HUMANS! YOU NOT PASS
  HERE!!
 >5e5c6db2af
-[c1][FD12:5C][c0][n]"[FD0F:17]S! [FD0F:17]S
+[c1][FD12:5C][c0][n]"HUMANS! HUMANS
  HERE!!
 >08ce5719ee
-[c1][FD12:5C][c0][n]"KILL [FD0F:17]S!!
+[c1][FD12:5C][c0][n]"KILL HUMANS!!
 >4abf8c0a3a
 %Laura:"Who are you...?~
 %{0}:"We've come to save you!!
