@@ -155,3 +155,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Shop quantity box: JP 合計 (02:8DC5, 02:BB72) replaced by "Cost" via JSL to $3FD000; the counter glyph コ (lda #$243E / sta $481A at 02:BBA3) blanked. Verified on screen.
 - Terms shortened to fit 24 cols: 0x2D, 0x2E, 0x30, 0x36. 0x2E/0x30 verified on screen; 0x2D/0x36 not yet seen.
 - Forcing b07 label 04 shows garbage "b%dd2cbP a0": likely a non-text label hit by forcing (unverified vs JP; the JP ROM crashes with this harness walk).
+
+## Session: sell/medicine/inn + popup widths
+- Real label ids per block come from tools/py/sm_script.py parse(load(b)) (b07 town NPCs are c8..e1, not 02..22). mk.py can force a label in ANY block (054A=block), e.g. b24 lbl f7.
+- System popups (b02) are 16 columns wide. In t_*.txt an indented continuation line is a SOFT join (space); start the next line without a leading space to force a hard [n]. Rewrote: Not enough money / Can't carry more\n[item] / Can't sell\n[item]! / Can't use\n[item]! / Nothing's wrong. / Can't use magic! / Not enough MP! / Can't use here! / [item]\nx[n] obtained!. Items longer than 16 chars (e.g. Provisional Permit) will still wrap in these popups.
+- Item-count spacing: the count/× drawing code (01:B93D.., 02:B740.., 02:8DB3..) is byte-identical to the JP ROM and positions are fixed offsets (+9 tiles) from the item slot; short names are <=8 chars, so spacing matches JP by construction.
