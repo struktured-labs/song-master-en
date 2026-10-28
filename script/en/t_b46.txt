@@ -174,7 +174,7 @@ Stupid [c1][FD12:5C][c0]!
  [c1]^0[c0] used the
  [c2][xA4]Bronze Ring[xA5][c0]!!
 >30d7076d4a
-[c1]Dwarf[c0][n]"Lots of [c2][FD0E:3C][c0]s
+[c1]Dwarf[c0][n]"Lots of [c2]mines[c0]
  around here!!
 >9b0f0ebb49
 [c1]Dwarf[c0][n]"Oho! A human, that's

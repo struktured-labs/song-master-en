@@ -238,3 +238,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Log lines 663–680 viewed (sheets c1400–c1403). Lismore girl/Troll quest, clinic, item and arms shops (Boomrang/Drop, Bastard/IceBlade/BrnzHarp), inn and Lismore map box are fine.
 - Fix: the Troll Lord and Troll shouts used the lowercase "human" term plus a suffix, which rendered "humans!" and "humanS! YOU NOT PASS". They are now literal "Humans!" / "HUMANS! …" / "KILL HUMANS!!" (b46). b31 0a/0f added to recheck.
 - The battle "Fireball:" / "Fireball-" header flicker is mid-animation under forced labels; not judged.
+
+## Chunk 15 (b31 19 – b38 05), viewed
+- Log lines 681–755 viewed (sheets c1500–c1511). The Troll battle (the new HUMANS literals are confirmed on screen at b31 28/2d/32/37/3c), Laura rescue, Durham dwarves, the Charms → Gaia Sword trade, Durham shops, the mine, King Rimbelt and the Amulet barrier are fine.
+- Fixes: the b54 header "[FD0F:15] Guard" rendered as "dwarf Guard" in lowercase, so it is now the literal "Dwarf Guard" (3 places). b46 30d7076d4a: "Lots of the mines around" (JP ここいらには鉱山がたくさん) is now "Lots of mines around here!!". 33 05 and 37 37 added to recheck.
+- Forced-label artifact: b34 0f "it's a trade!!" ran straight into the next "Dwarf" message without a break. That comes from chaining labels; check it in real play.

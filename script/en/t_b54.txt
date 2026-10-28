@@ -140,7 +140,7 @@ We were tricked by
 >fd45b8ff7b
 [n]%{0}:"[c1]^7[c0]! The odds are
  too bad!!~
-%{7}:"Tch[FD0F:42]~[0C][c1][FD0F:15] Guard[c0][n]"Now! Move it!!
+%{7}:"Tch[FD0F:42]~[0C][c1]Dwarf Guard[c0][n]"Now! Move it!!
 >d9c7bcc30b
 [c1]Dwarf Guard[c0][n]"Sir [c1]Gimsy[c0]! I've
  brought the prisoners!!~
@@ -244,7 +244,7 @@ Hey! Where d'you think
 >4e3f1db207
 [0C]%{5}:"Heh heh[FD0F:42] Boss! How
  about you look the other
- way for this?~[0C][c1][FD0F:15] Guard[c0][n]"Oh, fine! I didn't see
+ way for this?~[0C][c1]Dwarf Guard[c0][n]"Oh, fine! I didn't see
  anything, so go, quick!!
 >0d6c4d3f22
 Oh, it's you! Go on down
@@ -253,7 +253,7 @@ Oh, it's you! Go on down
 [c1]Dwarf Guard[c0][n]"What d'you want!?~
 "This is no place for
  you!!~[0C]%{5}:"Heh heh[FD0F:42] Come on,
- boss, please?~[0C][c1][FD0F:15] Guard[c0][n]"Wise guy! I was bored
+ boss, please?~[0C][c1]Dwarf Guard[c0][n]"Wise guy! I was bored
  anyway!! I'll beat you to
  death!!
 >f61806ff02
