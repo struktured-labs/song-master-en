@@ -1,0 +1,301 @@
+# b69: Tiamat. Sirius, Hilda (name9), the Matrix, Galactic Emperor Julian Siegfried, Avalon creation myth.
+>970e8096a3
+%{2}:"This must be the place!!~
+"[c1]^0[c0]! Do as you were
+ told!!~[0C]%{0}:"Right!!
+>a87fbfead3
+%{7}:"Nothing's happening!!~
+>f397975299
+[n]%{6}:"[FD0F:41]
+ Up there! Look up!!~
+%{4}:"What is that...?
+ It's coming closer!!~[0C]%{0}:"So that is
+ [c2][FD0E:3B][c0][FD0F:3D]
+>0f7cb41d7d
+%{4}:"Eek! [c1]^0[c0]!!~[0C]%{7}:"[c1]^0[c0]!!
+>97de33777f
+%{0}:"So this is
+ [c2][FD0E:3B][c0][FD0F:3D]~
+"Looks like I'm the only
+ one who made it here.
+>de1a43cb22
+"[c1][FD0F:1D][c0]. I have been
+ waiting for you.~
+>63854feb98
+[n]%{0}:"Whoa! It talked!!~[0C]"I am [c2][FD0E:3B][c0] Central
+ Control Unit No. 0007,
+ called [c1]Sirius[c0].~
+%{0}:"Why do you call me
+ [c1][FD0F:1D][c0]?~
+[c1]Sirius[c0][n]"You are the [c2]Matrix[c0] of
+ the 1138th [c1]Galactic
+ Emperor, Julian
+ Siegfried[c0].~
+%{0}:"[c2]Matrix[c0]? [c1]Galactic
+ Emperor[c0]???~[0C][c1]Sirius[c0][n]"Go to the [c2]Corridor of
+ Memory[c0] and you will
+ understand.~
+"Please follow me!!
+>e3e4d27152
+[c1]Sirius[c0][n]"Lady [c1]^9[c0], I have
+ brought him!!
+>f4380247bc
+%{0}:"You are[FD0F:41]~
+%{9}:"I have been waiting,
+ [c1]^0 Ferm[c0].~
+"My name is [c1]^9[c0]. Like
+ you, I am a [c2]Matrix[c0] of
+ [c1]Julian Siegfried[c0].~
+%{0}:"I have no idea what
+ you're talking about[FD0F:3D]~[0C]%{9}:"...It seems you truly
+ do not know.~
+"Very well. I will tell
+ you everything, about the
+ creator of all who live
+ on this [c2]Avalon[c0][FD0F:3D]~[0C]"Long, long ago, humanity
+ built a [c2]Galactic
+ Empire[c0] in space.~
+"But even the [c2]Galactic
+ Empire[c0], which seemed
+ eternal, was nearing its
+ end.~
+"Knowing its collapse could
+ no longer be stopped,
+ [c1]Galactic Emperor Alan
+ Siegfried[c0] staked his
+ last hope on a project.~
+"That project was a grand
+ plan: to rebirth humanity
+ as a new race, in a
+ universe shielded from
+ all outside influence.~
+"[c1]Emperor Alan[c0] entrusted
+ the project to six people,
+ including his heir,
+ [c1]Julian Siegfried[c0].~
+>93f487214e
+"First, [c1]Julian[c0] and the
+ others reshaped the planet
+ [c2]Avalon[c0] so that life
+ could live there.~
+"Then they created anew
+ all the life on
+ [c2]Avalon[c0].~
+"Bacteria first, then
+ everything from plants to
+ mammals.~
+"And once the new humanity
+ could live there, they had
+ the elves and [FD0F:15]s
+ tend [c2]Avalon[c0]'s
+ nature.~
+"As the project neared its
+ end, one of those who ran
+ it, [c1][FD12:EC][c0],~
+ refused to accept that
+ they would simply perish,
+ and tried to use the
+ project to become emperor
+ himself.~
+"[c1][FD12:EC][c0] seized
+ [c2]Avalon[c0], created evil
+ lifeforms, and raised the
+ banner of rebellion.~
+"But [c1][FD12:EC][c0] lost the
+ war and fled back to
+ [c2]Avalon[c0].~
+"[c1]Emperor Alan[c0] died in
+ that war, and the
+ [c2]Galactic Empire[c0]
+ effectively collapsed.~
+"To stop [c1][FD12:EC][c0], who
+ again sought his chance
+ on [c2]Avalon[c0], [c1]Julian[c0]
+ and the other five came
+ down to [c2]Avalon[c0].~
+"Then [c1]Julian[c0] and the
+ others joined forces with
+ [c2]Avalon[c0]'s people and
+ made war on
+ [c2][FD12:EC][c0].~
+"That was the war known as
+ the [c2]First Jihad[c0], and
+ it was [c1]King Kane[c0] who
+ received the [c2]Holy
+ Songs[c0] from [c1]Julian[c0].~
+>8947e72682
+"In answer, [c1][FD12:EC][c0]
+ created evil [FD0F:1E]s to
+ fight [c1]Julian[c0] and the
+ others.~
+"The fighting was fierce,
+ and there were many
+ victims.~
+"But at last [c1]Julian[c0] and
+ the others cornered
+ [c1][FD12:EC][c0] and won.~
+"Cornered, [c1][FD12:EC][c0]
+ cast off his own body and
+ slipped his mind into
+ [c2]Avalon[c0]'s control
+ [FD0F:0E].~
+"He tried to seize the
+ [FD0F:0E] and strike back,
+ but [c1]Julian[c0] and the
+ others sensed the danger,~
+ and sealed him inside the
+ [FD0F:0E].~
+"But [c1][FD12:EC][c0] had not
+ perished. Foreseeing his
+ revival, [c1]Julian[c0]~
+ used copies of himself to
+ leave behind a [FD0F:0E]
+ that would block
+ [c1][FD12:EC][c0]'s return.~
+"Those copies are what we
+ call [c2]Matrices[c0].~[0C]%{0}:"So I am a copy of that
+ [c1]Julian[c0], born to
+ defeat [c2][FD12:EC][c0][FD0F:3D]~
+%{9}:"Yes.~
+"And each time [c1][FD12:EC][c0]
+ has tried to revive, a
+ [c2]Matrix[c0] has stopped
+ him.~
+"But this time, before the
+ [FD0F:0E] could awaken a
+ [c2]Matrix[c0],
+ [c1][FD12:EC][c0] used
+ [c1][FD12:EB][c0]~
+ to attack the [c2]Matrix[c0]
+ regeneration [FD0F:0E].~
+"[c1][FD12:EB][c0] carried off
+ a [c2]Matrix[c0] then.~
+"That [c2]Matrix[c0] is
+ [c1][FD0F:22][c0].~
+>7588db2c5e
+%{0}:"[c1][FD0F:22][c0] is[FD0F:41]~[0C]%{9}:"In response, the
+ [FD0F:0E] regenerated the
+ next [c2]Matrix[c0].~
+"That was you.~
+"But fresh out of the
+ regeneration tank, you
+ were caught up in the war
+ and went missing.~
+"So the [FD0F:0E] awakened
+ me, to search for
+ [c1][FD0F:22][c0] and you.~
+"To learn whether you lived,
+ and whether you had the
+ power of a [c2]Matrix[c0] to
+ stop [c1][FD12:EC][c0][FD0F:3D]~
+"But [c1][FD0F:22][c0]'s soul had
+ been taken by an evil
+ power.~
+"But [c1]^0[c0]! You are
+ different!!~
+"You can surely stop
+ [c1][FD12:EC][c0] from
+ reviving.~
+"That is your destiny.~
+%{0}:"My destiny[FD0F:3D]~
+%{9}:"Now! Go to the Corridor
+ of Memory, and awaken as
+ a [c2]Matrix[c0].~[0C][c1]Sirius[c0][n]"[c1][FD0F:1D][c0]! This way,
+ please!! I will guide
+ you.
+>bcbc60cfbd
+[c1]Sirius[c0][n]"[c1][FD0F:1D][c0]! This is the
+ [c2]Corridor of Memory[c0]!!~
+"Please go inside.
+>4c29e3c26c
+%{0}:"What...? It's just an
+ ordinary room.~[0C]"I have been waiting,
+ [c1][FD0F:1D][c0].~
+>2a67bed70f
+[0C]%{0}:"Who's there...?~[0C]"I am the [FD0F:0E] that
+ governs all of
+ [c2]Avalon[c0].~
+"As the [c2]Matrix[c0] of
+ [c1]Julian Siegfried[c0], you
+ must stop the revival of
+ [c1][FD12:EC][c0].~
+"For that, you will inherit
+ [c1]Julian[c0]'s [c2]Memory
+ Matrix[c0].~
+"Now you will live through
+ the path [c1]Julian
+ Siegfried[c0] walked.~
+"Are you ready? Then let
+ us begin.
+>3d4001eb09
+%{9}:"What I have just told
+ you is the reason
+ [c1]^0 Ferm[c0] exists.~
+%{7}:"So what happens to
+ [c1]^0[c0] now?~
+%{9}:"He must defeat
+ [c1][FD12:EB][c0] and
+ [c1][FD0F:22][c0], and stop
+ [c1][FD12:EC][c0]'s revival.~[0C]%{2}:"Had I not seen this
+ [c2][FD0E:3B][c0] with my own
+ eyes, I could never have
+ believed it[FD0F:3D]~
+%{6}:"So the creation myth was
+ true[FD0F:3D]~
+%{4}:"So where is [c1]^0[c0]?~[0C]%{9}:"He is walking the
+ [c2]Corridor of Memory[c0]
+ right now.~
+"It should be ending soon.
+>cd7d3c2dc9
+%{0}:"Everyone[FD0F:3D]~
+%{4}:"[c1]^0[c0][FD0F:41]~
+%{7}:"[c1]^0[c0]! You turned out
+ to be one heck of a guy!!
+>2a521cd8f3
+%{0}:"I think I've finally
+ found my true self.
+ Thanks to all of you!
+ Thank you!!~
+%{9}:"[c1]^0[c0]! There is no
+ time.~
+>1324b29bf7
+[n]"[c1][FD12:EB][c0] is using the
+ [c2]Orb[c0] to move the
+ giant fortress
+ [c2][FD0E:3E][c0].~
+"[c2][FD0E:3E][c0] could burn the
+ surface of the world with
+ ease.~
+"It must be stopped at all
+ costs!!~
+%{0}:"Got it! Let's set out
+ right away.~
+%{9}:"Yes! Then I will warp
+ us to [c2][FD0E:46][c0].
+>aa9623de11
+%{0}:"Where is this...?~
+%{9}:"This is where you were
+ regenerated.~
+%{0}:"This is[FD0F:3D]
+ This is where I was
+ born[FD0F:3D]~
+%{9}:"Everyone, I have
+ something I must do, so
+ we part here.~
+"Go outside and the town of
+ [c2][FD0E:35][c0] is right
+ there.~
+"To reach [c2][FD0E:45][c0] from
+ there, you must cross
+ [c2][FD0E:36][c0].~
+"But [c2][FD0E:36][c0] is now a
+ fort of the [c2][FD0E:45]
+ army[c0].~
+"Be careful! I will follow
+ as soon as my business is
+ done!!~
+"Now, [c1]^0[c0]! Beware of
+ [c1][FD0F:22][c0].~
+"Do not forget that he too
+ is a [c2]Matrix[c0] of
+ [c1]Julian[c0].

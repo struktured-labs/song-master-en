@@ -58,3 +58,11 @@ Every FD0E/FD0F code in the English script was checked against WORDLISTS.md (ful
 Fixed: b45 "explain[FD0F:38]" (=let's do that) -> "Let me explain."; b01 FD0E:00/FD0F:00 (index 0, no list entry) removed;
 b32 literal "[Cyan ...]" bracket now [xA4]/[xA5]. Phrase codes FD0F:2C-37 (shop/inn greetings) used only where the JP uses them.
 Rule: before using any FDxx code, look it up in WORDLISTS.md.
+
+## b69 notes (Tiamat)
+Translating b69 replaced its strings with 5-byte pointers; block 69 now fits 0x1800 (no blocks over).
+Names: Sirius (シリウス, unit 0007), Hilda (name9), Galactic Emperor Julian Siegfried (ユリアン・ジークフリード, 1138th),
+Alan Siegfried (アラン), Avalon (アヴァロン, the planet), Matrix/Matrices, Corridor of Memory (きおくのかいろう),
+First Jihad (ファースト・ジハード), King Kane (ケイン王, = St. Kane of b04/b05), Holy Songs (詩聖か; doubtful reading).
+FD0F:0E = "System" (control system); FD0E:3E Fone (fortress), 35 Christ (town; consider "Krist"?), 36 North Shield.
+Doubtful: "Christ" place name from the list; may want a rename.
