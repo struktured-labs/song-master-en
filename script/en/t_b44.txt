@@ -1,0 +1,319 @@
+# b44: Dorfas, Jack joins, Eleus's mansion, Sam = King Eric, Ragnas. Skipped data: afaa5da1ea ca809af4d1 033c997d9a 8918e9b78c
+# Menu aa86a72fc4 left JP for now (needs prefix bytes) - see notes.
+>7d656f3c09
+%Arms Dealer:"Stolen goods, sure, but
+ quality stuff!!
+>b5a5f4b00a
+%{5}:"Man! What lousy luck!!~
+>39ec6c8b40
+[n]%{7}:"You! ^5!!~
+>098c7dc88d
+[0C]%{5}:"Ah! You guys!! Damn!!~
+"Ugh! No use struggling!
+ Do what you want with
+ me!!~[0C]%{0}:"We don't want to hurt you!
+ Just give back my
+ [c2][[FD10:92]][c0] you
+ stole.~
+>a9a01e4e6e
+[0C]%{5}:"Ugh..., I'm ashamed!!~
+"Truth is, [c1][FD0F:04][c0]
+ took it from me, saying I
+ botched a job[FD0F:3D]~
+%{0}:"[c1][FD0F:04][c0][FD0F:41]~
+>13ae76d567
+[0C]%{5}:"Fine, I'll tell you
+ everything.~[0C]%{1}:"Very well. We'll hear it
+ outside.
+>45eadb151d
+%{7}:"Now! Start talking!!~[0C]%{5}:"[c1][FD0F:04][c0] runs the
+ [c2][FD0F:14] Guild[c0].~
+"I took a job from him.~
+"To nab the [c2]Orb[c0] of
+ the [c1][FD0F:0A]s[c0]!!~
+"It looked tough, so I set
+ some [c1]bandits[c0] on
+ them to snatch it, but~
+ they caught me instead.
+ That's the story.~
+%{0}:"So that's why you were
+ locked up.~
+%{5}:"Yeah! That's right!!~
+"So since I couldn't bring
+ the [c2]Orb[c0], he took
+ the [c2][[FD10:92]][c0]
+ instead[FD0F:3D]~[0C]%{1}:"By the way, is anyone
+ else after the [c2]Orb[c0]
+ like you?~
+"Someone who can turn into
+ a [c1]panther[c0],
+ say[FD0F:3D]~
+>b3d5b4ee06
+[n]%{5}:"...!? How do you know
+ about [c1][FD12:3A][c0][FD0F:3F]~
+%{1}:"That [c1][FD12:3A][c0] killed
+ the [c1]Queen[c0] of
+ [c2][FD0E:42][c0] and stole
+ the [c2]Orb[c0].~
+%{5}:"...So that's it!!~
+"She's vicious. Doesn't mind
+ killing[FD0F:3D]~
+"Knew it! Just like I
+ feared[FD0F:3D]~
+%{7}:"Feared what!?~
+%{5}:"The one who gave
+ [c1][FD0F:04][c0] the job
+ is a knight in black
+ called [c1][FD0F:22][c0].
+ Gives off an eerie air.~
+%{0}:"[c1][FD0F:22][c0][FD0F:3D]~[0C]%{5}:"I was a fool, blinded by
+ quick gain!!~
+"You want to get back that
+ [c2]Orb[c0] and the
+ [c2][[FD10:92]][c0]? Then
+ I'll help!!~
+%{0}:"You'll do that?~
+%{7}:"Hey! You trust this guy!?
+ This is all his fault!!~
+%{0}:"But we don't know this
+ place, and more friends
+ can't hurt.~
+%{5}:"Thanks! I swear to God
+ I'll never betray you
+ again!!~
+"[c1][FD0F:04][c0]'s mansion is
+ deep in the cave up
+ ahead!!
+>dce805f6d7
+%Informant:"Don't know your face!
+ What d'you want?~
+>0264525758
+[0C]"Lately [c1]King
+ [FD0F:03][c0] has cracked
+ down, so lots of our pals
+ got caught.
+>c7702c423c
+~[0C]"What? [c1]^5[c0]!?~
+"Come to think of it, word
+ is he botched a job
+ recently.
+>1538c7c45d
+[0C]"Ah, the guy who just
+ joined [c1][FD0F:1A][c0]'s
+ crew.~
+"Pretty skilled, I hear.~
+"Rumor says he stole an
+ [c2]Orb[c0] from [c2]Cygnus
+ Castle[c0].
+>7885b0cb06
+"This here [c2][FD0E:3F][c0] is
+ the home of the [c2][FD0F:14]
+ Guild[c0].~
+"And the head of the
+ [c2][FD0F:14] Guild[c0] is
+ Lord [c1][FD0F:04][c0]!!
+>352c36b011
+[c1][FD12:3A][c0][n]"I botched killing the
+ king, but I brought the
+ [c2]Orb[c0] like Lord
+ [c1][FD0F:22][c0] said!!~
+[c1][FD0F:04][c0][n]"Well done,
+ [c1][FD12:3A][c0]!! Lord
+ [c1][FD0F:22][c0] will be
+ most pleased.~[0C][c1][FD12:3A][c0][n]"So! Where's Lord
+ [c1][FD0F:22][c0]?~
+[c1][FD0F:04][c0][n]"Resting in the back room.~
+[c1][FD0F:1A][c0][n]"Lord [c1][FD0F:04][c0]! I too
+ have brought an
+ [c2]Orb[c0], see!!~
+[c1][FD0F:04][c0][n]"Ho ho ho! Well done!!~[0C][c1][FD0F:1A][c0][n]"Oh, it was nothing!!
+ This [c1]Sam[c0] here got
+ it for me.~
+[c1][FD12:3A][c0][n]"Thought so! No way an old
+ wreck like you could get
+ it so easily!!~
+>3873380e7d
+[n][c1][FD0F:1A][c0][n]"Mind your own business!
+ You [c1]lycanthrope[c0]!!~
+>8cba542589
+[n][c1][FD12:3A][c0][n]"What! Picking a fight!!~[0C][c1][FD0F:04][c0][n]"Enough! Stop it, both
+ of you!!~
+>25d416d4ae
+[n]"Anyway, we now have the
+ [c2]Orbs[c0] of
+ [c2][FD0E:42][c0] and
+ [c2][FD0E:41][c0]!!~
+"That leaves
+ [c2][FD0E:46][c0] and
+ [c2][FD0E:37][c0], but ^5
+ botched the [c2][FD0E:37][c0]
+ one.~[0C][c1][FD0F:1A][c0][n]"That's what you get for
+ relying on ^5!!~
+[n]
+>a91935e9c1
+[c1][FD12:3A][c0][n]"Too right! He's the
+ biggest fool in
+ [c2][FD0E:41][c0]!! Ha ha ha!!~
+>6287c98ea1
+[0C]%{5}:"Those jerks! Talking
+ like that!!~
+>8d4e2637af
+[n]%{0}:"^5! Quiet, don't
+ rush in!!~
+>9b18f9f2d1
+[n]%{5}:"Shut up! I can't just
+ sit and listen!!
+>e667a1966f
+[c1][FD0F:04][c0][n]"[FD0F:41] Oh, it's ^5!~
+[c1][FD0F:1A][c0][n]"Still hanging around?~[0C]%{5}:"You bastards! You've got
+ some nerve!!~
+[c1][FD0F:1A][c0][n]"Hmph! I only spoke the
+ truth! And[FD0F:41]
+>4a80698016
+ What are you lot!?~
+"The ones who hired me to
+ guide them here! Why are
+ you here!!~[0C]%{0}:"We came to take back the
+ stolen [c2]Orb[c0]! And to
+ catch the [c1][FD0F:18][c0] who
+ killed [c1]Queen Rianna[c0]!!~[0C][c1][FD12:3A][c0][n]"You! From back then!!~
+[c1][FD0F:04][c0][n]"^5! What is the meaning
+ of this!!~[0C]%{5}:"Means you're finished!!~
+>edb438a190
+[n][c1][FD0F:1A][c0][n]"You scum! Don't get
+ cocky!!~
+"[c1]Sam[c0]! Take care of
+ them!!~
+>6389c3ee7d
+[n]%Sam:"...The act is over! I'm
+ afraid I can't do as you
+ say.~
+>1b897e5338
+[n][c1][FD0F:1A][c0][n]"Wh-what are you saying!?~
+>96d670c6c6
+[n]%Sam:"Don't you remember me?
+ [c1][FD0F:04][c0][FD0F:42] No,
+ [c1]Baron Goza[c0]!!~
+>d76f60fb15
+[0C][c1][FD0F:04][c0][n]"...!? Y-you're
+ [c1][FD0F:03][c0]!!~
+[n]
+>8768f51943
+%Sam:"That's right!
+ [c1]Uncle[c0]!!~
+"I meant to overlook your
+ doings until now, but for
+ it to end like this[FD0F:3D]~[0C]"It's over! In the king's
+ name, you're all under
+ arrest!!~
+"Don't try to run! My
+ soldiers surround this
+ place!!~
+>d6e589b717
+[0C][c1][FD0F:04][c0][n]"Curse you! I was meant to
+ be this land's king! Now
+ I'll kill you and be king
+ myself!!~
+"Go! [c1][FD0F:1A][c0]!
+ [c1][FD12:3A][c0]!!~
+>f9b6d1376b
+[0C][c1][FD0F:1A][c0][n]"I-I've got nothing to do
+ with this! I won't get
+ caught here!!
+>7fe03d44de
+[c1][FD0F:04][c0][n]"Tch! Useless!!~
+[c1]King [FD0F:03][c0][n]"Wait! You won't escape!!~
+>6b851a610b
+[0C][c1][FD12:3A][c0][n]"Out of my way!!~
+>321c8d999a
+[n][c1]King [FD0F:03][c0][n]"Waaagh!!
+>6ceaf9fab8
+%{1}:"Are you all right!?~
+[c1]King [FD0F:03][c0][n]"Sorry, I'm fine! Never
+ mind me, go after them!!
+ Please!!~
+>a9ccbff584
+[n]%{1}:"^0! Let's go!!
+>35bad50242
+[c1][FD0F:04][c0][n]"So you've come! Heh
+ heh[FD0F:3F]~
+>5874540380
+[n]"Lord [c1][FD0F:22][c0]! If you
+ please!!~
+>afecb9a1f1
+[0C]%{5}:"Ugh[FD0F:42] That's
+ [c1][FD0F:22][c0]! Careful!!~[0C][c1][FD0F:22][c0][n]"So you are the ones in
+ our way?~
+%{0}:"Give back the stolen
+ [c2]Orb[c0]!!~
+[c1][FD0F:22][c0][n]"Hm! You are[FD0F:41]~
+"Heh[FD0F:42] Surely not!!~[0C]%{7}:"What are you muttering!!~[0C][c1][FD0F:22][c0][n]"No matter! If I finish you
+ here, there's no problem!
+ Die!!~
+>2651f5012a
+[0C]%{1}:"Look out! Everyone, get
+ back!!
+>c284e0744c
+[c1][FD0F:22][c0][n]"Heh heh[FD0F:42] You withstood
+ my attack. Not bad!!~
+"But how about this!!~
+>0f48408c30
+[0C]%{1}:"Spirits! Lend me your
+ power!! Haaah!![0C][c1][FD0F:22][c0][n]"Ugh! Uwoooh!!~
+>8dc0905adc
+[0C]%{0}:"^1! Hang on!!~
+%{1}:"I-I'm all right. More
+ importantly, him[FD0F:3F]~[0C][c1][FD0F:22][c0][n]"Gah! Careless of me!!~
+[c1][FD12:3A][c0][n]"Lord [c1][FD0F:22][c0]! Are
+ you hurt!?~
+[c1][FD0F:22][c0][n]"Bah! We withdraw for now!!
+ [c1][FD12:3A][c0]! Bring the
+ [c2]Orbs[c0]!!~
+>c0511dc075
+[n]"[c1][FD0F:04][c0]! You will take
+ the blame!!~
+>02d1216f09
+[n][c1][FD0F:04][c0][n]"M-mercy, Lord
+ [c1][FD0F:22][c0]!
+[n]
+>c05165a6c7
+ [c1]Ragna[c0][FD0F:42] M-my
+ body[FD0F:42] GOGYAAAH!!
+>416b489d80
+%{0}:"Blast! They got away!!
+>ef7a02c896
+[c1]King [FD0F:03][c0][n]"Everyone seems safe.~
+"Come to the castle and tell
+ me everything.
+>66c0adf04f
+[c1]King [FD0F:03][c0][n]"...I see.~
+"So my going undercover with
+ the [c2]Orb[c0] as bait, to
+ learn who [c1][FD0F:04][c0] was
+ and the secret of
+ [c2][FD0E:3F][c0], paid off.~
+"The [c2]Orb[c0] was stolen,
+ but thanks to you we caught
+ the [c1][FD0F:14]s[c0] in one
+ sweep. My thanks.~[0C]%{0}:"[FD0F:28].~
+"We'd like to hurry back to
+ [c2][FD0E:20][c0] and report
+ what happened.~[0C][c1]King [FD0F:03][c0][n]"Now that we know of a
+ common enemy, we must join
+ forces with
+ [c2][FD0E:42][c0].~
+"Give my regards to
+ [c1][FD0F:0B][c0].~
+%{0}:"I understand.~
+"...!?~
+>0ceb129bf3
+[n]"[c1]^1[c0][FD0F:3D] Are you all
+ right?~
+>2969af3fce
+[n]%{1}:"...I'm fine. I seem to
+ have pushed myself a bit
+ in that fight.~
+"Come! Let's go back to
+ [c2][FD0E:20][c0]!!
+>2ae6e276a1
+%{0}:"Looks like it's locked.

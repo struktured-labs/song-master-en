@@ -1,0 +1,35 @@
+# b43: thieves' town FD0E:3F
+>5e6172b382
+%{0}:"It's locked.
+>29fe4a5f01
+%{5}:"We should get in if we
+ go around back!!
+>f01b9fe7f5
+What? [c1]Cat-Eye ^5[c0]!?~
+"Come to think of it, he was
+ around here till just
+ now[FD0F:3D]
+>3a68fc4461
+Hey! [c1]^5[c0]!! Messed up
+ again, I see.~
+%{5}:"Shut up! None of your
+ business!!
+>7be130ed83
+"Hey! Got some good stuff.
+ Wanna buy?
+>84c7e14c8c
+"This is [c2][FD0E:3F][c0]! The
+ [c1][FD0F:14]s'[c0] town!!
+>26394da137
+"Once you're inside, you
+ can't leave till the
+ market's over.
+>f82e738b1d
+"Need any items?
+>5300ff0046
+"Thanks! Come again!!
+>13ef8d678e
+"Hey, how's business?~
+"This country's cracking
+ down lately. Can't make a
+ decent living!!

@@ -1,0 +1,347 @@
+# b45: Alster castle. El Ran's lifespan, Selena joins/leaves. Selena = elder sister (royal priestess), Leticia = younger (captain of the royal guard).
+>c6baabd928
+[c1][FD0F:0B][c0][n]"Oh! [c1]^4[c0]!! You've come
+ back safe!!~
+"And you are Sir
+ [c1]^8[c0]? We have been
+ expecting you!!~[0C]%{8}:"Too kind a word for this
+ old man. I am deeply
+ honored.~[0C]%{4}:"Father! [c2][FD0E:46][c0] is in
+ danger!!~
+[c1][FD0F:0B][c0][n]"Yes! I have heard!!~
+"Our [c2][FD0E:42][c0] has
+ already sent troops to aid
+ [c2][FD0E:46][c0]!!~
+"At [c1][FD0F:1C][c0]'s request,
+ I too am about to head for
+ [c2][FD0E:01][c0]!!~
+"The time has come for all
+ to unite against the threat
+ of [c2][FD0E:45][c0]!!~
+%{0}:"Your Majesty! How is
+ [c1]^1[c0] doing?~
+[c1][FD0F:24][c0][n]"Much better, but[FD0F:3C]
+>a653725287
+%{1}:"I will explain[FD0F:38]~
+>91a85a1547
+[n]%{0}:"[c1]^1[c0]!!~[0C]%{1}:"Everyone! I have caused
+ you much trouble.~
+>34fbcb8217
+[n]"We [c1]elves[c0] live long
+ next to humans, but when
+ our span ends, we too
+ die.~
+"I may look young, but my
+ life is now about to run
+ out.~
+%{0}:"[FD0F:3F]~
+%{1}:"Normally, an [c1]elf[c0]
+ near the end goes to the
+ elf land of
+ [c2][FD0E:29][c0],~
+ casts off the old body,
+ and is reborn in a new
+ one: the [c2]Rite of
+ Rebirth[c0].~
+"Sadly, there is no longer
+ time to reach
+ [c2][FD0E:29][c0][FD0F:3D]~
+"My regret is that I must
+ leave this world at so
+ vital a time[FD0F:3D]~
+%{0}:"So that's how it
+ was[FD0F:3D]~
+"I overheard it at
+ [c1][FD0F:0C][c0]'s.~
+"But without knowing
+ that[FD0F:3D] I...~[0C]%{1}:"Don't worry about it. I
+ chose all of this myself.
+ I mean to use the life I
+ have left for all of you.~
+>04246b43e4
+[0C][c1][FD0F:0B][c0][n]"...Sir [c1]^1[c0], I am
+ grateful for those
+ words.~
+"But losing you now would be
+ a great loss for us.~
+"[c2][FD0E:29][c0] lies at the
+ far east of [c2][FD0F:01][c0],
+ does it not?~
+"Do you know of
+ [c2][FD0E:44][c0]?~[0C]%{1}:"Yes. The underground land
+ ruled by the
+ [c1][FD0F:15]s[c0].~
+[c1][FD0F:0B][c0][n]"Indeed. There should be a
+ passage there that comes
+ out near
+ [c2][FD0E:29][c0].~
+"I am on good terms with
+ [c1][FD0F:23][c0] of
+ [c2][FD0E:44][c0]. Why not go
+ through there to
+ [c2][FD0E:29][c0]?~
+%{1}:"...But whether we can make
+ it in time[FD0F:3D]~
+>907d698fcb
+[0C]%{0}:"Let's go, [c1]^1[c0]! If
+ there's a chance, let's
+ try it!!~
+%{7}:"That's right! You've
+ helped us so much. Now it's
+ our turn!!~
+%{8}:"Let me come along too.~
+%{4}:"I'm going too!!~
+%{5}:"Tch! Guess I can't very
+ well not go now!!~[0C]%{1}:"Everyone[FD0F:3D]~
+"Very well! Let us go to
+ [c2][FD0E:29][c0]!!~
+>fd08734f7b
+[n][c1][FD0F:0B][c0][n]"Then take this
+ [c2][FD10:8A][c0] with
+ you!!~
+>d079706c11
+[0C]"To reach [c2][FD0E:44][c0],
+ there is a cave called
+ [c2][FD0E:25][c0] near the
+ village of [c2][FD0E:22][c0]
+ to the east.~
+"That is the entrance to
+ the underground land. First
+ go to [c2][FD0E:22][c0].~
+"But [c1]^4[c0] will come with
+ me to [c2][FD0E:01][c0].~[0C]%{4}:"What! Why?~
+[c1][FD0F:0B][c0][n]"No more selfishness! You
+ have your own duty to do!
+ Understood!!~[0C]%{4}:"...Yes, Father.~
+>4c7e48d08f
+[n]"Everyone, it was short,
+ but it was fun[FD0F:3D]
+ Goodbye.
+>2ffbde20db
+%{0}:"[FD0F:3C]~
+>b25b318de6
+[0C]%{7}:"^0! Say something to
+ her!!~
+%{0}:"R-right!!
+>31b82de6bc
+%{0}:"[c1]^4[c0][FD0F:3D]~
+>b08eb44909
+[n]"I'm sorry... Look at
+ me[FD0F:3D]~
+>2afcbfadf0
+[0C]%{0}:"Once we take [c1]^1[c0]
+ to [c2][FD0E:29][c0], we
+ plan to come back to
+ [c2][FD0E:01][c0] too[FD0F:3D]~
+"So... we'll meet again!!~
+%{4}:"Yes! We'll meet again!!~
+%{0}:"Yeah! For sure!!~
+%{4}:"Then it's a promise!
+ [c1]^0[c0]!!
+>264bddb740
+[c1][FD0F:0B][c0][n]"[c1]^0[c0]! Be sure you
+ bring Sir [c1]^1[c0] to
+ [c2][FD0E:29][c0]!!
+>d9ad6ee455
+[c1][FD0F:0B][c0][n]"Welcome! Sir [c1]^1[c0]!!
+ Good to see you well.~
+%{1}:"[c1][FD0F:0B][c0], it has been
+ too long.~
+"In town I heard that the
+ [c1][FD0F:05][c0] had passed
+ away[FD0F:3D]~
+"So kind and so beautiful a
+ lady[FD0F:3D] My
+ condolences.~
+[c1][FD0F:0B][c0][n]"Thank you for your
+ kindness.~
+"Poor [c1]Rianna[c0][FD0F:3D]~
+"She shielded me and fell
+ to the assassin's poison
+ arrow[FD0F:3D]~
+"That an old man like me
+ survives, while one who
+ should have lived out her
+ life departs[FD0F:3D]~
+"Oh! No, no!! I've said
+ needless things again.~
+"I must be getting old, eh,
+ [c1]^4[c0]?~[0C]%{4}:"What are you saying,
+ Father!!~
+"You mustn't blame yourself
+ so!!~
+[c1][FD0F:0B][c0][n]"You truly are kind[FD0F:3D]~
+"Oh! That's right!!~
+"Sir [c1]^1[c0], let me
+ introduce my daughters!!~
+"On the left is the elder,
+ [c1]^4[c0], who serves as
+ [c2]royal priestess[c0].~
+"And on the right, the
+ younger, [c1][FD0F:24][c0],
+ [c2]captain of the royal
+ guard[c0].~[0C]%{1}:"[FD0F:29] [c1]^1[c0], king of
+ the elves.~
+"And this is the
+ [FD0F:27] [c1]^0[c0], and
+ the swordsman
+ [c1]^7[c0].~
+[c1][FD0F:0B][c0][n]"[c1]^0[c0]...? Could you
+ be [c1][FD0F:21][c0]'s[FD0F:3D]~[0C]%{1}:"Yes. For certain reasons,
+ we are traveling
+ together.~
+[c1][FD0F:0B][c0][n]"I see[FD0F:3D]~
+"Today, rest from your
+ journey in this castle!
+ You are most welcome!!
+>47e162f083
+%{1}:"[c1]^0[c0]! [c1]^7[c0]!!
+ Something has happened!!
+>0584d56293
+%{7}:"Mmm... What? It's still
+ the middle of the
+ night[FD0F:3C]
+>9ab1901882
+~
+%{0}:"What's going on?
+>2b6cabe7f3
+%{4}:"Thank goodness! You're
+ all safe!!~
+>54dd805503
+[0C]%{1}:"What happened?~
+%{4}:"[c1]Father[c0] was
+ attacked again!!~
+>9c91090328
+[0C]%{7}:"What!!~
+%{1}:"And [c1][FD0F:0B][c0]!?~
+>3dfcfa278e
+[0C]%{4}:"He's all right! Just a
+ small wound.~
+%{1}:"And was the
+ [c1][FD0F:18][c0] caught?~
+%{4}:"No[FD0F:3D]
+ [c1][FD0F:24][c0] and the
+ others are searching the
+ castle now.~
+"I'll go back to Father now.
+ If anything happens, come
+ to the king's room.
+>d46c9ee262
+%{1}:"Not once but twice they
+ try to take the king's
+ life[FD0F:3D]~
+"[c1]^0[c0]! Let us help
+ hunt for the [FD0F:18]
+ too!!~
+"First let's see
+ [c1][FD0F:0B][c0] and hear
+ the details!!
+>c59c5c769e
+%{7}:"Shouldn't we not just
+ barge in? [c1]^0[c0]!!
+>d996d667e9
+[c1][FD0F:0B][c0][n]"Have you found any
+ clues?
+>e000dd55f9
+[c1][FD0F:0B][c0][n]"Everyone! Welcome
+ back!!~[0C] [c1]^0[c0] and the
+ others told all that had
+ happened.~[0C][c1][FD0F:0B][c0][n]"Hmm[FD0F:3D] So the one
+ commanding the
+ [c1][FD0F:14]s[c0] from the
+ shadows is a knight named
+ [c1][FD0F:22][c0].~
+>f3789533d8
+[0C]%Knight:"[c1]Your Majesty[c0]! I know
+ of this knight
+ [c1][FD0F:22][c0].~
+"He must be the son of
+ [c1][FD12:EB][c0], king of
+ [c2][FD0E:45][c0].~[0C][c1][FD0F:0B][c0][n]"[c2][FD0E:45][c0][FD0F:3F]~
+>2c4ed60966
+[0C][c1][FD0F:24][c0][n]"[c1]Your Majesty[c0]! Rumor
+ says [c1][FD12:EB][c0] has
+ destroyed every
+ [c2]temple[c0] and is
+ building [c2]temples[c0] to
+ worship [c1][FD12:EC][c0].~
+>bb86b9228c
+[n]%{4}:"If this knight
+ [c1][FD0F:22][c0] really is
+ gathering the [c2]Orbs[c0] to
+ revive [c1][FD12:EC][c0], it
+ will be terrible.~
+[c1][FD0F:0B][c0][n]"Hmm[FD0F:3D] So that is
+ behind [c2][FD0E:45][c0]'s
+ troubling moves of
+ late[FD0F:3D]~
+>34b3456dfb
+[n]"Hm[FD0F:41] What is it, Sir
+ [c1]^1[c0]!?
+>f837a9a480
+[c1][FD0F:0B][c0][n]"Everyone! Thank you for
+ all you do. Please look
+ after [c1]^4[c0]!!
+>c94d21b460
+%{0}:"[c1]^1[c0]!? Hang on!!~[0C][c1][FD0F:0B][c0][n]"Someone! Call a doctor,
+ quickly! Hurry!!
+>1075bb39bc
+[c1][FD0F:0B][c0][n]"How is Sir [c1]^1[c0]?~
+>9b92fddc25
+[0C][c1][FD0F:24][c0][n]"Very weak. They say total
+ rest is needed.~[0C]%{0}:"He pushed himself for
+ us[FD0F:3D]~
+"Because I'm so green, I
+ leaned on [c1]^1[c0] too
+ much[FD0F:3D]~
+[c1][FD0F:0B][c0][n]"[c1]^0[c0]! Don't blame
+ yourself so.~
+"Regret alone will not open
+ the future.~[0C]"By the way, the
+ [c2][FD0F:25][c0] sent word
+ that they have news for
+ you and wish you to
+ come.~
+"It seems important. Go at
+ once.~[0C]"Come to think of it, where
+ is [c1]^4[c0]?~[0C][c1][FD0F:24][c0][n]"Hmm[FD0F:3D] She was here
+ just now[FD0F:3D]
+>c8641fd36a
+[c1][FD0F:0B][c0][n]"[c1]^4[c0]...? What is
+ that outfit!?~[0C]%{4}:"Father! I mean to go with
+ these people.~[0C][c1][FD0F:0B][c0][n]"[FD0F:41] What are you
+ saying...??~[0C]%{4}:"With Lord [c1]^1[c0] fallen,
+ they need someone in his
+ place, don't they?~
+"And I cannot leave
+ Mother's killer
+ unpunished!!~
+"I know it's selfish, but
+ please! Forgive me!!~[0C][c1][FD0F:0B][c0][n]"Hmm[FD0F:3C]~
+>82498589be
+[n][c1][FD0F:24][c0][n]"[c1]Your Majesty[c0]! I ask
+ it too!! Let my sister
+ go!!~[0C][c1][FD0F:0B][c0][n]"...Such troublesome
+ daughters!!~
+"[c1]^4[c0], do as you
+ wish.~
+%{4}:"Father! [FD0F:28]!!~
+>6ff01ce4b2
+[n]"Everyone! Nice to have
+ you!!
+>f7b5a61efa
+%Knight:"
+>c35a66fd6b
+The [c1]villain[c0] hasn't
+ been found yet[FD0F:3D]
+>3f07e2c3f1
+Welcome! Please proceed
+ before [c1]His Majesty[c0]!!
+>ce6d9509d1
+%Knight:"We are [c1]knights[c0] of
+ the proud [c2][FD0E:42] Holy
+ Knights[c0].
+>04b7134507
+%Knight:"[c1]His Majesty[c0] is
+ sunk in grief[FD0F:3D]~
+"Please cheer him up.

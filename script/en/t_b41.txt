@@ -1,0 +1,262 @@
+# b41: Alster castle, the assassin (black panther shapeshifter), Blue Orb stolen. Skipped data: b7a0849d08 44f64114ec 82e2ca1bfe
+# King Colman is Selena's father (king of Marsha).
+>04cc0158d2
+%{1}:"The door seems to be
+ shut.
+>c47f7fe445
+[c1][FD0F:0B][c0] is in the
+ hall ahead.
+>2f487a3361
+All is well!!
+>7a01b2ae68
+%Guard:"Here lies the late
+ [c1]Queen Rianna[c0], at
+ rest[FD0F:3D]
+>71115ca728
+%Guard:"This is
+ [c1][FD0F:0B][c0]'s bedroom.
+ No entry without
+ permission.
+>068b326693
+%Black Panther:"Grrrrrr[FD0F:3C]
+>b8e19ed8a1
+%Black Panther:"Grrrr[FD0F:3E]~
+%{1}:"Show your true form! We
+ know you are the
+ [c1][FD0F:18][c0]!!~
+%Black Panther:"...Heh heh! Found out,
+ have I!!
+>63bcda11c6
+%Mystery Woman:"Nice work seeing through
+ me! I'll give you that!!~
+"I missed
+ [c1][FD0F:0B][c0], but I got
+ what I came for. I was
+ thinking it's time to go!!~[0C]%{7}:"You monster! You won't
+ get away now!!~[0C]%Mystery Woman:"Heh heh[FD0F:42] Oh, we'll
+ see about that[FD0F:3F]~
+"Souls of the dead! Finish
+ them!!
+>1eaf4fcbc6
+%Guard:"G-GRAAH!! YOU... DIE[FD0F:3F]
+>56cc3f8bf7
+%{0}:"Blast! She got away!!~
+[n]
+>d707099627
+%{1}:"That [c1]soldier[c0] seems
+ to have been possessed by
+ a [c1]demon[c0][FD0F:3D]~
+"Anyway, we must report to
+ [c1][FD0F:0B][c0]!!
+>a309c8e4d4
+[c1][FD0F:0B][c0][n]"Hmm! So that's how it
+ was[FD0F:3D]
+"Well done! Sir ^1!!~[0C]
+>cbbe74f671
+%Knight:"[c1]Your Majesty[c0]! Forgive
+ us!!~
+"The [c1]villain[c0] escaped
+ us by a hair[FD0F:3D]~
+"But she dropped this.~
+"We had it examined: it's
+ the crest of the [c2][FD0F:14]
+ Guild[c0], rooted in
+ [c2][FD0E:11][c0].~[0C]%{0}:"The [c2][FD0F:14] Guild[c0]!?~
+[c1][FD0F:0B][c0][n]"You know something, Sir
+ ^0!!~[0C]%{0}:"Yes! In fact, we meant to
+ go to [c2][FD0E:3F][c0], the
+ [c1][FD0F:14]s'[c0] town, to
+ get back what was stolen.~
+[c1][FD0F:0B][c0][n]"[c2][FD0E:3F][c0][FD0F:3D]~[0C]%{0}:"And a market will be held
+ there soon.~
+"If so, the [c1][FD0F:18][c0]
+ is sure to show up there
+ too.~
+%{1}:"Indeed.~
+"[c1][FD0F:0B][c0]! As you
+ heard, we intend to go to
+ [c2][FD0E:3F][c0].~
+"If you wish, will you leave
+ the pursuit of the
+ [c1][FD0F:18][c0] to us?~
+[c1][FD0F:0B][c0][n]"Hmm...! If this reaches
+ into [c2][FD0E:41][c0], it
+ seems I must rely on you
+ again[FD0F:3D]~
+>cbefe07138
+[0C]%Knight:"By rights we should
+ settle this ourselves,
+ but[FD0F:3D]~
+>39ac7e3a98
+[n]"Then please take this.~
+>3c92bd8c7e
+[0C]"We pray for your good
+ fortune.~
+>fd4b6b8493
+[0C]%{7}:"It's settled! Let's go!
+ To [c2][FD0E:11][c0]!!
+>e5d56b7aec
+In this cell is a rare beast
+ called a [c1]black
+ panther[c0], [FD0F:39]~
+"It's not tame yet, so it's
+ dangerous!!
+>f53985bbb7
+What!? This [c1]black
+ panther[c0] is the
+ [c1]culprit[c0]!!~
+"That's crazy[FD0F:3F]~[0C]"You'll go in and check!!~
+"...All right. This opens it,
+ but be careful.
+>5fc92f9b5e
+Be careful!!
+>425bdaa4e0
+*WANTED!
+ The Queen's assassin!!
+ Dead or alive! A reward to
+ whoever catches them!!
+>d657506677
+%Guard:"These are the soldiers'
+ quarters.
+>31740350ee
+%Guard:"I'm napping before
+ night watch, but I can't
+ sleep at all!!
+>ad46e5ed74
+%Guard:"Castle duty's no picnic
+ either[FD0F:3D]
+>7817fa2be5
+%Guard Captain:"
+>7e171236f6
+The castle's security was
+ supposed to be
+ perfect[FD0F:3C]
+>a02442ef8b
+[FD0F:28].
+>c48bb40a94
+The [c1]guard captain[c0] thinks
+ the [FD0F:18] is hiding
+ inside the castle.
+>c38f4d3357
+That's the [c1]guard
+ captain[c0] at that table.
+>82982a8008
+What? What the [c1]villain[c0]
+ was like[FD0F:41]~
+"Well, as far as I know,
+ something like a shadow.
+ Nobody got a clear look,
+ they say[FD0F:3D]
+>3f8e5e35e7
+%{1}:"Let's search the king's
+ room!!
+>e100fea69a
+Never noticed it was
+ disguised as a [c1]black
+ panther[c0].
+>1d83f383c2
+Everyone's patrolling
+ outside the castle.
+>7a04474969
+[c1]^1[c0]
+>8a58df48ae
+"He's resting right now, so
+ please be quiet.
+>d4df6417e7
+"This is the guest room.
+>6efc88ccd7
+[c1][FD0F:0B][c0][n]"
+>c3edb59917
+Oh! Everyone!! Sorry to have
+ worried you.~
+"My wound is nothing much,
+ but the [c2]Orb[c0] seems to
+ have been stolen!!~
+%{1}:"The [c2]Orb[c0]...?~[0C][c1][FD0F:0B][c0][n]"Do you know of it? The
+ [c2][Blue Orb][c0][FD0F:3D]~
+%{1}:"The legendary [c2]Orb[c0]
+ the gods once used to seal
+ [c1][FD12:EC][c0].~
+[c1][FD0F:0B][c0][n]"Indeed[FD0F:3D]~
+"But wasn't the
+ [c1]villain[c0] after my
+ life...?~
+%{4}:"Could the real target
+ have been the [c2]Orb[c0]?~
+[c1][FD0F:0B][c0][n]"What!? Then you mean the
+ [c1]villain[c0] is no longer
+ here?~[0C]%{4}:"No. [c1][FD0F:24][c0] and her
+ knights have the castle
+ fully surrounded.~
+"So no one can get out from
+ inside the castle.~
+"I think they're probably
+ still hiding inside[FD0F:3D]~[0C]%{1}:"[c1][FD0F:0B][c0]! Will you
+ let us help hunt for the
+ [FD0F:18]?~
+[c1][FD0F:0B][c0][n]"Hmm[FD0F:3D] But to ask such
+ a thing of guests[FD0F:3D]~
+%{4}:"[c1]Father[c0]! Why not let
+ them help!!~
+"[FD0F:29] sense some
+ mysterious power in these
+ people.~[0C][c1][FD0F:0B][c0][n]"Hmm. If ^4 says
+ so[FD0F:3D]~
+"
+>0055caa3e2
+Then, Sir ^1! I leave it in
+ your hands!!
+>900a6c303f
+%{4}:"
+>d732c1976a
+Oh! You've come.
+>15f730a8cf
+The [c1]villain[c0] must be
+ hiding somewhere in the
+ castle!!~
+"Please be careful.
+>8a2187a9ce
+[c1][FD0F:24][c0][n]"
+>38bd120569
+%{1}:"This is[FD0F:41]~
+"^0! Look at this!!~
+>f3c8b36c8c
+[0C]%{0}:"This! It looks like
+ animal fur!!~
+%{7}:"So the [FD0F:18] is a
+ [FD0F:1E] or something!?~
+%{1}:"No! In my view, the
+ [c1][FD0F:18][c0] is human.~
+"I have heard tell of this.~
+"They say some humans have a
+ special power to take the
+ form of animals.~
+"The [c1][FD0F:18][c0] likely
+ has that same power!!~
+%{0}:"Which means[FD0F:3F]~
+%{1}:"It must be that [c1]black
+ panther[c0]!!~
+"Let's hurry to the
+ cells!!
+>d44d678552
+Hmm, anything unusual[FD0F:3D]~
+"Come to think of it, while
+ cleaning I found some
+ animal fur.~
+"A bit too big for a mouse,
+ I thought[FD0F:3D]
+>1afb0ec92e
+I'll cook something tasty
+ for everyone!!
+>3d9eff8abb
+Come to think of it, the
+ [c1]black panther[c0] here
+ doesn't eat much for its
+ size.
+>b91e11f498
+Never thought that
+ [c1]black panther[c0] was the
+ [FD0F:18]!!
+>08b1356077
+"This is the castle
+ [c2]kitchen[c0]!!
