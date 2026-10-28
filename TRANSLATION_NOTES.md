@@ -289,3 +289,11 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## Harness: unique capture paths (10:25)
 - Every Mesen run (tools/test/mesen_run_sm.sh) creates a new run id and directory /tmp/smrun/<RUN>/ (written to /tmp/sm_run.lua and /tmp/sm_last_run). tools/test/smshot.lua wraps M.shot so every capture is saved as <RUN>_<name>, and raises an error if a path already exists. walk.lua, fs2.lua (the battle/field harness, now in the repo, reads /tmp/sm_seq.lua), fromstate.lua and preview.lua load it. wk.sh, rp.sh and preview.sh write their contact sheets inside the run directory and print the path. walk.lua now does nothing until the save state has loaded.
 - Why: Read could return an old image when a path like /workspace/wk.png was reused. Visual claims made while shared paths were in use are being rechecked below.
+- Re-verified with fresh run directories on build d292736a (10:24–10:29):
+  - Battle menu: Fight/Magic/Item/Move/Guard/Run and the Magic submenu Spirit/Heal/Summon. Summon → FlmBird (M:P 100) casts, and only the "Fireball" banner appears. The stray glyph after "Fireball" also appears on the JP ROM, so it is left alone.
+  - Broker b40 4b (forced label): greeting, the "Ask for info / Ask about Ferion / Never mind" menu fully drawn, and the King Colman reply. OK.
+  - Clinic (b07 lbl 01): greeting, Treat/Medicine/Leave and "Nothing's wrong." OK. The weapon shop Buy/Sell/Leave, its list (ShortSwd 500G...) and Cost also look fine.
+  - Prologue crawl: the boot logos and the crawl text through "the Song Master." and the title screen. OK.
+  - FAILED TO RE-VERIFY: stagecoach choice menu. Forcing b10 label 0x37 opened the weapon shop instead, so the text-index-to-label mapping I used is wrong. Still needs a real-flow check.
+  - FAILED TO RE-VERIFY: Thieves' Guild. Previewing b41 cbbe74f671 showed the Knight / King Colman scene up to "the culprit", but the "crest of the Thieves' Guild" frame was never captured as a stable frame. Forcing b41 label 0x1f went to a Black Panther event. Needs a recheck.
+  - Battle shouts (b03): Fireball, Summon and Run produce no shout. Still no on-screen example.
