@@ -166,8 +166,8 @@ Seems the [c1][FD0F:09][c0] got
 [0C]"You don't seem to have the
  money[FD0F:3D]
 >387043749c
-[0C] ^0 donated 100
-[FD0F:08]!!~[0C]"Thank you very much.~
+[0C] ^0 donated
+ 100[FD0F:08]!!~[0C]"Thank you very much.~
 "Your goal will surely be
  achieved.
 >b311ec3f3f

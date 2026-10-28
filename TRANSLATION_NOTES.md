@@ -190,3 +190,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Speaker tags now literal (Thief added); "thiefs" -> "thieves", "fairys" -> "fairies"; b17 "Lord ^0!" keeps the JP trailing space.
 - World-map place-name box ($02:B072) holds 10 tiles; it now reads short place names from bank $3D table 0
   (lists_short.json "places", <=10 chars, e.g. Lesa, Sombayu, Cybele, GoblinCave). Needs on-screen check.
+
+## Chunk 6 (b18 18 – b19 7b), viewed
+- Shops/inn/clinic/temple/broker/stagecoach screens read cleanly; stagecoach map opened with "Meritus" box.
+- Fixed: "donated 100 / G!!" split -> "donated / 100G!!"; b19 7a "butit" (two concatenated messages) -> line break.
+- Forced-label artifacts (empty "Where to?" choice, half-drawn popups) are not bugs.

@@ -86,9 +86,9 @@ Welcome! What can I do for
  happened to him[FD0F:3D]
 >1d006df585
 "I was going to go to
- [c2][FD0E:01][c0], but
+ [c2][FD0E:01][c0], but[n]
 >064d2e5f31
-it seems you can't get
+ it seems you can't get
  through anymore[FD0F:3D]
 >84c4e4c161
 I've forgotten why I was
