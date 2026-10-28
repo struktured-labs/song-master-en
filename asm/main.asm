@@ -246,3 +246,134 @@ lhs_common:
   SEP #$20
   LDA #$00
   RTL
+
+; ---------------------------------------------------------------------------
+; Rumble (struktured labs): Limited Run Games "SNES Rumble" protocol, same as
+; rcr-rumble: after the joypad read, 16 bits MSB first on port-1 IOBit
+; (WRIO $4201 bit 6, bit 7 kept 1), each clocked by one $4016 read:
+; $72 sentry, then level (hi nibble strong motor, lo nibble weak motor).
+; A plain pad ignores all of it. Events come from the battle HP-damage
+; routine at $15:81A7 (X = target struct+1 from $1286, damage in $1288).
+!R_T   = $7E97F8    ; frames left in the pulse (0 = none)
+!R_L   = $7E97F9    ; level byte of the pulse
+!R_OFF = $7E97FA    ; trailing $7200 (off) packets still to send
+!R_MAX = 40
+
+org $00E07A          ; in-game joypad reader tail: STA $127D / PLP / RTS
+  JML rumble_frame
+
+org $1581A7          ; damage applier entry: PHP / REP #$20 / LDX $1286
+  JML rumble_dmg
+  NOP
+  NOP
+
+org $3FC000
+rumble_frame:
+  STA $127D         ; the routine's own PHP is undone by the PLP below
+  REP #$30
+  PHA
+  PHX
+  PHY
+  SEP #$30
+  LDA.l !R_T
+  BEQ .off
+  CMP #!R_MAX+1
+  BCS .clear
+  DEC
+  STA.l !R_T
+  LDA #$02
+  STA.l !R_OFF
+  LDA.l !R_L
+  BRA .send
+.off:
+  LDA.l !R_OFF
+  BEQ .out
+  CMP #$03
+  BCS .clear
+  DEC
+  STA.l !R_OFF
+  LDA #$00
+.send:
+  PHA
+  LDA #$72
+  JSR rumble_send8
+  PLA
+  JSR rumble_send8
+  LDA #$FF
+  STA.l $004201
+.out:
+  REP #$30
+  PLY
+  PLX
+  PLA
+  PLP
+  JML $00E07E
+.clear:
+  LDA #$00
+  STA.l !R_T
+  STA.l !R_OFF
+  BRA .out
+
+rumble_send8:        ; A8/X8: send A, MSB first
+  LDY #$08
+.bit:
+  ASL
+  TAX
+  LDA #$80
+  BCC +
+  LDA #$C0
++ STA.l $004201
+  LDA.l $004016
+  TXA
+  DEY
+  BNE .bit
+  RTS
+
+rumble_dmg:
+  PHP
+  REP #$20
+  LDX $1286
+  LDA $1288
+  BEQ .done
+  CPX.w #$110E        ; party structs $1000-$10E1, monsters from $110E
+  BCS .enemy
+  CMP $0003,x
+  BCS .ko
+  LSR
+  LSR
+  LSR
+  LSR
+  CLC
+  ADC #$0006
+  CMP #$0010
+  BCC +
+  LDA #$000F
++ ASL
+  ASL
+  ASL
+  ASL
+  ORA #$0008
+  SEP #$20
+  STA.l !R_L
+  LDA #14
+  BRA .set
+.ko:
+  SEP #$20
+  LDA #$FF
+  STA.l !R_L
+  LDA #28
+  BRA .set
+.enemy:
+  SEP #$20
+  LDA.l !R_T
+  BNE .done8
+  LDA #$05
+  STA.l !R_L
+  LDA #6
+.set:
+  STA.l !R_T
+.done8:
+  REP #$20
+.done:
+  LDX $1286
+  JML $1581AD
