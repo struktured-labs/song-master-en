@@ -82,7 +82,7 @@ I've nothing more to say to
 "Come again!!
 >5274a80322
 %{0}:"Sir, are you from
- [c2][FD0E:46][c0]?~[0C][c1][FD0F:0F][c0][n]"Yep! War looked likely, so
+ [c2][FD0E:46][c0]?~[0C][c1]Merchant[c0][n]"Yep! War looked likely, so
  I fled here.~
 %{0}:"Do you know an [FD0F:0D]
  called ^8?~

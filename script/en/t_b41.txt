@@ -65,7 +65,7 @@ All is well!!
 [c1][FD0F:0B][c0][n]"You know something, Sir
  ^0!!~[0C]%{0}:"Yes! In fact, we meant to
  go to [c2][FD0E:3F][c0], the
- [c1][FD0F:14]s'[c0] town, to
+ [c1]thieves'[c0] town, to
  get back what was stolen.~
 [c1][FD0F:0B][c0][n]"[c2][FD0E:3F][c0][FD0F:3D]~[0C]%{0}:"And a market will be held
  there soon.~

@@ -147,7 +147,7 @@ if os.path.exists(f):
     LS = json.load(open(f)); tab = bytearray(0xA00); dat = bytearray()
     for k, name in enumerate(['places', 'terms', 'items', 'magic', 'monsters']):
         for i, x in enumerate(LS.get(name, LE.get(name, []) if name == 'monsters' else [])):
-            e = encode(x, False); assert len(e) <= 8 or name == 'monsters', x
+            e = encode(x, False); assert len(e) <= (10 if name == 'places' else 8) or name == 'monsters', x
             p_ = 0x8A00 + len(dat); tab[k*0x200 + i*2: k*0x200 + i*2 + 2] = bytes([p_ & 255, p_ >> 8]); dat += e + b'\xff'
     assert rom[0x1E8000:0x1F0000] == b'\xff' * 0x8000, 'bank $3D not free'
     rom[0x1E8000:0x1E8A00] = tab; rom[0x1E8A00:0x1E8A00 + len(dat)] = dat

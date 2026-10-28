@@ -401,3 +401,28 @@ shop_total:                       ; A16, DB=$7E (as at the call sites)
   LDA #$2413 : STA $4848          ; s
   LDA #$2414 : STA $484A          ; t
   RTL
+
+; ---- world-map place-name box ($02:B072, callers $02:94B6/$02:EF89): 10-tile box, so read the
+; short place names (bank $3D table 0, script/en/lists_short.json "places", <= 10 chars)
+org $02B072
+  JSL map_place
+  RTS
+org $3FE000
+map_place:
+  PHP
+  SEP #$20
+  PHB
+  PHA
+  LDA #$7E
+  PHA
+  PLB
+  PLA
+  LDX #$0000
+  JSL lhs_common
+  BEQ +
+  JSL $02C969
++:
+  LDY !LY
+  PLB
+  PLP
+  RTL

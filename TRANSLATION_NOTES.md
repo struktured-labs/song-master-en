@@ -185,3 +185,8 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - pass4 chunk 2 (labels 41-62: b0d inn/Remi lines, b0e bandit hideout with Jack/Thief) viewed; the text is fine. b0e lbl 0f showed an icon popup reading "mb" (dagger icon) on the pre-fix build. It goes on the recheck list.
 - pass4 chunk 3 (labels 63-103: b0e-b11, goblin cave and the caravan attack) viewed; the text is fine. bf lbl 04 has an empty box and the JP is also just [LINE]. bf lbl 06 is a skipped data fragment. Suspect: world-map place-name box shows "Lesa Villa" and "Tiris Noah", so it may cap at 10 characters (b0a "Goblin Cav" too). Rechecking with a late screenshot.
 - pass4 chunk 4 (labels 104-151: b11-b13, Lancafarn and Vanvar) viewed. Speaker tags that used lowercase common-noun terms showed as "goblin", "goblin Soldier" and so on. Every speaker-line use of terms 09/0A/0F/15/1F (broker/goblin/merchant/dwarf/fairy) is now literal capitalized text: Goblin, Goblin Soldier, Dwarf Guard, Broker, Merchant, Fairy (54 lines). The inline uses stay lowercase. Shops show "LthArmor 650G" and so on. The "Not enough money" popup is fine.
+
+## Chunk 5 (b14–b18) + map box
+- Speaker tags now literal (Thief added); "thiefs" -> "thieves", "fairys" -> "fairies"; b17 "Lord ^0!" keeps the JP trailing space.
+- World-map place-name box ($02:B072) holds 10 tiles; it now reads short place names from bank $3D table 0
+  (lists_short.json "places", <=10 chars, e.g. Lesa, Sombayu, Cybele, GoblinCave). Needs on-screen check.

@@ -19,7 +19,7 @@ Hey! [c1]^5[c0]!! Messed up
  Wanna buy?
 >84c7e14c8c
 "This is [c2][FD0E:3F][c0]! The
- [c1][FD0F:14]s'[c0] town!!
+ [c1]thieves'[c0] town!!
 >26394da137
 "Once you're inside, you
  can't leave till the

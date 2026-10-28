@@ -177,7 +177,7 @@ m[FD0F:41]
  he stole.~
 "Because [c2][FD0E:11][c0] is
  also called the town of
- [c1][FD0F:14]s[c0], and a [c1][FD0F:14][c0]
+ [c1]thieves[c0], and a [c1][FD0F:14][c0]
  black market is said to be
  held there.~
 "We pass through

@@ -8,7 +8,7 @@ Halt! This is
 "Suspicious lot! Be off with
  you at once!!
 >cb678e348e
-Ah, Lord ^0!
+Ah, Lord ^0![n] 
 >338f8cddef
 Please, go right in!!
 >9c143d324d
@@ -21,7 +21,7 @@ Please, go right in!!
 >7eb94b44d6
 %{1}:"Come! Let's hurry on!!
 >b915466436
-Lots of [c1][FD0F:14]s[c0] around
+Lots of [c1]thieves[c0] around
  here, so watch yourselves!!~
 "Heh heh[FD0F:3D]
 >a529d083b1
@@ -67,14 +67,14 @@ We're on patrol to keep the
 [c1]King [FD0F:03][c0] means to
  end the rumor that this
  country is a base for
- [c1][FD0F:14]s[c0].
+ [c1]thieves[c0].
 >eeff2554ba
 Hm[FD0F:42] You lot look
  suspicious!?
 >d4c820fcea
 At last we've destroyed
  [c2][FD0E:3F][c0], the town of
- [c1][FD0F:14]s[c0]!!
+ [c1]thieves[c0]!!
 >6cfff87f5c
 "What do you want? You're
  annoying, get lost!!
@@ -146,7 +146,7 @@ Say[FD0F:3D] No! Never mind.
 >474bab1c29
 Just between us, the
  [c1][FD0F:09][c0] seems to be
- dealing with [c1][FD0F:14]s[c0].
+ dealing with [c1]thieves[c0].
 >f962e5e513
 Seems the [c1][FD0F:09][c0] got
  caught in the end too.

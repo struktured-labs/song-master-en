@@ -6,7 +6,7 @@ If you're done, don't come
 >878eb79cec
 "I'm not the [c1][FD0F:09][c0]!!~
 "The [c1][FD0F:09][c0] was in
- with the [c1][FD0F:14]s[c0]!!
+ with the [c1]thieves[c0]!!
 >ba785c12e2
 Forgot already?~
 >7524a9f0ac
@@ -15,7 +15,7 @@ Forgot already?~
 "All right! Pay me
  [FD12:C8]0[FD0F:08] and I'll
  put you in touch with the
- [c1][FD0F:14]s[c0]. Well?~
+ [c1]thieves[c0]. Well?~
 >f3e3f4f549
 [0C]"Then go to the town
  cells. Tell the password to
@@ -34,7 +34,7 @@ Forgot already?~
 "You're persistent! Keep it
  up and[FD0F:3D]~[0C]%{7}:"That's my line!! We know
  you're dealing with the
- [c1][FD0F:14]s[c0]!!~[0C][c1][FD0F:09][c0][n]"....So you knew.~
+ [c1]thieves[c0]!!~[0C][c1]Broker[c0][n]"....So you knew.~
 [n]
 >6d1754919e
 "What I don't know, I don't
@@ -54,7 +54,7 @@ Welcome! What can I do for
 >1870990490
 [0C]"Well, lately [c1]King
  [FD0F:03][c0] has started
- hunting down [c1][FD0F:14]s[c0].
+ hunting down [c1]thieves[c0].
 >0d7c397eb9 !
 [x4D][x4F][x4C]Ask for info
  Ask about Dorfas
@@ -97,7 +97,7 @@ I've forgotten why I was
 %{0}:"Just a calendar.
 >12d8e1b24e
 The old [c1]bartender[c0] was in
- with the [c1][FD0F:14]s[c0], so he
+ with the [c1]thieves[c0], so he
  got arrested!!
 >ab5a5b4ce9
 [0C]"Looks like you're
@@ -113,7 +113,7 @@ The old [c1]bartender[c0] was in
  ^5 no matter what!!~[0C]%{1}:"Indeed. We must recover
  the [c2]Orb[c0] too, and
  [c2][FD0E:3F][c0] is a town of
- [c1][FD0F:14]s[c0]. Let's be
+ [c1]thieves[c0]. Let's be
  very careful.
 >95dd4f97fb
 %Sam:"I'm [c1]Sam[c0]! You the ones
@@ -192,7 +192,7 @@ Welcome!!
 >e01fa3ae6c
 Lately [c1]King [FD0F:03][c0]'s
  crackdown is tough, so
- there are fewer [c1][FD0F:14]s[c0].
+ there are fewer [c1]thieves[c0].
 >3cbed68a6a
 They say a [c1][FD0F:14][c0] black
  market is held somewhere.
@@ -201,8 +201,8 @@ They say a [c1][FD0F:14][c0] black
  Don't talk to me!!
 >23cfea8aca
 "Rumor has it there's a
- town of [c1][FD0F:14]s[c0] in this
- country.~[0C]%{7}:"A town of [c1][FD0F:14]s[c0]!?~[0C]"Yeah, called
+ town of [c1]thieves[c0] in this
+ country.~[0C]%{7}:"A town of [c1]thieves[c0]!?~[0C]"Yeah, called
  [c2][FD0E:3F][c0] or
  something[FD0F:3D]~
 "Whoops! Anything more's
@@ -218,5 +218,5 @@ Lately this town's gotten
 >9417dc5e18
 They say [c1]King [FD0F:03][c0]
  wiped out [c2][FD0E:3F][c0]!!~
-"All the [c1][FD0F:14]s[c0] got
+"All the [c1]thieves[c0] got
  caught too, they say.
