@@ -21,6 +21,7 @@ def txt2tags(body):
         l=re.sub(r'%([^:%"\[]+|\{\d\}):',r'[c1]\1[c0][n]',l)
         t=re.sub(r'~?@([^:@"\[]+|\{\d\}):',r'[wait]\1[tab][n]',l)
         if t.startswith('+'): t=t[1:]
+        elif i and re.match(r'(\[x[0-9A-F]{2}\])+',body[0]): t='[n]'+t.lstrip()  # choice menu: one option per line
         elif i and t.startswith(' ') and not out[-1].endswith(']'): t=' '+t.lstrip()
         elif i and t.startswith(' '): t=' '+t.lstrip() if out[-1].endswith('[c0]') else '[n]'+t
         elif i: t='[n]'+t
@@ -81,6 +82,8 @@ for i in range(78):
         out += d[last:s]; last = e
         if uid in EN:
             stats['en'] += 1
+            if re.match(r'(\[x[0-9A-F]{2}\])+', EN[uid]['en']):  # choice menu: op 2E reads ids+text inline, no FD30 stub
+                out += encode(re.sub(r'(\[END\]|\[LINE\])$','',EN[uid]['en']), False) + bytes([raw[-1]]); continue
             n = sid(uid); out += bytes([0xFD, 0x30, n & 0xFF, n >> 8, raw[-1]])
         else: out += raw
     out += d[last:]
