@@ -1,0 +1,84 @@
+# b66-b68: Elles Noah townsfolk, Diara (Onsa village), the Melrose elder and the Pointer.
+>5212285492
+%{7}:"Quit dawdling around here
+ and let's get our business
+ done!!
+>2a72e452d5
+[c1][FD0F:09][c0][n]"Honestly, there's no
+ money to be made here[FD0F:3D]
+ Boo hoo[FD0F:3D]
+>fb1d476f97
+*To restore HP, use
+ [c2][[FD10:73]][c0]!!
+>dc1e2a5ca7
+"Studying every single day
+ wears you out.~
+"You need a break now and
+ then!!
+>05c92fcf77
+"Seems [FD0F:1E]s have started
+ prowling around here too.
+>c49bc0328c
+"Mmm! Mmmmm! Delicious!!
+>62aa5b5aff
+%{2}:"Let us gather information
+ in this village!!
+>df270f6cbf
+"This is the village of
+ [c2][FD0E:31][c0].~
+"This island, [c2]Diara[c0],
+ preserves what remains of
+ lost [c2]Melrose[c0].
+>075a5d68b7
+"Ahead lie the [c2]ruins[c0]
+ that were the heart of
+ [c2]Melrose[c0].
+>0cfcda97ef
+[c1]Elder[c0][n]"
+>230d9ea2f1
+What have you come for...
+ Go home!!~
+"[FD0F:41] Wait!! The thing
+ on your forehead... is that
+ not the [c2]Pointer[c0]!?~
+"...Then it was worth living
+ to this age.~
+%{0}:"What do you mean? And
+ what is this [c2]Pointer[c0]?~
+[c1]Elder[c0][n]"That [c2][[FD10:92]][c0]
+ of yours.~
+"Do you not know who you
+ are...?~
+"I am a descendant of the
+ survivors of [c2]Melrose[c0].~
+"And I have waited for the
+ one who bears the
+ [c2]Pointer[c0].~
+"The [c2]Pointer[c0] guides
+ its bearer to
+ [c2][FD0E:3B][c0].~
+"And you are the one fated
+ to defeat
+ [c1][FD12:EC][c0].~
+%{0}:"Defeat [c1][FD12:EC][c0][FD0F:3F]
+ Me[FD0F:3C]~[0C]%{7}:"Wh-what!? [c1]^0[c0]!
+ Just what are you[FD0F:41]~
+%{0}:"Please tell me! The
+ truth!!~[0C][c1]Elder[c0][n]"Go to [c2][FD0E:3B][c0].~
+"
+>fce2246ec5
+Go east from here and you
+ will find the [c2]ruins[c0].~
+"There, raise the
+ [c2]Pointer[c0] toward the
+ heavens!!~
+"The way to [c2][FD0E:3B][c0]
+ should open.
+>f71fcb00d6
+"Young one. Have you no
+ wish to stay in this land?
+>232b6a8fd0
+"Only old folks are left
+ here now.~
+"This village is fated to
+ fade away[FD0F:3D]
