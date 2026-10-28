@@ -120,3 +120,14 @@ PrgBlade->PurgeBld, ChsBlade->ChaosBld, TrrBlade->TerrorBl, CrssHelm->CrossHlm, 
 9 previews of lines with distinct place ids across blocks after the fix (uids 499608c97b 2a21fa8f9c 939d6e4ed9 3703c0a8c8 dba3221193 cc2261179c df88f450d8 88e3619a43 aa9623de11). Viewed text continuing past names: Lancafarn / Mt. Barama, Albion, Farlon / Barnicia, Tir na Nog, Great Wall, North Shield. Not all 282 FD0E lines individually previewed.
 
 ## Draft delivered 2026-10-28 (build of d195e36, sfc sha1 cefd7596...)
+
+## Battle list names (bank 01)
+Battle code in bank $01 reads the JP item/monster/magic lists straight from WRAM 7E:D000
+(items +0x430, monsters +0x951, magic +0xF7F). insert_sm.py now writes English copies to
+bank $2D (D000 items, DA00 monsters, F000 magic) and repoints the LDX/LDA long operands.
+Verified in a forced battle (test-only encounter-zone poke): spell message "Fireball",
+target window "Man-Eater H·P 240", Magic submenu "Spirit/Heal/Summon".
+Known: a single varying glyph (ュ/リ/る) appears after the spell name in the cast message;
+it also appears in the untouched JP ROM, changes frame-to-frame, likely an animated tile
+sharing VRAM with the text window. Not a text issue.
+Known: lowercase "p" glyph reads like a capital P in the font.

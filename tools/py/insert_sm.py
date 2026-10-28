@@ -147,6 +147,26 @@ if os.path.exists(f):
             p_ = 0x8A00 + len(dat); tab[k*0x200 + i*2: k*0x200 + i*2 + 2] = bytes([p_ & 255, p_ >> 8]); dat += e + b'\xff'
     assert rom[0x1E8000:0x1F0000] == b'\xff' * 0x8000, 'bank $3D not free'
     rom[0x1E8000:0x1E8A00] = tab; rom[0x1E8A00:0x1E8A00 + len(dat)] = dat
+# --- battle-side list lookups (bank $01 reads the JP lists at $7E:D000 directly): English copies in bank $2D
+# items (short) at $2D:D000, monsters at $2D:DA00, magic (short) at $2D:F000; re-point each LDX #base and LDA $7ED000,x
+if os.path.exists(f):
+    BB = 0x2D; o0 = BB * 0x8000 + 0x5000
+    assert rom[o0:o0 + 0x3000] == b'\xff' * 0x3000, 'bank $2D D000-FFFF not free'
+    lay = {'items': (0x0000, LS['items']), 'monsters': (0x0A00, LE['monsters']), 'magic': (0x2000, LS['magic'])}
+    lim = {'items': 0x0A00, 'monsters': 0x2000, 'magic': 0x3000}
+    for name, (base, ents) in lay.items():
+        blob = b''.join(encode(x, False) + b'\xff' for x in ents)
+        assert base + len(blob) <= lim[name], (name, len(blob))
+        rom[o0 + base:o0 + base + len(blob)] = blob
+    LDX = {0x8F63: 0x0430, 0x90E8: 0x0430, 0x9124: 0x0430, 0x914D: 0x0430, 0x9176: 0x0430, 0xB913: 0x0430,
+           0xAAAB: 0x0951, 0x8F35: 0x0F7F, 0xB803: 0x0F7F}
+    NEW = {0x0430: 0x0000, 0x0951: 0x0A00, 0x0F7F: 0x2000}
+    for a, old in LDX.items():
+        o = lo(1, a); assert rom[o] == 0xA2 and rom[o+1] | rom[o+2] << 8 == old, hex(a)
+        n = NEW[old]; rom[o+1:o+3] = bytes([n & 255, n >> 8])
+    for a in (0x8F3D, 0x8F66, 0x90F6, 0x9127, 0x9150, 0x9179, 0xAAB3, 0xAAD1, 0xB80C, 0xB91B):
+        o = lo(1, a); assert rom[o:o+4] == bytes.fromhex('bf00d07e'), hex(a)
+        rom[o+3] = BB
 # --- bank $02 menus (script/en/menus.json): repack into the original pool and re-point the menu table
 f = ROOT + '/script/en/menus.json'
 if os.path.exists(f):
