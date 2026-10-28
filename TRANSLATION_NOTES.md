@@ -220,3 +220,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Log lines 477–532 viewed (sheets c1100–c1110). Singer Guild/Hudson, Alster townsfolk, Purge Blade seller, temple, weapon/armor/item/clinic/inn shops, sailors' inn, stagecoach station all render cleanly; shop lists and "Not enough money" fit.
 - Fix: b27 8c "rock-paper- scissors" split at the hyphen with a stray space; the compound is now on one source line so it wraps whole.
 - Forced-label artifacts (same class as the earlier stagecoach "=a"): option popups showing a single letter ("c", "d", "sd", "ud") and the trailing "bミ b" after the broker/stagecoach prompts. Broker b28 4b added to recheck for a real-flow check.
+
+## Chunk 12 (b28 70 – b2a 05), viewed
+- Log lines 533–592 viewed (sheets c1200–c1207). Stagecoach 500G prompt + Lancafarn/Alster map boxes, tavern, Alster castle guards, black panther cell, King Colman/Orb, kitchen all render cleanly.
+- Fix: "[FD0F:14] Guild" (thief term + Guild) broke the line early like the old-man term ("thief / Guild" on its own lines). Replaced with literal "Thieves' Guild" in b36/b41/b44. b28 e2 queued in recheck.

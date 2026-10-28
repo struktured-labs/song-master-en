@@ -107,7 +107,7 @@
  Castle[c0].
 >7885b0cb06
 "This here [c2][FD0E:3F][c0] is
- the home of the [c2][FD0F:14]
+ the home of the [c2]Thieves'
  Guild[c0].~
 "And the head of the
  [c2][FD0F:14] Guild[c0] is

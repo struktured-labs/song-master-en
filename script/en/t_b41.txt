@@ -59,7 +59,7 @@ All is well!!
  us by a hair[FD0F:3D]~
 "But she dropped this.~
 "We had it examined: it's
- the crest of the [c2][FD0F:14]
+ the crest of the [c2]Thieves'
  Guild[c0], rooted in
  [c2][FD0E:11][c0].~[0C]%{0}:"The [c2][FD0F:14] Guild[c0]!?~
 [c1][FD0F:0B][c0][n]"You know something, Sir
