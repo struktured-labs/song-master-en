@@ -3,10 +3,10 @@
 [c1][FD0F:23][c0] has fallen
  ill!!
 >6b19f32927
-[c1][FD0F:15] Guard[c0][n]"These are the guards'
+[c1]Dwarf Guard[c0][n]"These are the guards'
  quarters!!
 >1824b20ee0
-[c1][FD0F:15] Guard[c0][n]"Argh! Too noisy to
+[c1]Dwarf Guard[c0][n]"Argh! Too noisy to
  sleep!!
 >c980d7c903
 Mess up and you get sent to
@@ -142,7 +142,7 @@ We were tricked by
  too bad!!~
 %{7}:"Tch[FD0F:42]~[0C][c1][FD0F:15] Guard[c0][n]"Now! Move it!!
 >d9c7bcc30b
-[c1][FD0F:15] Guard[c0][n]"Sir [c1]Gimsy[c0]! I've
+[c1]Dwarf Guard[c0][n]"Sir [c1]Gimsy[c0]! I've
  brought the prisoners!!~
 %Gimsy:"Good! Well done!! You may
  go!!
@@ -176,10 +176,10 @@ We were tricked by
 %{5}:"Looks like we can go
  deeper from here!!
 >b88e93a19d
-[c1][FD0F:15] Guard[c0][n]"You'll work here till you
+[c1]Dwarf Guard[c0][n]"You'll work here till you
  die!!
 >fb1a0b5696
-[c1][FD0F:15][c0][n]"I did nothing, but they
+[c1]Dwarf[c0][n]"I did nothing, but they
  dragged me here!!~
 "I bet most folks got
  brought here for reasons
@@ -190,11 +190,11 @@ What!? [c1]Libra[c0]..?~
  was wandering around
  here[FD0F:3D]
 >bf5f2c9f9a
-[c1][FD0F:15] Guard[c0][n]"What are you loitering
+[c1]Dwarf Guard[c0][n]"What are you loitering
  for!!~
 "Get to work!!
 >2ec34b07e8
-[c1][FD0F:15][c0][n]"Escaping from here? No
+[c1]Dwarf[c0][n]"Escaping from here? No
  way!!
 >5f99238004
 Where's [c1]Libra[c0]!?~
@@ -227,11 +227,11 @@ Oh! Speak of the devil!!
 So [c1][FD0F:23][c0] was the
  prisoner[FD0F:3D]
 >f624f1862a
-[c1][FD0F:15][c0][n]"Word is some bigwig is
+[c1]Dwarf[c0][n]"Word is some bigwig is
  locked up somewhere in
  [c2][FD0E:3C][c0].
 >43c7fe141e
-[c1][FD0F:15][c0][n]"Work fast, or they'll make
+[c1]Dwarf[c0][n]"Work fast, or they'll make
  you suffer!!
 >f60c70cfa0
 [c1]Libra[c0]'s on the upper
@@ -250,7 +250,7 @@ Hey! Where d'you think
 Oh, it's you! Go on down
  already.
 >e405883aa8
-[c1][FD0F:15] Guard[c0][n]"What d'you want!?~
+[c1]Dwarf Guard[c0][n]"What d'you want!?~
 "This is no place for
  you!!~[0C]%{5}:"Heh heh[FD0F:42] Come on,
  boss, please?~[0C][c1][FD0F:15] Guard[c0][n]"Wise guy! I was bored

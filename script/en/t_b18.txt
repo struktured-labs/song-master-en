@@ -1,12 +1,12 @@
 # b18-b20: Vanvar town and castle. Skipped data: cf12f6f958 63b399e602
 >bf4a7c46da
-[c1][FD0F:0A] Soldier[c0][n]"Beyond here is
+[c1]Goblin Soldier[c0][n]"Beyond here is
  [c1][FD0F:06][c0]'s castle!!
 >fe97c8bc71
-[c1][FD0F:0A] Soldier[c0][n]"Hey! Don't go wandering
+[c1]Goblin Soldier[c0][n]"Hey! Don't go wandering
  around on your own!!
 >9f9b434423
-[c1][FD0F:0A][c0][n]"
+[c1]Goblin[c0][n]"
 >eb3737e186
 We only want to live in
  peace, but humans
@@ -27,13 +27,13 @@ We can go no further. We're
 >d8df283645
 Thank you! You saved us!!
 >ef6c5fa055
-[c1][FD0F:0A][c0][n]"This is [c2][FD0E:37][c0]! The
+[c1]Goblin[c0][n]"This is [c2][FD0E:37][c0]! The
  town ruled by the great
  [c1][FD0F:06][c0]!!
 >b6f21c3b52
 It's locked!!
 >8b37f0dc06
-[c1][FD0F:0A] Soldier[c0][n]"This is [c2][FD0E:37]
+[c1]Goblin Soldier[c0][n]"This is [c2][FD0E:37]
  Castle[c0]!!
 >7f1c4bcc22
 Entry beyond here is
@@ -62,16 +62,16 @@ I have heard.~
 You'd best be well prepared
  before you go.
 >100a9e5fa0
-[c1][FD0F:0A][c0][n]"Need a weapon!?
+[c1]Goblin[c0][n]"Need a weapon!?
 >25ed4135f8
 "Come back when you need
  something!!
 >cde70d1acc
-[c1][FD0F:0A][c0][n]"Got all kinds of armor!!
+[c1]Goblin[c0][n]"Got all kinds of armor!!
 >7b7aaba86f
 "[FD0F:2C]
 >0ff31a747c
-[c1][FD0F:0A][c0][n]"If you wish, I'll restore
+[c1]Goblin[c0][n]"If you wish, I'll restore
  your strength.~
 >60d2241d0e
 [0C]"Then I'll heal you!!~
@@ -81,14 +81,14 @@ You'd best be well prepared
 [0C]"Come any time you need
  it!!
 >2519d8d2f9
-[c1][FD0F:0A][c0][n]"Want your wounds
+[c1]Goblin[c0][n]"Want your wounds
  treated?
 >a235e5acf7
 "Up ahead, you'd better
  have [c2][[FD10:70]][c0] and
  [c2][[FD10:7B]][c0] with you!!
 >dd565bc9ff
-[c1][FD0F:0A] Soldier[c0][n]"King's orders or not, I
+[c1]Goblin Soldier[c0][n]"King's orders or not, I
  can't be friends with
  humans!!
 >555d76627c
@@ -104,10 +104,10 @@ It's not like we fight
 >eeb5803b32
 I've had enough of fighting.
 >76e7342478
-[c1][FD0F:0A][c0][n]"You'll find most things
+[c1]Goblin[c0][n]"You'll find most things
  here.
 >a5aae1cb7f
-[c1][FD0F:0A] Soldier[c0][n]"
+[c1]Goblin Soldier[c0][n]"
 >8a339e28e4
 Good luck!!
 >4631019eee

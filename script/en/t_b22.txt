@@ -3,10 +3,10 @@
 %{1}:"Let's go see
  [c1][FD0F:0C][c0]!!
 >a8ba015401
-[c1][FD0F:1F][c0][n]"What!? Never seen a
+[c1]Fairy[c0][n]"What!? Never seen a
  [c1][FD0F:1F][c0] before?
 >7b4af8105e
-[c1][FD0F:1F][c0][n]"
+[c1]Fairy[c0][n]"
 >dfb632a570
 Ah! A human!!~
 "[FD0F:40] Oh! Lord ^1 is
@@ -98,16 +98,16 @@ Did you rest well?~
 "May the gods protect you
  all!!
 >c259acc5dc
-[c1][FD0F:1F][c0][n]"Lately [FD0F:1E]s have started
+[c1]Fairy[c0][n]"Lately [FD0F:1E]s have started
  roaming around here too.~
 "But the [c1]queen[c0]'s barrier
  protects this place, so
  we're safe!!
 >11fc8a3887
-[c1][FD0F:1F][c0][n]"We take care of the
+[c1]Fairy[c0][n]"We take care of the
  [c1]queen[c0]'s needs.
 >84886cf5f0
-[c1][FD0F:1F][c0][n]"Ho hum! Isn't there
+[c1]Fairy[c0][n]"Ho hum! Isn't there
  anything fun to do?
 >3cdd6d2a81
 Welcome! ^1, king of the
@@ -117,5 +117,5 @@ Welcome! ^1, king of the
 The true homeland of us
  fairies is [c2][FD0E:39][c0].
 >5b8152b3c0
-[c1][FD0F:1F][c0][n]"Can't play pranks with Lord
+[c1]Fairy[c0][n]"Can't play pranks with Lord
  ^1 around.

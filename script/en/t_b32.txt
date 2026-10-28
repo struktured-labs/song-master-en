@@ -68,14 +68,14 @@ I've nothing more to say to
 "North of here lies dry
  wasteland.
 >2d32936525
-[c1][FD0F:0F][c0][n]"How about it? Buy
+[c1]Merchant[c0][n]"How about it? Buy
  something?
 >6f91b47f80
 "There's no shop here, but
  traveling [c1][FD0F:0F]s[c0]
  keep us supplied.
 >f5589abbdb
-[c1][FD0F:0F][c0][n]"How about rare
+[c1]Merchant[c0][n]"How about rare
  [c2][FD0E:46][c0] <weapons>?
  You won't regret it!!
 >28f5168d7b
@@ -86,7 +86,7 @@ I've nothing more to say to
  I fled here.~
 %{0}:"Do you know an [FD0F:0D]
  called ^8?~
-[c1][FD0F:0F][c0][n]"^8...? Can't say I do[FD0F:3D]~
+[c1]Merchant[c0][n]"^8...? Can't say I do[FD0F:3D]~
 "Speaking of old men, one
  traveled with me from
  [c2][FD0E:46][c0]!!~
@@ -100,19 +100,19 @@ I've nothing more to say to
  [c1][FD0F:27][c0].~[0C]%{1}:"^0[FD0F:3F]~
 %{0}:"Sir, do you know where
  that old man went?~
-[c1][FD0F:0F][c0][n]"Hmm[FD0F:3D] He said he was
+[c1]Merchant[c0][n]"Hmm[FD0F:3D] He said he was
  going to [c2][FD0E:20][c0] and
  hired some guards.~[0C]%{0}:"[c2][FD0E:20][c0]!?~
 %{1}:"It seems we should go
  to [c2][FD0E:20][c0][FD0F:3D]
 >a655522268
-[c1][FD0F:0F][c0][n]"Need medicine?
+[c1]Merchant[c0][n]"Need medicine?
 >4f2ea1518e
-[c1][FD0F:0F][c0][n]"If you're crossing the
+[c1]Merchant[c0][n]"If you're crossing the
  [c2]Central Plains[c0], you'll
  be glad you bought some!!
 >3dc0bddc44
-[c1][FD0F:0F][c0][n]"Good stock of <shields>
+[c1]Merchant[c0][n]"Good stock of <shields>
  and <armor>!!
 >2f08359d6d
 "Grrr!!

@@ -174,23 +174,23 @@ Stupid [c1][FD12:5C][c0]!
  [c1]^0[c0] used the
  [c2][xA4]Bronze Ring[xA5][c0]!!
 >30d7076d4a
-[c1][FD0F:15][c0][n]"Lots of [c2][FD0E:3C][c0]s
+[c1]Dwarf[c0][n]"Lots of [c2][FD0E:3C][c0]s
  around here!!
 >9b0f0ebb49
-[c1][FD0F:15][c0][n]"Oho! A human, that's
+[c1]Dwarf[c0][n]"Oho! A human, that's
  rare!!
 >e49863c24c
-[c1][FD0F:15][c0][n]"Seems there's some
+[c1]Dwarf[c0][n]"Seems there's some
  trouble up on the
  surface!!~
 "Well! Nothing to do with
  us!!
 >c8d42f9629
-[c1][FD0F:15][c0][n]"This is [c2][FD0E:38][c0]!
+[c1]Dwarf[c0][n]"This is [c2][FD0E:38][c0]!
  Town of us
  [c1][FD0F:15]s[c0]!!
 >c605d39db7
-[c1][FD0F:15] Guard[c0][n]"
+[c1]Dwarf Guard[c0][n]"
 >fa7e3aed4f
 Wander around too freely and
  we'll send you to
@@ -199,10 +199,10 @@ Wander around too freely and
 We were tricked by
  [c1][FD0F:19][c0]!!
 >08936fe1d4
-[c1][FD0F:15] Guard[c0][n]"This is [c1][FD0F:23][c0]'s
+[c1]Dwarf Guard[c0][n]"This is [c1][FD0F:23][c0]'s
  castle!!
 >5ec3c8a28a
-[c1][FD0F:15][c0][n]"Why are there only men
+[c1]Dwarf[c0][n]"Why are there only men
  here?~
 "Well, [c2][FD0E:38][c0] is the
  town of those who work at
@@ -210,7 +210,7 @@ We were tricked by
 "Only men work at the
  [c2]castle[c0].
 >262b919277
-[c1][FD0F:15][c0][n]"
+[c1]Dwarf[c0][n]"
 >106624d591
 It's been a while since
  [c1][FD0F:23][c0] was last

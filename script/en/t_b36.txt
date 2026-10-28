@@ -373,7 +373,7 @@ Young one! How about buying
  rate [c2][FD0E:46][c0] will
  fall.
 >3e38b0ec88
-[c1][FD0F:09][c0][n]"Welcome! What can I do
+[c1]Broker[c0][n]"Welcome! What can I do
  for ya?~
 >694acfb824 !
 [x4D][x4E][x4C]Ask for info

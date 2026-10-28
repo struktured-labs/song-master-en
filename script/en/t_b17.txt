@@ -91,7 +91,7 @@ Who are you people!?~
 %Hans:"I pray for your success!
  We're counting on you!!
 >900e588b51
-[c1][FD0F:0A][c0][n]"[FD0F:3C]
+[c1]Goblin[c0][n]"[FD0F:3C]
 >4e0c473f9d
  We've no time to play
  around here. Come! Let's
@@ -102,21 +102,21 @@ Who are you people!?~
 [n] We must rescue the
  [c1]prince[c0].
 >385bb21963
-[c1][FD0F:0A][c0][n]"Humans!! You shall not
+[c1]Goblin[c0][n]"Humans!! You shall not
  pass!!~
 %{1}:"Wait! We have not come
  to fight!!~
-[c1][FD0F:0A][c0][n]"Then what are you here
+[c1]Goblin[c0][n]"Then what are you here
  for!!~
 %{1}:"To tell you this war is
  pointless. Now! Take us to
  your king!!~
-[c1][FD0F:0A][c0][n]"Silence! What's the use
+[c1]Goblin[c0][n]"Silence! What's the use
  now!! Get 'em!!~[0C]%{7}:"No good! These guys
  aren't the talking type!!
  What now! ^1!!~[0C]"Hold!
 >1378616534
-[c1][FD0F:0A][c0][n]"Ah! Lord [c1][FD0F:07][c0]!!~
+[c1]Goblin[c0][n]"Ah! Lord [c1][FD0F:07][c0]!!~
 >c087bff05f
 [n][c1][FD0F:07][c0][n]"You! Explain what you
  just said!!~[0C] ^1 explained everything
@@ -169,10 +169,10 @@ Who are you people!?~
  perhaps I may accept your
  offer[FD0F:3D]
 >b26d7784f5
-[c1][FD0F:0A][c0][n]"Your Majesty, terrible
+[c1]Goblin[c0][n]"Your Majesty, terrible
  news!!~
 [c1][FD0F:06][c0][n]"What is it!?~
-[c1][FD0F:0A][c0][n]"The [c1]prince[c0] has been
+[c1]Goblin[c0][n]"The [c1]prince[c0] has been
  taken by humans!!~
 >5f2c3b1e37
 [0C][c1][FD0F:06][c0][n]"What!? Curse you! Humans!!
@@ -187,7 +187,7 @@ Who are you people!?~
  say! Drive these people
  out!!
 >5b593e6671
-[c1][FD0F:0A][c0][n]"Your Majesty! This human
+[c1]Goblin[c0][n]"Your Majesty! This human
  says she has business with
  these people.~
 >62772027a8
