@@ -1,0 +1,183 @@
+# b23-b24: Lancafarn (Cygnus Castle), Benjie, temple. Skipped data: cf48275e5f
+>ed537801ef
+%Gatekeeper:"
+>97c243f905
+Halt! This is
+ [c2][FD0E:11][c0]'s castle,
+ [c2]Cygnus Castle[c0]!!~
+"Suspicious lot! Be off with
+ you at once!!
+>cb678e348e
+Ah, Lord ^0!
+>338f8cddef
+Please, go right in!!
+>9c143d324d
+[c1]King [FD0F:03][c0] has already
+ led the army to the
+ [c2]Central Plains[c0].
+>fb862720ff
+%{1}:"Let's look around town a
+ little more!!
+>7eb94b44d6
+%{1}:"Come! Let's hurry on!!
+>b915466436
+Lots of [c1][FD0F:14]s[c0] around
+ here, so watch yourselves!!~
+"Heh heh[FD0F:3D]
+>a529d083b1
+H-hi there[FD0F:3D]
+>b894b916f3
+"You see a lot of [c1]guards[c0]
+ around lately.
+>3c87fce1db
+"Oh? If you're trying to
+ pick me up, forget it!!
+>bcd1f9f871
+"This is [c2][FD0E:11][c0], capital
+ of the [c2]Kingdom of
+ [FD0E:41][c0].
+>a7dd49c1c2
+They say [c1]Baron Goza[c0],
+ [c1]King [FD0F:03][c0]'s uncle, was
+ in league with [c1]Donon[c0].~
+"Now he's living quietly out
+ in the country, I hear.
+>dc033f24fc
+Who'd have thought the
+ [c1][FD0F:14][c0] ringleader was
+ [c1]Baron Goza[c0][FD0F:3D]
+>58eb260754
+"Hey! Long time no see!!~
+"[FD0F:40] Oh, wrong person!
+ Sorry, sorry!!
+>1e429d434e
+"Do you know our country's
+ hero, ^2?~
+"When the [c1]conqueror king
+ Donon[c0] of [c2]Agna[c0] tried
+ to conquer [c2][FD0E:41][c0], ^2
+ defeated [c1]Donon[c0] and saved
+ the country!!
+>bb11324b85
+%Guard:"
+>2e1464056f
+We're on patrol to keep the
+ peace in town.
+>98b8fb8559
+[c1]King [FD0F:03][c0] means to
+ end the rumor that this
+ country is a base for
+ [c1][FD0F:14]s[c0].
+>eeff2554ba
+Hm[FD0F:42] You lot look
+ suspicious!?
+>d4c820fcea
+At last we've destroyed
+ [c2][FD0E:3F][c0], the town of
+ [c1][FD0F:14]s[c0]!!
+>6cfff87f5c
+"What do you want? You're
+ annoying, get lost!!
+>8bed58d161
+~[0C]%{1}:"You must be
+ [c1][FD0F:1A][c0]?~[0C][c1][FD0F:1A][c0][n]"So what if I am?~
+%{1}:"^0! The password!!~
+>8b1e93e1c4 !
+[x14][x16][x14][x15]Looking for work?
+ Want to find work?
+ Work?
+ I forgot!!
+>544d0ddbf8
+"Hey! Gimme some money and
+ I'll tell ya somethin' good!!
+>dbb8d1142a
+%Guard:"
+>4f07294e48
+What? You want to talk to a
+ prisoner!?~
+"Well, all right. But don't
+ hand him anything!!
+>d389ccdd3e
+By [c1]King [FD0F:03][c0]'s order,
+ we've stepped up security
+ in town, [FD0F:39]~
+"Thanks to that, the cells
+ are never empty.
+>409e7b5110
+[0C][c1][FD0F:1A][c0][n]"What're you talkin'
+ about!?
+>8d489d8948
+[0C]%{1}:"^0! Pull yourself
+ together!!
+>7ccbb96655
+[0C][c1][FD0F:1A][c0][n]"...So, what do you want?~
+%{1}:"We'd like you to guide us
+ to [c2][FD0E:3F][c0].~[0C]
+>49866f0970
+[c1][FD0F:1A][c0][n]"Got it! Then on the next
+ full moon, order
+ [c2]"[FD12:8A]'s Tears"[c0] at
+ the [c2]tavern[c0]!!~
+"Then my pals'll guide you
+ to [c2][FD0E:3F][c0].
+>3703c0a8c8
+%{1}:"There's still a while
+ until the next full
+ moon[FD0F:3D]~
+"Let's go to [c2][FD0E:15][c0]
+ first and look for ^8.
+>c3d76dd0af
+%{0}:"Excuse me[FD0F:3D]~
+"....I got ignored.
+>bda8da5ddb
+[c1][FD0F:1A][c0][n]"Damn! Look what you did
+ to me.
+>b7d6dbb38c
+"Who are you? Don't just
+ walk into my house!!
+>4ef8c8af4a
+"We can live in peace thanks
+ to [c1]King [FD0F:03][c0].
+>95e73969d6
+"The strongest swordsman is
+ ^2!!
+>cd2a496e95
+Say[FD0F:3D] No! Never mind.
+>474bab1c29
+Just between us, the
+ [c1][FD0F:09][c0] seems to be
+ dealing with [c1][FD0F:14]s[c0].
+>f962e5e513
+Seems the [c1][FD0F:09][c0] got
+ caught in the end too.
+>2eb66b6f1d
+"You'd best listen carefully
+ to what people say.
+>a491a6ec7d
+"Travelers gather at the
+ [c2]station[c0], so you can hear
+ news from all over.
+>4d8cfff286
+[0C]"It costs 500 [FD0F:08]. Is
+ that all right?~
+>fc00be5eeb
+[0C][FD0F:2E]
+>826ba74a8b
+[0C]"You don't seem to have the
+ money[FD0F:3D]
+>387043749c
+[0C] ^0 donated 100
+ [FD0F:08]!!~[0C]"[FD0F:28] very much.~
+"Your goal will surely be
+ achieved.
+>b311ec3f3f
+%Priest:"This is the [c2]temple[c0] of
+ the god [c1]Taram[c0]. How may I
+ help you?~
+>2d793dc974 !
+[xFC][xF6][xFB]Donate
+ Receive a charm
+ Never mind
+>764382ec8c
+[0C]"May the gods protect
+ you[FD0F:3D]
