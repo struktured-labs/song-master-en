@@ -11,7 +11,7 @@
      "refs": [
       "0xae8d"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -27,7 +27,7 @@
      "refs": [
       "0xae8f"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -43,7 +43,7 @@
      "refs": [
       "0xae91"
      ],
-     "pre": "0001080f0306",
+     "pre": "0001090f0306",
      "items": [
       "Fight",
       "Item",
@@ -58,7 +58,7 @@
      "refs": [
       "0xae93"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -74,7 +74,7 @@
      "refs": [
       "0xae95"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -90,7 +90,7 @@
      "refs": [
       "0xae97"
      ],
-     "pre": "0001080f0306",
+     "pre": "0001090f0306",
      "items": [
       "Fight",
       "Item",
@@ -105,7 +105,7 @@
      "refs": [
       "0xae99"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -121,7 +121,7 @@
      "refs": [
       "0xae9b"
      ],
-     "pre": "0001080f0306",
+     "pre": "0001090f0306",
      "items": [
       "Fight",
       "Item",
@@ -136,7 +136,7 @@
      "refs": [
       "0xae9d"
      ],
-     "pre": "000108110306",
+     "pre": "000109110306",
      "items": [
       "Fight",
       "Magic",
@@ -152,7 +152,7 @@
      "refs": [
       "0xae9f"
      ],
-     "pre": "0001080f0306",
+     "pre": "0001090f0306",
      "items": [
       "Fight",
       "Item",
@@ -435,6 +435,12 @@
    "addr": "0x14a6f",
    "old": "a9 05 24 8f c4 4c 7e a9 dc 24",
    "new": "a9 00 24 8f c4 4c 7e a9 00 24"
+  },
+  {
+   "note": "battle magic-category popup width 9->10 so Spirit/Summon fit inside frame",
+   "addr": "0xb3ec",
+   "old": "a9 09 8d 9a 14",
+   "new": "a9 0a 8d 9a 14"
   }
  ]
 }
