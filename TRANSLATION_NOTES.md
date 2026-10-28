@@ -176,3 +176,5 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Viewed sheets for 5f, 64, 67, 68, 69, 6a, 6c, 6d, 6e, 6f, 70: clinic, inn (full/stay/500 Guillaume + Yes/No), Sion "Hey! Yury!!", stagecoach. No overflows; wraps look right.
 - Stagecoach choice windows (6e, 70) show "=a" / "/a" when forced by label jump: menu data is not set up outside real play. Needs checking in real play; not counted as a text bug yet.
 - pass3 labels 71–78 viewed (coach not running, caravan/Remi/Gordon): OK.
+- pass3 labels 79–c6 viewed (tavern job, drinks, Sion/Yury, caravan): no overflows. Currency evidence: the game's own popup reads "Got 100G!" (b0a lbl 9d), which supports rendering FD0F:08 as "G".
+- b0a lbl ac "They say Croixdor is attacking..." has no opening quote; JP b10_106 also has none in its own segment (the quote is a separate branch segment). Left as is.
