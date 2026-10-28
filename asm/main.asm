@@ -426,3 +426,8 @@ map_place:
   PLB
   PLP
   RTL
+
+; Name entry: open on the Latin page (script label $FE) instead of katakana ($FC).
+; JP 02:EA55 LDA #$FC / STA $02. Page cycling (02:E82x) is unchanged.
+org $02EA55
+  LDA #$FE
