@@ -277,3 +277,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 ## Choice-menu check 5
 - Option windows wrap past 16 characters (viewed: coach, password, Jack-in-cell menu wrapped). Rule: each option ≤16 chars.
 - Shortened: "Ride the coach!" (b10/25), password menu "Seeking work?/Finding work?" with matching hint in b25, "Aw, let him out!" (b16), "Can't ignore it!/No time for it!" (b46).
+
+## Walker / NPC check (2026-10-28)
+- tools/test/walk.lua + wk.sh: scripted walker. WRAM entity table at 0xD84 + 12*k (k=0 player; x at +4, y at +6; slot active if +1..+3 nonzero). 0xE44 is scroll, not map id. Step {'talk',k,timeout,side} steers next to entity k and presses A.
+- School exit: corridor y=1183, go down at x=328. Viewed: classmate (b06 8f0d9869ed, JP 《うた》 rendered as <songs>), pier priest (Amsia/Limerick), tavern barkeep menu "A drink, please!/Never mind!" fits.
