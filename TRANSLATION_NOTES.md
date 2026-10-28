@@ -84,4 +84,5 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - Status screen: Atk Pwr/Def Pwr/Speed/Rhythm/Weapon/Shield/Armor/Helm; equip screen uses Atk/Def/Spd/Rhy (4-cell limit before the number).
 - Gold window: お金 label is drawn by code (02:8E50 area / shop) as two tiles; blanked, amount keeps its "G".
 - Known: red OBJ garbage strip appears at the bottom of the status/equip screen in the headless savestate test; it is identical in a build without UI changes (not caused by the patch, origin unverified).
-- Not yet verified on screen: battle windows, config screen, save/load labels, MP Cost.
+- Config screen verified (Text Speed Slow/Fast, Sound Stereo/Mono).
+- Not yet verified on screen: battle windows, save/load labels, MP Cost, ailment names.

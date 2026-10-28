@@ -391,6 +391,36 @@
      ]
     }
    ]
+  },
+  {
+   "note": "config: message speed (fixed position, 2 strings)",
+   "start": "0x16CA7",
+   "end": "0x16CC2",
+   "strings": [
+    {
+     "jp": "かいわ スピード / おそい … はやい",
+     "orig": "0x16ca7",
+     "items": [
+      " Text Speed",
+      "Slow     Fast"
+     ]
+    }
+   ]
+  },
+  {
+   "note": "config: sound",
+   "start": "0x16CC2",
+   "end": "0x16CDB",
+   "strings": [
+    {
+     "jp": "サ ウ ン ド / ステレオ   モノラル",
+     "orig": "0x16cc2",
+     "items": [
+      "    Sound",
+      "Stereo  Mono"
+     ]
+    }
+   ]
   }
  ],
  "patches": [
