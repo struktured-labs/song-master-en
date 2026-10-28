@@ -155,7 +155,7 @@ The [FD0F:2B] was attacked by
 "More important, get me
  outta here! Please!!~
 >e9bd6317b9 !
-[x27][x28]Poor guy, let him out!
+[x27][x28]Aw, let him out!
  No! He stays in!!
 >144e69532b
 %{5}:"Thanks! I owe ya one!!~

@@ -83,8 +83,8 @@ At last we've destroyed
  [c1][FD0F:1A][c0]?~[0C][c1][FD0F:1A][c0][n]"So what if I am?~
 %{1}:"^0! The password!!~
 >8b1e93e1c4 !
-[x14][x16][x14][x15]Looking for work?
- Want to find work?
+[x14][x16][x14][x15]Seeking work?
+ Finding work?
  Work?
  I forgot!!
 >544d0ddbf8

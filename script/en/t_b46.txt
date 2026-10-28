@@ -116,8 +116,8 @@ The girl from the house to
  [c1][FD12:5C][c0]! Hey!
  Mister! Save her!!~
 >8c4fbc018f !
-[x8D][x8E]Can't ignore this!
- No time for that!
+[x8D][x8E]Can't ignore it!
+ No time for it!
 >504a0bdad4
 [0C]"Mister! Thank you!!~
 "

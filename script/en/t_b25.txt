@@ -1,5 +1,5 @@
 # b25: Lancafarn underworld: broker, password, tavern "Griffon's Tears", Sam. Skipped data: f16e299f4f 717256c43e 2f0bee410f 1ce2770dfe 7b5f49c792
-# Password must match the b24 menu option "Want to find work?".
+# Password must match the b24 menu option "Finding work?".
 >6d5d4cbb14
 If you're done, don't come
  back!!
@@ -23,7 +23,7 @@ Forgot already?~
  [c1][FD0F:1A][c0], and he'll
  take you to [c2][FD0E:3F][c0].~
 "The password is
- "Want to find work?"
+ "Finding work?"
  Got it?
 >0efdd11412
 [0C]"You ain't got the money!!~

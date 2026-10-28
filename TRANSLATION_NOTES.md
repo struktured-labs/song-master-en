@@ -273,3 +273,7 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - Real talk to the b10 broker: Limerick NPC (record F05B) with label poked to 2d and $054A=0a held so the next talk loads b10.
 - FIXED (real bug): every choice menu with [xHH] option ids was broken. Op 2E reads ids and option text inline from the block, so the FD30 string stub was read as ids and the stub bytes as text ("Ma", "=a", "/a", "c", "d" popups). Choice strings are now encoded inline in the block, with [n] (FD0D) between options as in the JP.
 - Viewed after fix: b10 broker greeting and the help-wanted menu "Tavern helper / Thomas's request / Goblin hunt / Never mind" fully drawn; choosing "Ask for info" gave "Then it's the tavern to the lower right...". Coach and 28 4b menus use the same path but are not yet viewed.
+
+## Choice-menu check 5
+- Option windows wrap past 16 characters (viewed: coach, password, Jack-in-cell menu wrapped). Rule: each option ≤16 chars.
+- Shortened: "Ride the coach!" (b10/25), password menu "Seeking work?/Finding work?" with matching hint in b25, "Aw, let him out!" (b16), "Can't ignore it!/No time for it!" (b46).

@@ -94,7 +94,7 @@ There won't be a ship to
  [c2]station[c0].~
 "How can I help you?~
 >28e6d57f1f !
-[x70][x6F]I want to ride the coach!
+[x70][x6F]Ride the coach!
  Never mind
 >91c45eb70d
 [0C][FD0F:36]
