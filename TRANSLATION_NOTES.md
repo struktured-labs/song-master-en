@@ -87,3 +87,14 @@ Doubtful: "Christ" place name from the list; may want a rename.
 - Item/magic short names are abbreviated to the 8-cell JP limit (e.g. LthArmor); review wording later.
 - Config screen verified (Text Speed Slow/Fast, Sound Stereo/Mono).
 - Not yet verified on screen: battle windows, save/load labels, MP Cost, ailment names.
+
+## Untranslated-id audit (172 ids flagged by a dump-vs-translation diff)
+- b01 ids 1-18: staff credits, already uppercase ASCII in the ROM, render natively; no translation needed.
+- b02: the three name-entry pages (katakana 0x156, hiragana 0x238, Latin 0x311) - now replaced in place via script/en/raw_inplace.json (same cell geometry; hiragana page = a-z, digits, punctuation; "End").
+- Everything else: parser false positives (data bytes read as text: 'D中あああ…ヨヨヨ', 'お      計', 'あくおき' etc.), and lone 「 strings (the opening quote is split off into its own op; byte 0x70 already renders as '"' in the EN font, so they need no change).
+
+## Item/armor names: 8-char abbreviations kept (decision)
+- Narrow-glyph pair / ligature tiles were considered: only ~23 free tile codes (old hiragana 1E-34), while ~134 long names would need ~5 distinct pair tiles each. A VWF would require rewriting the window renderer. Abbreviations are the more robust choice; they are polished by hand in lists_short.json.
+
+## Test-only WRAM map (for Mesen Lua pokes; never shipped)
+- Names 7E:0AF8 (16 bytes each); stats records ~7E:0A08; gold 7E:0B7A (24-bit LE); inventory (id,count) pairs 7E:0BDE-0C13; item id = lists index + 1.
