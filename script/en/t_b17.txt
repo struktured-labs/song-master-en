@@ -1,0 +1,288 @@
+# b17: Goblin war front, Vanvar (goblin town), King Orin, Gibron, Red Orb. Skipped data: 43853677dc aec2f4f283 7d4aed0818 bb731afbac
+>c2775e7522
+"We've chased the [c1][FD0F:0A]s[c0]
+ into the cave!!
+>94fb80e992
+"Halt! It's dangerous to go
+ any further!!
+>e838519334
+~
+"What!? You'll negotiate a
+ ceasefire!!~
+"...Very well! Take great
+ care!!
+>677b75cc82
+"Beyond here is the
+ [c1][FD0F:0A][c0] town! We charge
+ as soon as everyone's here!!
+>89f9b33636
+"Take care!!
+>5226bc70b2
+"Those [c1][FD0F:0A]s[c0] fled into
+ the cave with barely a
+ fight!!
+>487326167f
+"We've had the upper hand so
+ far, but in the dark we're
+ no match for [c1][FD0F:0A]s[c0].
+>2149ec0d2e
+Good work!!~
+[n]
+>7ba0dac970
+We'll do everything we can
+ too! We're counting on
+ you!!
+>01b6517b55
+Who are you people?
+>bb43bb516a
+We're waiting for the other
+ units to arrive.
+>9d13abc296
+%Hans:"
+>2d50d6adf3
+Oh! What of the [FD0F:2B]?~
+%{1}:"We were too late[FD0F:3D]
+ The [FD0F:2B] had already
+ been wiped out[FD0F:3D]~[0C]%Chief:"[FD0F:3C]~
+%Hans:"Grr[FD0F:42] Curse those
+ [c1][FD0F:0A]s[c0]!!
+>a6367165d3
+~[0C]%{0}:"You're wrong!!~
+%Hans:"...? Wrong about what!?~
+%{0}:"It wasn't [c1][FD0F:0A]s[c0]
+ that attacked the [FD0F:2B]!
+ It was [c1]bandits[c0]!!~
+"And not only that!
+ Everything blamed on the
+ [c1][FD0F:0A]s[c0] was the
+ [c1]bandits[c0]' doing!!~
+%Chief:"What! Is that true!?~
+%{0}:"Yes! The [c1]bandits[c0] made
+ it look to the villagers
+ and the [c1][FD0F:0A]s[c0] like
+ each had attacked the
+ other, planning to raid the
+ village once war began.~[0C]%Chief:"Is the village safe!?~
+%{0}:"It's all right. The
+ [c1]bandit[c0] boss got away,
+ but we dealt with the other
+ [c1]bandits[c0].~
+"So please! Stop fighting
+ the [c1][FD0F:0A]s[c0] at once!!~
+%Hans:"...But the fighting is
+ well along. Whether the
+ [c1][FD0F:0A]s[c0] will listen
+ now[FD0F:3D]~[0C]%{1}:"We will negotiate with
+ them. Please, allow us.~
+%Chief:"...Very well! I'll take
+ full responsibility!
+ We're counting on you!!
+>975d60c209
+Who are you people!?~
+%{1}:"We are travelers.~
+"We've come because there
+ is something you must
+ know.~[0C]%Hans:"What is it?~
+%{1}:"A [FD0F:2B] was attacked
+ near [c2][FD0E:03][c0][FD0F:3D]~[0C]%Hans:"What!? Curse those
+ [c1][FD0F:0A]s[c0]! Attacking a
+ [FD0F:2B], too!!
+>a0483bea7c
+%Hans:"I pray for your success!
+ We're counting on you!!
+>900e588b51
+[c1][FD0F:0A][c0][n]"[FD0F:3C]
+>4e0c473f9d
+ We've no time to play
+ around here. Come! Let's
+ hurry to [c2][FD0E:11][c0]!!
+>0421a3f2a3
+%{1}:"^0!
+>f25d9665d2
+[n] We must rescue the
+ [c1]prince[c0].
+>385bb21963
+[c1][FD0F:0A][c0][n]"Humans!! You shall not
+ pass!!~
+%{1}:"Wait! We have not come
+ to fight!!~
+[c1][FD0F:0A][c0][n]"Then what are you here
+ for!!~
+%{1}:"To tell you this war is
+ pointless. Now! Take us to
+ your king!!~
+[c1][FD0F:0A][c0][n]"Silence! What's the use
+ now!! Get 'em!!~[0C]%{7}:"No good! These guys
+ aren't the talking type!!
+ What now! ^1!!~[0C]"Hold!
+>1378616534
+[c1][FD0F:0A][c0][n]"Ah! Lord [c1][FD0F:07][c0]!!~
+>c087bff05f
+[n][c1][FD0F:07][c0][n]"You! Explain what you
+ just said!!~[0C] ^1 explained everything
+ that had happened.~[0C][c1][FD0F:07][c0][n]"If that's true, I must
+ tell [c1][FD0F:06][c0].~
+"Follow me! You will meet
+ [c1][FD0F:06][c0]!! But try
+ anything strange and you
+ die on the spot!!~
+"Now, follow!!
+>62a5e57646
+[c1][FD0F:07][c0][n]"[c1][FD0F:06][c0]! I have
+ brought them!!
+>bf7845035e
+~
+[c1][FD0F:06][c0][n]"I have heard your story.
+ But I cannot stop the war.~
+%{0}:"Why not!?~[0C][c1][FD0F:06][c0][n]"Even if the [c1]bandits[c0]
+ schemed it, it was still
+ the work of humans.~
+"We will fight to the end
+ against any who threaten
+ us [c1][FD0F:0A]s[c0], even in a
+ losing battle!!~
+%{1}:"[c1][FD0F:06][c0], I am ^1, who
+ leads the [c1]elves[c0].~
+"Fighting further is
+ useless for both sides.~
+"For my sake, will you not
+ withdraw?~
+[c1][FD0F:06][c0][n]"So you are ^1, king of the
+ fairies!! Word of you
+ has reached even here in
+ [c2][FD0E:37][c0].~
+"But even at your
+ request[FD0F:3D]~
+%{1}:"[c1][FD0F:06][c0], should not
+ wrongs be set right?~
+"Just as when you
+ [c1][FD0F:0A]s[c0], a clan of
+ darkness, once rose against
+ [c1][FD12:EC][c0]!!~
+[c1][FD0F:06][c0][n]"....King ^1! So it
+ was[FD0F:3D]~
+"We [c1][FD0F:0A]s[c0] broke free of
+ [c1][FD12:EC][c0]'s bonds, and
+ the god [c1]Aram[c0] allowed us
+ to live alongside humans[FD0F:3D]~
+"For my people's sake,
+ perhaps I may accept your
+ offer[FD0F:3D]
+>b26d7784f5
+[c1][FD0F:0A][c0][n]"Your Majesty, terrible
+ news!!~
+[c1][FD0F:06][c0][n]"What is it!?~
+[c1][FD0F:0A][c0][n]"The [c1]prince[c0] has been
+ taken by humans!!~
+>5f2c3b1e37
+[0C][c1][FD0F:06][c0][n]"What!? Curse you! Humans!!
+>b058ea36d9
+[n]"Lord ^1! Humans cannot be
+ trusted after all. There is
+ no room left to negotiate!
+ Leave at once!!~
+%{0}:"Please wait! This is
+ some mistake!!~
+[c1][FD0F:06][c0][n]"I have nothing more to
+ say! Drive these people
+ out!!
+>5b593e6671
+[c1][FD0F:0A][c0][n]"Your Majesty! This human
+ says she has business with
+ these people.~
+>62772027a8
+[n]%{7}:"[c1]Remi[c0][FD0F:41] It's
+ [c1]Remi[c0]!! What are you
+ doing here!?~
+>a7a49fc2f7
+[n]%Remi:"It's terrible, ^7!!
+ [c1]Bandits[c0] had slipped
+ into the hunting party!!~
+"It seems they snuck into
+ the cave while no one was
+ looking.~
+"I thought the [c1]bandits[c0]
+ might take revenge on you,
+ so I came to warn you.~
+%{7}:"Don't be so reckless!!~
+%{0}:"Wait! Then the ones who
+ took the [c1]prince[c0] were
+ the [c1]bandits[c0]!!~
+[c1][FD0F:06][c0][n]"What...!? If so, those
+ [c1]bandits[c0] must be after
+ the [c2]Red Orb[c0]!!~
+[n]
+>6add5a0dfa
+%{1}:"The [c2]Red Orb[c0]!? The
+ [c2]Red Orb[c0] of legend?~
+[c1][FD0F:06][c0][n]"Indeed. A special barrier
+ surrounds the place where
+ the [c2]Red Orb[c0] is kept, and
+ only [c1][FD0F:0A][c0] children
+ are unaffected by it.~
+"And it is said that if the
+ barrier is broken, terrible
+ things will happen.~
+"So we cannot even go near
+ it. What are we to do?~[0C]
+>8f87fb1f0f
+[c1][FD0F:07][c0][n]"[c1]Your Majesty[c0]! Why not
+ ask these people to rescue
+ the [c1]prince[c0]?~
+"Being human, they should be
+ able to reach the very
+ bottom! Shall we not leave
+ it to them?~
+[c1][FD0F:06][c0][n]"...It cannot be helped.~
+"Lord ^1! It is selfish of
+ me, but please, rescue the
+ [c1]prince[c0].~
+"When he returns safely, I
+ shall grant your request.~
+%{1}:"Understood. We will bring
+ the [c1]prince[c0] back safely.~
+[c1][FD0F:06][c0][n]"I am grateful! But just
+ in case, one of you will
+ stay here! Agreed!!~[0C]%{7}:"What!? That makes them a
+ hostage!!~
+%Remi:"I'll stay!!~
+>6f79d0f1bd
+[0C]%{7}:"[c1]Remi[c0]! What are you
+ saying!! That's[FD0F:3D]~
+[n]
+>73a94a7fd1
+%Remi:"No! [FD0F:29] not much use
+ otherwise, and I'm the
+ daughter of
+ [c2][FD0E:03][c0]'s [c1]chief[c0]!
+ So this role has to be
+ mine[FD0F:3D]~
+"Besides, I believe in
+ you... that you'll come back
+ safe.~
+%{7}:"[c1]Remi[c0]... All right. I'll
+ come back for sure. Wait
+ for me till then.~
+>38c388ff24
+[0C]%{1}:"[c1][FD0F:06][c0]! Then please
+ tell us where it is.~
+[c1][FD0F:06][c0][n]"[c1][FD0F:07][c0]! Show them
+ the way.~
+[n]
+>6fb4f25da7
+[c1][FD0F:07][c0][n]"Yes, sire! Now, follow
+ me.
+>4680921c96
+[c1][FD0F:07][c0][n]"This is the entrance!
+ [FD0F:1E]s roam inside, so
+ be careful.~
+"Also, you can buy what you
+ need in town.~
+"Then I'm counting on you!!
+>9db3cc6bc4
+%{0}:"What, it's empty.~
+>f4b562a95c
+[n]"Oh no! A trap!!
+>ea4e3e8529
+%{0}:"Can't carry any more[FD0F:3D]~
+"Oh well, I'll give it up.

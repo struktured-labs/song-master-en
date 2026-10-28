@@ -1,0 +1,131 @@
+# b18-b20: Vanvar town and castle. Skipped data: cf12f6f958 63b399e602
+>bf4a7c46da
+[c1][FD0F:0A] Soldier[c0][n]"Beyond here is
+ [c1][FD0F:06][c0]'s castle!!
+>fe97c8bc71
+[c1][FD0F:0A] Soldier[c0][n]"Hey! Don't go wandering
+ around on your own!!
+>9f9b434423
+[c1][FD0F:0A][c0][n]"
+>eb3737e186
+We only want to live in
+ peace, but humans
+ misunderstand us!!
+>d97c44feb0
+Seems it wasn't only the
+ humans who misunderstood.
+ We did too.
+>9f269d3227
+I've nothing to say to
+ humans!!
+>04ab5dc0ff
+Seems not all humans are
+ bad.
+>7213072ea2
+We can go no further. We're
+ counting on you.
+>d8df283645
+[FD0F:28]! You saved us!!
+>ef6c5fa055
+[c1][FD0F:0A][c0][n]"This is [c2][FD0E:37][c0]! The
+ town ruled by the great
+ [c1][FD0F:06][c0]!!
+>b6f21c3b52
+It's locked!!
+>8b37f0dc06
+[c1][FD0F:0A] Soldier[c0][n]"This is [c2][FD0E:37]
+ Castle[c0]!!
+>7f1c4bcc22
+Entry beyond here is
+ forbidden.
+>506677bea1
+I have heard.~
+"This way leads to
+ [c2][FD0E:11][c0], but once
+ inside, you cannot come
+ back! Is that all right?~
+>61ff364f00
+[0C]"Then I shall break the
+ seal!!
+>f32a9d90eb
+"Now you can pass. Go
+ carefully.
+>3e958297a7
+%{7}:"Hey! Wait for me!!
+>12854ad626
+%{7}:"I got [c1]Remi[c0] home safe.
+ Come on! Let's go!!
+>6b0f1894c4
+[0C]"Come back when you're
+ ready.
+>7cc4719f5a
+You'd best be well prepared
+ before you go.
+>100a9e5fa0
+[c1][FD0F:0A][c0][n]"Need a weapon!?
+>25ed4135f8
+"Come back when you need
+ something!!
+>cde70d1acc
+[c1][FD0F:0A][c0][n]"Got all kinds of armor!!
+>7b7aaba86f
+"[FD0F:2C]
+>0ff31a747c
+[c1][FD0F:0A][c0][n]"If you wish, I'll restore
+ your strength.~
+>60d2241d0e
+[0C]"Then I'll heal you!!~
+>e20f10ac94
+[0C]"There! That'll do.
+>dd67ed86e5
+[0C]"Come any time you need
+ it!!
+>2519d8d2f9
+[c1][FD0F:0A][c0][n]"Want your wounds
+ treated?
+>a235e5acf7
+"Up ahead, you'd better
+ have [c2][[FD10:70]][c0] and
+ [c2][[FD10:7B]][c0] with you!!
+>dd565bc9ff
+[c1][FD0F:0A] Soldier[c0][n]"King's orders or not, I
+ can't be friends with
+ humans!!
+>555d76627c
+They say humans took the
+ [c1]prince[c0]!!~
+"Humans can't be trusted
+ after all!!
+>efc5188585
+You folks aren't bad.
+>6b6c74974d
+It's not like we fight
+ because we enjoy it.
+>eeb5803b32
+I've had enough of fighting.
+>76e7342478
+[c1][FD0F:0A][c0][n]"You'll find most things
+ here.
+>a5aae1cb7f
+[c1][FD0F:0A] Soldier[c0][n]"
+>8a339e28e4
+Good luck!!
+>4631019eee
+Well done! I pray for your
+ safety.
+>aef6cc14a3
+[c1][FD0F:07][c0][n]"
+>067a31ed55
+Rescue the [c1]prince[c0] as
+ soon as you can!!
+>42aee66d4b
+[c1][FD0F:06][c0][n]"
+>b223145a4f
+What is it? Is the [c1]prince[c0]
+ not rescued yet!?~[0C]%Remi:"Don't worry about me.~
+"Just hurry and rescue the
+ [c1]prince[c0].
+>3ee442bf2b
+I pray you make it through
+ safely.~[0C]%Prince:"[FD0F:43]Everyone,
+ [FD0F:28]!!

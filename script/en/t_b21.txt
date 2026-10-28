@@ -1,0 +1,195 @@
+# b21: Red Orb shrine, bandits devoured, peace with goblins, Jack steals. Skipped data: 8d94f9f0a0 a2cc4dae9b 23a7e1c0cd b43907539d 69bd25834e
+>96769c365d
+[c1][FD12:58][c0][n]"What!? Who are you!?~
+>f37a16f7c4
+[0C][c1][FD12:57][c0][n]"What!? ...Y-you! Here to
+ get in our way again!!~
+%{7}:"Now! Hand over the
+ [c1][FD0F:0A][c0] [c1]prince[c0]!!~
+>e517079610
+[n][c1][FD12:57][c0][n]"Damn! Come any closer and
+ the brat's dead!!~
+%{0}:"Grr[FD0F:42] Coward!!~
+>a617863039
+[0C][c1][FD0F:16][c0][n]"Now that I have the
+ [c2]Orb[c0], I have no further
+ use for you! Do as you
+ please with them!!
+>654723cd0b
+[c1][FD12:57][c0][n]"Heh heh[FD0F:42] That's how
+ it is!! Stay put till we're
+ out of here!!
+>9192df6f37
+[c1][FD12:57][c0][n]"[FD0F:41] What are you
+ doing!!~
+[c1][FD12:58][c0][n]"Heh heh[FD0F:42] Forgot
+ about me?~
+>a2ba42d78c
+[n]%Boss:"Y-you're ^5!!~
+>c99701be4f
+[0C]%{5}:"
+>5ddc3a6789
+Heh! If you'd helped me out,
+ this wouldn't have
+ happened!!
+>6caf80d5d3
+^0! That pays back what I
+ owed ya!!
+>c23f9ade4b
+[0C]"Well now! Looks like the
+ tables have turned!!~
+>2349f9bc00
+[n][c1][FD12:57][c0][n]"Damn it!!~
+"Boys, get 'e
+>2ecec5f9f6
+m[FD0F:41]
+>63f0993172
+~
+"Wh-what was that...?~
+>3c96f1d954
+[0C]"GROOOAAAR!!~
+>38df256129
+[0C][c1][FD12:57][c0][n]"What!? What was that
+ voice...?~
+>9ab6fc0ec3
+[0C][c1][FD12:58][c0][n]"AAAGH!!
+>3a3e37c154
+~[0C][c1][FD12:58][c0][n]"WAAAH!!
+>50647c7d69
+[0C][c1][FD12:57][c0][n]"H-help[FD0F:42] AAAGH!!
+>5be849671a
+%{0}:"What on earth was
+ that...?~
+%{1}:"That was likely a servant
+ of [c1][FD12:EC][c0], sealed
+ here by the gods long ago.~
+"Never mind that, hurry to
+ [c1][FD0F:06][c0]! Come,
+ [c1]prince[c0]! Let's go back!!
+>fc48d4058c
+[c1][FD0F:06][c0][n]"Well done, all of you!!
+ The [c1]prince[c0] has returned
+ safely. As promised, we
+ shall make peace with the
+ humans.~
+%{1}:"[FD0F:28], [c1][FD0F:06][c0].
+ But the [c2]Orb[c0] was taken
+ away[FD0F:3D]~
+[c1][FD0F:06][c0][n]"Losing the [c2]Orb[c0] granted
+ by the gods weighs on me.~
+"But it is no price for the
+ [c1]prince[c0]'s life. It
+ cannot be helped[FD0F:3D]~[0C]"More importantly, I ask
+ that you never again enter
+ our lands! Understood!
+ Lady [c1]Remi[c0]!!~
+>4d6e3cd383
+[n]%Remi:"Understood, [c1][FD0F:06][c0].
+ I will be sure to tell the
+ villagers.~[0C]%{1}:"By the way,
+ [c1][FD0F:06][c0]. I've heard
+ that deep in this cave is
+ a path leading to
+ [c2][FD0E:11][c0].~
+"In truth, we are on our way
+ to [c2][FD0E:43][c0].~
+"Unfortunately, the road
+ above ground is blocked, so
+ if possible, we'd like
+ permission to use that
+ path.~
+[c1][FD0F:06][c0][n]"Hmm[FD0F:3D] It does exist,
+ but it has not been used
+ for a long time.~
+"Ages ago it was sealed for
+ a reason, and no one has
+ entered since[FD0F:3D] By now
+ it must be a [FD0F:1E] den.~
+"If you would still go, I
+ have no objection[FD0F:3D]~
+>396475e642
+[0C]%{1}:"What shall we do, ^0?~
+%{0}:"...We accept
+ [c1]His Majesty[c0]'s kindness.~
+>a01cad30c9
+[0C][c1][FD0F:06][c0][n]"Very well, I shall arrange
+ it. And though it is no
+ reward, you may take any
+ treasure you find inside.~
+>315e97b2b1
+[n]%{5}:"That's a king for ya!
+ How generous!!~
+>54fc6972b3
+[n]%{0}:"^5! Don't push your
+ luck!!~
+>52b5d9e752
+[0C]%{1}:"[c1][FD0F:06][c0]! I truly hope
+ nothing like this ever
+ happens again. Now, we
+ shall be on our way.~
+[c1][FD0F:06][c0][n]"Mm! I wish you a safe
+ journey. Farewell!!
+>960518d501
+[0C]%Remi:"Everyone, [FD0F:28] so
+ much.~
+"I think the village will be
+ back to normal now. If you
+ ever come nearby, please
+ drop by.~
+"Take care! Goodbye.~
+%{7}:"Ah! I'll walk you to the
+ cave exit!!~
+>a64e13b18a
+[n]"Go on ahead, ^0! I'll
+ catch up soon!!
+>5ebc6d50d5
+%{5}:"Phew! Finally out!!~
+>30abbe8b48
+[n]"Guess I'll take my leave
+ here! Got urgent business
+ in [c2][FD0E:11][c0]!!~
+"See ya! So long!!
+>a05ace1c34
+%{1}:"^0! This is the forest
+ ruled by [c1]Cybele[c0].~
+%{0}:"[c1]Cybele[c0]...?~[0C]%{1}:"Let's see... in human
+ terms, she's my
+ sister-in-law.~
+"Shall we stop by and say
+ hello?~
+%{0}:"Sure.~[0C]%{1}:"Then it's up ahead!
+ Let's go!!
+>d77b744ae7
+%{1}:"[FD0F:41] ^0! What's
+ wrong?~[0C]%{0}:"It's gone[FD0F:42] The
+ [c2][FD10:92][c0] is gone!!~
+"It was in my pocket just a
+ moment ago[FD0F:3F]~
+"Oh no! It was ^5!!
+ ^5 took it!!~[0C]%{7}:"That rat! Can't let your
+ guard down for a second!!~
+%{1}:"Unfortunately, even if
+ we chase him now, we won't
+ make it[FD0F:3D]~
+"^5 said earlier he had
+ business in [c2][FD0E:11][c0].
+ Probably to sell off what
+ he stole.~
+"Because [c2][FD0E:11][c0] is
+ also called the town of
+ [c1][FD0F:14]s[c0], and a [c1][FD0F:14][c0]
+ black market is said to be
+ held there.~
+"We pass through
+ [c2][FD0E:11][c0] anyway.
+ Let's catch ^5 there.
+>2cb9406522
+[0C]"That's odd, I don't have
+ anything like that???
+>83e680c44a
+"...Hm? What, can't move?
+ Can't be helped! I'll fix
+ ya up!!~
+>2f5e73c4ed
+[0C]"That should do it!!~
+"See ya!!
