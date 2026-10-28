@@ -1,0 +1,25 @@
+# b02: system/shop messages. name-entry grids (8ea618846d, 4cf4ae02ed, fffd96194c) left as-is: they are tile layouts.
+>d5db1c5faf
+Got [c2][FD13][c0]
+ x[FD14]!
+>1e36fc99b0
+Got [FD13]G!
+>8e238a10d3
+  Not enough money.
+>26f7eaabef
+Can't carry any more
+ [FD13].
+>136fd70a75
+Can't sell [c2][FD13][c0]!
+>ea26caf784
+   Nothing is wrong.
+>ba9f2a83a6
+  Can't use magic!
+>12f38c010c
+   Not enough MP!
+>4e01a7d43e
+ Can't use on the field!
+>ed046ee193
+Can't use [c2][FD13][c0]!
+>60fc42351f
+  No effect!

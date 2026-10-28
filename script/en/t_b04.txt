@@ -1,0 +1,157 @@
+# b04-06: Tiris (singer school town), departure. %X: = [c1]X[c0][n]  ^N = coloured name  + = no newline
+>e58f49c110
+%Teacher:"Again?! ^0[FD0F:3D]~
+>7be87bafab
+[n]%{0}:"I'm sorry[FD0F:3C]
+>276de9623f
+"Honestly, ^0, your power
+ never ceases to amaze me.~
+>ac59cc03e0
+[0C]"Still, it always ends up
+ interrupting the lesson.~[0C]
+>5ae867d2d0
+%Teacher:"Quiet, everyone!
+>4e82698bd4
+~
+"^0, in singing, control
+ matters more than power.~
+"Right now your power
+ outweighs your control,
+ so all that excess power
+ runs wild.~
+"You need spiritual
+ training.~
+"Go and calm yourself a
+ little.~
+%{0}:"Yes...
+>b1c15dd50c
+"Don't let it get to you, ^0.~[0C]%{0}:"Thanks[FD0F:3D]
+>fd3e6c86ed
+%Robinton:"^0... so it was you
+ after all.~
+%{0}:"Grandfather... I'm sorry,
+ I did it again[FD0F:3D]~
+%Robinton:"Well! What's done is done.
+ More importantly, I need to
+ talk to you. Come with me
+ to my room.
+>608c3eea81
+%Robinton:"Now then, ^0.
+ No one would ever doubt
+ that you hold a Singer's
+ power second to none.~
+"And lately, that power
+ seems to grow stronger
+ by the day.~
+"But you lack the strength
+ to control it. This is a
+ serious matter, ^0.~
+"If only your power keeps
+ growing like this, it may
+ bring you misfortune, or
+ even destroy you.~
+%{0}:"[c1]Grandfather[c0][FD0F:3D]~[0C]%Robinton:"No, ^0, I don't mean
+ to frighten you.~
+"You are still young. Your
+ trials are only beginning.
+ You must gain far greater
+ control.~
+"But it will be hard to
+ gain such strength here.~
+"So I intend to send you on
+ a journey. Luckily, an old
+ friend of mine will stop by
+ here during his travels.~
+"Travel with him and learn
+ many things! And search for
+ a man named ^8!!~
+%{0}:"^8?~[0C]%Robinton:"Yes. Long ago, he and I
+ strove together to become
+ [c1]Song Masters[c0].~
+"But he came to doubt the
+ [c2]Singer Guild[c0] as it is
+ now, preached a return to
+ [c1]St. Kane[c0]'s teachings,
+ and left [c2]Tiris[c0].~
+"Perhaps he was the true
+ [c1]Song Master[c0].~
+"^0, find ^8 and have him
+ teach you!!~
+"He will surely guide you
+ down the right path.~
+"Now! Use this to prepare
+ for your journey, then go
+ to the [c2]Temple[c0] and pray
+ for a safe trip.~
+>ccc679a0bb
+[0C]"And don't forget to say
+ goodbye to [c1]Marsha[c0], who
+ has looked after you.~
+"Come back when you are
+ ready to set out.
+>872d098889
+"[c2]Tiris[c0] here is a town of
+ [c1]Singers[c0].~
+"It began when [c1]St. Kane[c0]
+ opened a school for Singers
+ on this land.
+>f96e9acb7a
+"What shall I make for
+ dinner tonight[FD0F:3D]~
+"The boys at our [c2]dojo[c0]
+ are all such big eaters.
+>3899c61324
+"Singers are called by
+ different names depending
+ on their ability.~
+"Those with the most basic
+ ability are [c1]<Bards>[c0].~
+"Better than them are
+ [c1]<Singers>[c0].~
+"And the very best among
+ Singers are called
+ [c1]<Song Masters>[c0]!!
+>550d6428b3
+"[c2]Tiris Noah[c0] is the center
+ of this land's <politics>
+ and <economy>!~
+"You can reach [c2]Tiris Noah[c0]
+ from here by ship.
+>5115631c50
+"This is the [c2]ship dock[c0].
+>f5a38f38f4
+"Sir! You can't just
+ walk in here!!
+>f41a0e88c1
+"You have [c2][[FD10:95]][c0]!
+ Then have a safe trip!!
+>0a865a1dd1
+"You can't leave town
+ without permission.
+>95347319d3
+"Did you go pray at the
+ [c2]Temple[c0]?~
+"Our [c2]Temple[c0] honors
+ [c1]Amsia[c0], goddess of
+ the sky.~
+"[c1]Amsia[c0] is the guardian
+ goddess of [c2]Limerick[c0].
+>51f314f80a
+"I'll become a Singer and
+ go home for sure!!
+>74a94d8aa6
+"People who become Singers
+ spread across the world
+ and use their power to
+ help others.
+>1fb712184a
+*SCHEDULE*
+ Morning practice begins
+ tomorrow!!
+>a6092e8084
+[c1]Denton[c0][n]
+>85b82f0e48
+"Hey! ^0, how are you?
+>da9e80c165
+"Take care! Look after
+ ^7 for me!!

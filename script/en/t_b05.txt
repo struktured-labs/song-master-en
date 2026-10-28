@@ -1,0 +1,322 @@
+>ecf163becf
+%{7}:"Hey! ^0!!~
+"[FD0F:41] What's wrong?
+ You look down.~[0C]%{0}:"Actually, I have to go on
+ a training journey[FD0F:3D]~
+%{7}:"What! So you got your
+ Singer title?~
+%{0}:"No... I probably just
+ cause everyone too much
+ trouble[FD0F:3D]~
+"Even Grandfather has given
+ up on me...~[0C]%{7}:"What are you saying, ^0!!
+ [c1]Robinton[c0] isn't that
+ kind of man!~
+"And you know that better
+ than anyone!!~
+%{0}:"^7[FD0F:3D]~
+%{7}:"Besides, unlike me, you
+ have a Singer's talent.
+ Everyone admits it.~
+"I went against my clan's
+ hopes, gave up the Singer's
+ path and chose the sword[FD0F:3D]~
+"Now I can't even go back
+ home.~
+"But someday I'll become a
+ knight of the [c2]Holy Knights[c0]
+ of [c2]Marsha[c0] and return
+ home!!~
+"So I don't want you to end
+ up like me! Become a Singer,
+ no matter what!!~
+%{0}:"...All right, ^7.~
+"I'll become a Singer, I
+ promise!!~[0C]%Denton:"That's the spirit, ^0!!
+ Never forget that resolve.~
+"By the way, ^7! Why don't
+ you go train as well?~
+%{7}:"What?! Really!?~[0C]%Denton:"What do you say, ^0?
+ Would you take ^7 along on
+ your journey?~
+"He's still green, but it's
+ about time he went on a
+ warrior's training trip.~[0C]%{0}:"Yes! Please, I'd like that!~
+%{7}:"That's what I wanted to
+ hear!!~
+"All right! 
+>9e2aec7968
+%{7}:"
+>2321cbd5aa
+See you later at [c1]Robinton[c0]'s
+ place!!
+>c2bd5365dd
+"Out of the way! You're
+ interrupting practice!!
+>fcc925aac9
+"Yaah! Toh!
+>d7510ba4cf
+"Don't talk to me, it
+ breaks my focus!!
+>7b8d54ac6d
+"I hear ^7 once aimed to
+ become a Singer.
+>ccb5b197c9
+"Teyaah! Chest!!
+>5b9580586e
+"Woryaah! It's dangerous,
+ stay back!!
+>16422dfe9e
+"[c2]Tiris[c0] used to be the
+ capital, you know.~
+"The capital now is
+ [c2]Tiris Noah[c0]!!
+>3d62883a87
+"There are hardly any
+ [c1]Song Masters[c0] lately.~
+"You need a special talent
+ to become one, after all.
+>df9ac3adf3
+%Marsha:"
+>d71b9d240d
+Oh! Welcome, ^0!!~
+"[FD0F:41] What!? You're
+ going on a journey!?~
+"Hmm, so that's how it is...
+ Then be sure to stop by
+ before you leave.
+>c9d039ba70
+Heading out, ^0?
+ Then take this with you.~
+>5a58033370
+[0C]"This belonged to my late
+ husband.~
+"He'd be happy to know you
+ were using it[FD0F:3D]~
+"
+>c5f6bf5c25
+^0! Take care out there!!
+>abd6e03224
+*NOTICE*
+ Promotion exams will be
+ held!!
+>f0b0b4580f
+*THIS MONTH'S GOAL*
+ Keep things neat and tidy
+>5ed7af20b1
+%Teacher:"I heard, ^0.~
+"I'm sure you will make a
+ fine [c1]Singer[c0]. Do your
+ best.
+>397e691250
+"^0! I hear you're going on
+ a journey!?~
+"Take care!
+>1d1254d710
+"I heard.~
+"Everyone recognizes your
+ power. Be sure to come
+ back.
+>e10a234412
+"It'll be lonely without
+ you[FD0F:3D]
+>1b7da6889f
+"Training or not, I envy
+ you getting to travel.~
+"Normally you can't leave
+ [c2]Tiris[c0] until you
+ graduate.
+>9ca37ffaf9
+"Take care on your way!!
+>3b93d95e2a
+%Teacher:"This academy was built
+ by [c1]St. Kane[c0], who
+ founded [c2]Limerick[c0].
+>1a215c1abd
+"Please don't disturb the
+ lesson!
+>be43c37e64
+"I want to move up to the
+ next class soon too.
+>20a881af23
+"Hey! Hey! Did you know
+ Singers can defeat evil
+ spirits with [c2]Holy Songs[c0]?
+>2cdee25797
+"I want to become a Singer
+ and heal people's
+ illnesses.
+>8f0d9869ed
+"They say [c2]Holy Songs[c0] are
+ <songs> holding divine
+ power, given to [c1]St. Kane[c0]
+ by the gods.
+>7d60e288d0
+"If you master the [c2]Holy
+ Songs[c0], you've got nothing
+ to fear.
+>732cc37d45
+%Robinton:"
+>f538043f2e
+Come back when you are
+ ready to set out.
+>3d365c0a68
+^0, are you ready?~
+>d0778f74a1
+[n]"Oh!? Why, Lord ^1 is with
+ you!! It has been a long
+ time, Lord ^1.~[0C]%{1}:"Long time no see,
+ [c1]Master Robinton[c0].~[0C]%Robinton:"^0! This is Lord ^1,
+ who will travel with you!!~
+"Lord ^1 is the Elf King who
+ leads the fairies.~[0C]
+>e96219cddc
+%{1}:"Pleased to meet you, ^0.~[0C]
+>4679da0e38
+%Robinton:"And before you go, there
+ is something I must tell
+ you[FD0F:3D]~
+"I raised you as my
+ grandson, but in truth you
+ are not my grandson[FD0F:3D]~
+>ef362a2058
+[0C]%{0}:
+>87fad2f4bb
+"...!?~
+>6fb74f0c4a
+[0C]%Robinton:"It was during the war over
+ ten years ago, when Lord ^1
+ and I traveled the [c2]Central
+ Plains[c0] to slay monsters.~
+"Near [c2]Kulea[c0], in a village
+ attacked by monsters, I
+ found you as a baby...~
+"We found no other
+ survivors[FD0F:3D]~[0C]%{0}:"Th-then what about my
+ parents!?~[0C]%{1}:"A couple lay dead as if
+ shielding the cradle.
+ Most likely[FD0F:3D]~
+%{0}:"No....
+>911996d18d
+~[0C]%Robinton:"^0! Be strong!!~
+"We may not share blood,
+ but I think of you as my
+ true grandson, no, more
+ than a son! Come back to
+ me, no matter what!!~
+
+>133c35c416
+%{0}:"Grandfather[FD0F:3D]~
+"I understand. I'll come
+ back a Singer, I promise!!~
+%Robinton:"Oh! ^0!!~
+"I believe in you! Now,
+ take these.~
+"This is a [c2]<License>[c0],
+ recognizing you as a
+ provisional Singer, and
+ [c2][[FD10:90]][c0].~
+"If you are in trouble,
+ the [c2]Singer Guild[c0] will
+ help you. Take them.~
+>43ddc2b94e
+[0C]%{0}:"Thank you.~[0C]%Robinton:"And this was left in your
+ cradle with you. I return
+ it to you now.~
+>f32f8e9970
+[n]"It may be the only clue to
+ the mystery of your birth.
+ Don't lose it.~
+%{1}:"But we have no idea at all
+ whose hands made it[FD0F:3D]
+>b6f99ae23c
+~
+"As far as I can tell, it
+ isn't of this world[FD0F:3D]~
+"Still, we may learn
+ something on this journey,
+ and I will help however I
+ can, ^0.~[0C]%{0}:"Thank you, Lord ^1.~
+%{1}:"Just ^1 is fine! We [c1]Elves[c0]
+ don't care for titles.~
+"Also, remember that by our
+ laws I am bound by a
+ <spirit power> oath.~[0C]%{7}:"Excuse me!!
+>db4db842b8
+%{7}:"[c1]Robinton[c0], it's been too
+ long.~
+%Robinton:"Oh! If it isn't ^7!!
+ You look well.~
+"Well, ^7! Have you decided
+ to go home?~
+%{7}:"Thank you for your
+ concern.~
+"But I won't go back until
+ I'm satisfied with myself.~
+"And I've decided to go on
+ a training journey with ^0.~[0C]%Robinton:"Is that so...
+>67abdf0313
+ ^0! You have a fine friend!!~
+>d72e75f0a4
+[0C]%{1}:"By the way, [c1]Master Robinton[c0],
+ about where ^8 went[FD0F:3D]~
+%Robinton:"Oh! That's right!! From what
+ I've found, ^8 seems to have
+ returned to his birthplace,
+ [c2]Barnicia[c0].~
+"I've arranged a ship to
+ [c2]Tiris Noah[c0]. Cross to
+ [c2]Tiris Noah[c0] first, then
+ head for [c2]Barnicia[c0].~
+>7f0ed36063
+[n]%{1}:"Understood! Then let us be
+ off, ^0.~[0C]%{0}:"Take care, Grandfather[FD0F:3D]~
+>52242732e2
+[0C]%Robinton:"Lord ^1, ^7! Please look
+ after ^0!!~[0C]"
+>35d7d98512
+^0! Come back to me, no
+ matter what!!
+>3c791e7b7f
+[c1]Priest[c0][n]
+>fd3e867840
+"^0, you are setting out on
+ your journey.~
+"
+>39699162a3
+Then come back to me later.
+>7d034be721
+This is [c2][[FD10:8F]][c0], which
+ [c1]Master Robinton[c0] asked me
+ to give you.~
+>dff2746b77
+[0C]"It will protect you from
+ evil powers.~
+"But do not rely on it too
+ much. In the end, it all
+ depends on your own heart.~
+"Also, it loses its power in
+ other countries, so go to
+ each country's [c2]Temple[c0] and
+ receive a <Charm>.~[0C]
+>ad75366889
+"May the good winds of
+ [c1]Amsia[c0] blow for you[FD0F:3D]
+>40cde41361
+"You are [c1][name0] Ferm[c0], yes?~[0C]%{0}:"...Yes, I am[FD0F:3D]~[0C]"My name is ^1.~
+
+>9ebe4302af
+"[FD0F:41]
+ Is this your first time
+ seeing an <Elf>?~
+%{0}:"Eh! Ah... yes!! But how
+ do you know me...?~
+%{1}:"I met you once when you
+ were small... and you
+ still have that look.~
+"I'm on my way to [c1]Master
+ Robinton[c0]. Would you like to
+ come along?~
+%{0}:"Yes! I was just heading
+ back myself.~
+%{1}:"Then let us go together.

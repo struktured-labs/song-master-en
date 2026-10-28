@@ -17,10 +17,12 @@ import re
 def txt2tags(body):
     out=[]
     for i,l in enumerate(body):
-        m=re.match(r'(.*?)~?@([^:]+):(.*)$',l)
-        if m: t=m.group(1)+'[wait]'+m.group(2)+'[tab][n]'+m.group(3)
-        else: t=l
-        if i and not t.startswith('[wait]'): t='[n]'+t
+        l=re.sub(r'\^(\d)',r'[c1][name\1][c0]',l)
+        l=re.sub(r'%([^:%"\[]+|\{\d\}):',r'[c1]\1[c0][n]',l)
+        t=re.sub(r'~?@([^:@"\[]+|\{\d\}):',r'[wait]\1[tab][n]',l)
+        if t.startswith('+'): t=t[1:]
+        elif i and t.startswith(' ') and not out[-1].endswith(']'): t=' '+t.lstrip()
+        elif i and t.startswith(' '): t=' '+t.lstrip() if out[-1].endswith('[c0]') else '[n]'+t
         elif i: t='[n]'+t
         out.append(t)
     s=''.join(out)
@@ -30,8 +32,8 @@ for f in sorted(glob.glob(ROOT + '/script/en/t_*.txt')):
     cur=None; body=[]
     for l in open(f).read().split('\n')+['>END']:
         if l.startswith('>'):
-            if cur and body: EN[cur]={'en':txt2tags(body)}
-            cur=l[1:].strip(); body=[]
+            if cur and body: EN[cur]={'en':txt2tags(body),'wrap':not nw}
+            h=l[1:].split(); cur=h[0] if h else None; nw=('!' in h) or ('nowrap' in f); body=[]
         elif l.strip() or body: body.append(l.rstrip())
     while 0: pass
 def lo(bank, a): return (bank & 0x7F) * 0x8000 + (a & 0x7FFF)
