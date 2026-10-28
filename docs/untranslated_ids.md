@@ -1,0 +1,184 @@
+# Untranslated script ids (172 unique, 418 uses)
+Generated from a dump-vs-translation diff; every id was reviewed. None of them is real untranslated dialogue.
+
+## Staff credits (ASCII in ROM, render natively): 18 ids, 18 uses
+- 4dae0a2fcf b01_026 x1 `　　　EXECUTIVE　PRODUCER[n][n][n]　SEIICHI　YANO　　<YANOMAN>[END]`
+- 08bfa70435 b01_027 x1 `　　　　　　　MANAGEMENT[n][n][n]　RYOSUKE　ASOH　　<YANOMAN>[n][n]　TAK`
+- b5473a5ca3 b01_028 x1 `　　　　　　　　PRODUCER[n][n][n]　　AKIHIRO　HINO　　　　　<JAM>[n][n]KAZUT`
+- 47903784b2 b01_029 x1 `　　　　　ORIGINAL　STORY[n][n][n]KAZUTOYO　ISHII　<YANOMAN>[END]`
+- afb9411295 b01_030 x1 `　　　　SCENARIO　WRITER[n][n][n]　　　　　S　A　Y　　　<JAM>[END]`
+- c2c4cb556e b01_031 x1 `　　　　　　GAME　DESIGN[n][n][n]　　　　　A　K　I　　　<JAM>[END]`
+- 38c0f80afb b01_032 x1 `　　　　　FIELD　PROGRAM[n][n][n]　　　SHOGO　OHKUBO　　<JAM>[END]`
+- ee174dd5d7 b01_033 x1 `　　　　　BATTLE　PROGRAM[n][n][n]　　　ROWDY　HERDY　　　<JAM>[n][n]　　　　`
+- 5e5208ed44 b01_034 x1 `　　　　　MUSIC　PROGRAM[n][n][n]　TSUYOSHI　TANAKA　　<JAM>[END]`
+- 3491f0e48f b01_035 x1 `　　　　FIELD　MAP　DESIGN[n][n][n]　　STUDIO　MANBOW　　<JAM>[END]`
+- 70b4da739a b01_036 x1 `　　　　CHARACTER　DESIGN[n][n][n]　　　TOSHIHIRO　NUKIYAMA[END]`
+- c660f00816 b01_037 x1 `　　　　　GRAPHIC　DESIGN[n][n][n]　M　TAKAHASHI　MK-2　　<JAM>[n][n]　　`
+- e11cc41120 b01_038 x1 `[n]SUMIKAZU　KAMISHIRO　<JAM>[n][n]　　NAOKO　SAKURADA　　　<JAM>[n]`
+- 7841b5d0ff b01_039 x1 `[n][n]　TETSUYA　TANIYAMA　　<JAM>[n][n]　MITSURU　TAKAHASHI　<JAM>`
+- a824f3bb74 b01_040 x1 `　　　　　MUSIC　COMPOSER[n][n][n]　TSUYOSHI　TANAKA　　　<JAM>[n][n]　　`
+- ef2ed4a8f4 b01_041 x1 `　　　　　SPECIAL　THANKS[n][n][n]　　　TETUYA　MANAKA　<JAM>[n][n]　　　　`
+- d876bb6409 b01_042 x1 `[n][n]　　　　<PIEROT　PROJECT>[n][n]　　　SAWADA　　/　YOSHIOKA[END]`
+- 2ce5d00963 b01_043 x1 `[n][n]　　　　　©1992　YANOMAN[n][n]　©1992　JAPAN　ART　MEDIA[END]`
+
+## Name-entry pages / FD13 op (replaced in place via raw_inplace.json): 4 ids, 4 uses
+- 1283ae38d1 b02_002 x1 `[FD13][END]`
+- 8ea618846d b02_012 x1 `ア　イ　ウ　エ　オ　　ワ　ヲ　ン　・　-[n]カ　キ　ク　ケ　コ　　ガ　ギ　グ　ゲ　ゴ[n]サ　シ　ス　セ　ソ　　ザ　ジ`
+- 4cf4ae02ed b02_013 x1 `あ　い　う　え　お　　わ　を　ん　・　-[n]か　き　く　け　こ　　が　ぎ　ぐ　げ　ご[n]さ　し　す　せ　そ　　ざ　じ`
+- fffd96194c b02_014 x1 `A　B　C　D　E　　=　/　・　-[n]F　G　H　I　J[n]K　L　M　N　O[n]P　Q　R　S　T[n]U　V`
+
+## Control codes / lone opening quote only (no text): 9 ids, 158 uses
+- 85e53271e1 b05_007 x62 `[END]`
+- 89b2f4149e b07_012 x41 `「[END]`
+- 4e41421383 b07_015 x4 `[0C]「[END]`
+- 2490e3d5e0 b08_005 x8 `[0C][END]`
+- b68542373c b10_079 x31 `[LINE]`
+- 3acff96a27 b10_080 x1 `[wait][n][END]`
+- a715334409 b10_136 x1 `[wait][0C][END]`
+- bb731afbac b17_033 x4 `[wait][END]`
+- aec2f4f283 b17_048 x6 `[pause][pause][pause][pause][END]`
+
+## Term-list references only (FD0F; English comes from lists.json terms): 5 ids, 37 uses
+- 4c1768c474 b07_000 x5 `[FD0F:2F][wait][n][FD0F:30][n]　[FD0F:31][LINE]`
+- 7a6c902928 b07_002 x7 `[FD0F:32][LINE]`
+- 9f1ca07987 b07_011 x19 `[FD0F:35][LINE]`
+- 9228bf1e74 b07_020 x5 `[0C][FD0F:35][LINE]`
+- f77c3b54ec b74_025 x1 `[FD0F:41][LINE]`
+
+## Data junk (bytes parsed as text: tile ids, zero runs, char tables): 136 ids, 201 uses
+- fa173e09b7 b07_001 x1 `「!23456789AB[END]`
+- 338af53980 b07_004 x1 `ヲァィ[END]`
+- da0a748e0b b07_007 x1 `うてみを[END]`
+- 92842875ce b07_010 x1 `カナニヤ[END]`
+- 9bcc38f3e7 b08_032 x1 `ねん[END]`
+- 91e2ca0583 b09_006 x1 `Y1[END]`
+- f06375c0d4 b09_012 x6 `あくおうき[END]`
+- c7f86550f9 b09_016 x1 `あくえけか[END]`
+- 503666c960 b09_052 x2 `あく[END]`
+- 035367a406 b09_070 x1 `!ね[END]`
+- c69de01c72 b09_077 x1 `あくい[END]`
+- aa62a02e7f b09_080 x1 `えーああああえ、[END]`
+- 601e9505e6 b10_018 x1 `くは[END]`
+- 83b9f13f40 b10_023 x1 `ヲィュ[END]`
+- 9aef9e399c b10_026 x1 `あいうてと[END]`
+- b2a179813e b10_028 x2 `いえおかきくけさしなに[END]`
+- 019d7f59d2 b10_033 x1 `ナニヤ[END]`
+- d2df8bdc4a b10_035 x1 `ナニヌネノハフヘホヤユヨラルレ[END]`
+- ab2e10b8f8 b10_037 x1 `ナニヌネノハフヘホミヤユヨラルレ[END]`
+- e6830861e3 b10_040 x1 `ヲンュ3[END]`
+- bcc22f4728 b10_043 x1 `みむをん[END]`
+- ab450ce414 b10_045 x1 `もやゆよらるをんゃぃゅぇアイ[END]`
+- e30c6f159b b10_047 x1 `もやゆよらるれをんゃぃゅぇょアイ[END]`
+- 8b3a91a50d b10_050 x1 `カキ[END]`
+- c5af37fb2d b10_052 x1 `カキクケコサシスソタチ[END]`
+- c9ae1cbc55 b10_054 x1 `カキクケコサシスソタチツト[END]`
+- 9fd38bca3e b10_058 x5 `「▶!?3456789A[END]`
+- 3f9aec95f4 b10_062 x1 `ちねなは[END]`
+- 30564da372 b10_094 x1 `しすせそたち[END]`
+- 790fc11dd3 b10_134 x1 `みん[END]`
+- 510c49fa57 b10_135 x1 `みね[END]`
+- 5a6eeec46e b12_011 x17 `あいく[END]`
+- ce14e11cd8 b12_024 x2 `あい[END]`
+- 85da48d88f b14_010 x1 `えせちちちかかモヤヤ[END]`
+- 0ac67ce36e b14_019 x1 `あ　ね[END]`
+- bcf38e99ca b14_020 x1 `い　ね[END]`
+- 7faa63da3b b14_021 x1 `あいか[END]`
+- a8ea1b9896 b15_003 x1 `あ　かえか[END]`
+- f4694e4168 b15_008 x1 `く　いえい[END]`
+- 8f49e5f7dd b16_053 x1 `あ　を[END]`
+- 0b355383fa b16_056 x1 `あ　ウ[END]`
+- 43853677dc b17_044 x1 `くあい[END]`
+- 7d4aed0818 b17_052 x2 `い[END]`
+- cf12f6f958 b19_001 x1 `あいうえおてとにみむめもをんゃ[END]`
+- 63b399e602 b19_004 x1 `カキクケニヌヤユ[END]`
+- 8d94f9f0a0 b21_000 x4 `あいくか[END]`
+- a2cc4dae9b b21_023 x1 `F　　　　　　洞[END]`
+- 23a7e1c0cd b21_037 x1 `あ　2[END]`
+- b43907539d b21_042 x1 `い　3[END]`
+- 69bd25834e b21_043 x1 `く　4[END]`
+- f30a87b25a b22_014 x1 `え[END]`
+- cf48275e5f b23_009 x1 `まぃ[END]`
+- f16e299f4f b25_022 x2 `ヲンィゥュ3[END]`
+- 717256c43e b25_025 x1 `あいえおかとなにみむめもやをんゃ[END]`
+- 2f0bee410f b25_028 x2 `カキクケコナニヌネヤユ[END]`
+- 1ce2770dfe b25_048 x1 `むゅ[END]`
+- 7b5f49c792 b25_049 x1 `むゅかぇ[END]`
+- 90165ef8f2 b28_002 x1 `にク[END]`
+- 314961bfe8 b28_003 x1 `にクねケ[END]`
+- de3ad4c6ab b28_004 x1 `ぬクねケ[END]`
+- 4ff9f926d3 b30_001 x1 `いえおかとなにみむめもやをんゃ[END]`
+- 5bd2422910 b30_003 x1 `おかきくなのめもやゆよゃぃゅ[END]`
+- 9a92578d6e b30_008 x1 `キクケコサシスナヌネノハヤユヨル[END]`
+- ca4efc06bd b30_019 x1 `みサ[END]`
+- 3895de47d0 b30_020 x1 `みサかコ[END]`
+- afb22ba045 b30_022 x8 `ヲンァィゥェォャュ3[END]`
+- 2df9e34f04 b30_026 x3 `「▶▼!?03456789A[END]`
+- 063fe62dd9 b31_011 x2 `あおくかけ[END]`
+- bdded4bd64 b31_016 x1 `お　　　　　　奴世話[END]`
+- 5d73c69c99 b32_003 x6 `コサシス[END]`
+- b03b282864 b34_012 x1 `いえおかきとなにめもやをんゃ[END]`
+- 3944c05517 b34_015 x1 `おかきくなにめもやゆよんゃぃ[END]`
+- d4e6c77dcf b34_023 x1 `カキクケコサナニヌネノユル[END]`
+- ff2cf25c40 b34_025 x1 `カキクケコサシナニヌネノハユヨル[END]`
+- 7a649a1187 b38_005 x1 `めネ[END]`
+- 11909cc388 b38_031 x1 `ルルレロロ[END]`
+- 94fe41b6a5 b38_032 x1 `ルレ[END]`
+- d806b53a33 b38_033 x1 `ルレレレロ[END]`
+- 8a35a6fa67 b38_034 x1 `ワワワヲヲ[END]`
+- c7a9ad03ae b38_035 x1 `ワワヲヲヲヲヲ[END]`
+- 996862051f b38_036 x1 `ワヲンンン[END]`
+- 026a87690d b40_001 x2 `あいうえおかきてとなに[END]`
+- 6761681ec2 b40_003 x1 `あいうえおかきくさてとなに[END]`
+- c88d2d6530 b40_006 x1 `カキクケコサ[END]`
+- 31ac79d201 b40_008 x1 `カキクケコサシス[END]`
+- 6b9a9cc9cf b40_012 x2 `あくう[END]`
+- 9e6c2af56a b40_029 x1 `みむめもやゆをんゃ[END]`
+- 7599d8c235 b40_031 x1 `みむめもやゆよをんゃぃゅア[END]`
+- 1df5df8a6b b40_034 x2 `ナニヌネノヤユル[END]`
+- d3552cb141 b40_036 x1 `ナニヌネノハヤユヨル[END]`
+- d2f3480b7f b40_057 x1 `なハ[END]`
+- 5eee12c356 b40_058 x1 `なハかノ[END]`
+- b7a0849d08 b41_011 x1 `え{FC}あああいえ神[END]`
+- 44f64114ec b41_014 x2 `いあく[END]`
+- 82e2ca1bfe b41_038 x3 `ヘホ[END]`
+- afaa5da1ea b44_003 x1 `ヤユ[END]`
+- ca809af4d1 b44_013 x1 `カキクケコサシ[END]`
+- 033c997d9a b44_023 x1 `みむめもやゆよをんゃぃ[END]`
+- 8918e9b78c b44_063 x1 `お　　　　　　罪[END]`
+- 2eb97f5cf4 b46_001 x1 `やに[END]`
+- 94f4625ca4 b46_002 x1 `ゥ▶[END]`
+- b19be37d3b b48_007 x1 `きさよぇアサシスソホヨレ[END]`
+- eaec2650a0 b49_003 x1 `E人あああとあ悪リリリリ[END]`
+- f3266b3051 b49_014 x1 `D人あああとあリリリリリリリリ[END]`
+- eee383aa85 b49_015 x1 `D人あああとあリリリリリリ[END]`
+- 0eacce503f b49_016 x1 `D人あああとあリリリリ[END]`
+- ad0d67f68e b53_010 x1 `きくさしやゆよらぃゅぇイ[END]`
+- 150dae8fe3 b53_013 x1 `サシスソタネノハヘホユヨルレ[END]`
+- 761f277631 b54_016 x6 `あいくかけ[END]`
+- 46a3be93b7 b55_009 x1 `ッ*[END]`
+- 2b218d4fdb b55_024 x1 `かあいくけ[END]`
+- 3536dff431 b55_028 x1 `Dせあああかかル[END]`
+- 92e187f786 b56_013 x1 `お　　　　　　女[END]`
+- 2ac31ab9a5 b56_020 x1 `お　　　　　　死少子[END]`
+- f956f46a1a b65_013 x1 `え』あああくかM[END]`
+- 5d2b9fe458 b65_022 x1 `あくおう[END]`
+- 98af8c3a58 b66_007 x1 `くけさしらるれゅぇょアイ[END]`
+- 97844f57b9 b66_010 x1 `スソタチツトノハフヘホミヨラルレ[END]`
+- 36eb12ff5d b66_014 x2 `▶▼▲?0123456789AB[END]`
+- 6458de3611 b70_005 x1 `ヲンァィゥェォャュ[END]`
+- be4f9c6c61 b71_003 x2 `あくおきこ[END]`
+- 4c14f7680b b72_001 x1 `イい[END]`
+- 226f02b894 b72_003 x3 `D剣あああとうユユユユユユ[END]`
+- d1b82b456d b72_005 x2 `D剣あああとうユユユユユユユユ[END]`
+- 64996d51d7 b74_003 x1 `D剣あああとうユユユユユユユ[END]`
+- 4bb9f65f34 b74_008 x1 `D剣あああうう店店店[END]`
+- bb8422aa19 b74_011 x1 `D剣あああうう店店店店[END]`
+- 6bb0c6df08 b74_017 x1 `う仲中ああといラヨヨヨヨヨヨ[END]`
+- 2c3078aac8 b74_033 x1 `っあ[END]`
+- 08666510d8 b74_035 x1 `D剣あああとうユユ[END]`
+- a4e5e21ae9 b75_001 x1 `D中あああといヨヨヨヨヨヨヨヨ[END]`
+- b352b9b3ea b75_006 x1 `D中あああとあヨヨヨヨヨヨヨヨ[END]`
+- ef8171528f b75_014 x1 `お　　　　　　計[END]`
+- 0fca140c8f b75_020 x1 `か　　　　　　音[END]`
+- 6b1bfbfb8c b77_015 x1 `あくうおき[END]`
+- dcec50453a b77_018 x1 `お　　　　　　合[END]`

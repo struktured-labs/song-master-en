@@ -139,3 +139,10 @@ Fixed: lowercase "p" redrawn with a rounded bowl + descender (was a square P-lik
 - tools/py/prologue.py renders it (DejaVu Sans 11px, 1bpp) to asm/prologue.bin; stored raw (header bit15=0) at $3A:8000; the loader is repointed to bank $3A idx 0.
 - Viewed in Mesen: full crawl from first line to "the Song Master." scrolls correctly over the landscape.
 - Names: ティリス = Tiris (the island capital; town is Tiris Noah), ケイン王 = King Kane, 聖詩歌 = Holy Songs, 光の神 = God of Light, 聖戦 = Holy War.
+
+## Session 2026-10-28 (late)
+- Battle Item list VIEWED (menu-aware harness): Nitron, HiNitron, Pavlov, Darts, PsnDarts, FireDart, BombDart, FlshDart with counts. Counts there were affected by a test poke at 7E:0BDE, so the odd values (x28, x21) are test artifacts; "x02" vs "x 2" spacing not compared against JP yet (doubtful).
+- Ailments: the status screen shows ailments as icons (no text). The only ailment *text* is the shrine cure menu (02:B49D, names via table 02:B512, prices $78-$7A); not reached on screen. A brute-force poke of every byte of Yury's battle struct ($1000-$102C) changed only HP, so the battle ailment byte is elsewhere.
+- Script interpreter: op dispatch 02:8074 jmp ($8077,x). Story flags: base 7E:0C14, MSB-first bits (flag n = byte n/8, mask $80>>(n&7)); test at 00:BEF2. Op 0B n = set flag?, 0D n L = goto L if flag n clear.
+- Gate: b05 label $32 "You can't leave town without permission" (label $33 shows it). Flag 6 (7E:0C14 mask $02) is set only in b07 when the player is handed a pass to show the sailors, so the way out is the harbor. Not yet reached: scripted walking found the east bridge guard (different line: "Sir! You can't just walk in here"), not the harbor.
+- Remaining 418 untranslated string uses (172 ids) all classified in docs/untranslated_ids.md: credits 18, name-entry 4, control-only 158 uses, term-list refs 37 uses (English via lists.json), data junk 136 ids / 201 uses. No real dialogue left untranslated.
